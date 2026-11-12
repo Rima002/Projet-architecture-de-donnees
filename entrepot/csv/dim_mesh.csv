@@ -1,0 +1,3952 @@
+﻿id_mesh;ui;libelle;est_check_tag
+1;D000726;Androgen Antagonists;0
+2;D018931;Antineoplastic Agents, Hormonal;0
+3;D017326;Clinical Trials, Phase III as Topic;0
+4;D006801;Humans;1
+5;D008297;Male;1
+6;D011471;Prostatic Neoplasms;0
+7;D016032;Randomized Controlled Trials as Topic;0
+8;D000328;Adult;1
+9;D001943;Breast Neoplasms;0
+10;D015179;Colorectal Neoplasms;0
+11;D055088;Early Detection of Cancer;0
+12;D005260;Female;1
+13;D005602;France;0
+14;D058006;General Practice;0
+15;D058005;General Practitioners;0
+16;D019983;Guideline Adherence;0
+17;D008175;Lung Neoplasms;0
+18;D008545;Melanoma;0
+19;D008875;Middle Aged;1
+20;D008887;Military Medicine;0
+21;D009369;Neoplasms;0
+22;D010819;Physician's Role;0
+23;D017410;Practice Guidelines as Topic;0
+24;D011446;Prospective Studies;0
+25;D011795;Surveys and Questionnaires;0
+26;D013736;Testicular Neoplasms;0
+27;D013964;Thyroid Neoplasms;0
+28;D014594;Uterine Neoplasms;0
+29;D055815;Young Adult;1
+30;D014408;Biomarkers, Tumor;0
+31;D001706;Biopsy;0
+32;D007610;Kallikreins;0
+33;D011237;Predictive Value of Tests;0
+34;D017430;Prostate-Specific Antigen;0
+35;D018570;Risk Assessment;0
+36;D012680;Sensitivity and Specificity;0
+37;D000368;Aged;1
+38;D002318;Cardiovascular Diseases;0
+39;D002423;Cause of Death;0
+40;D003069;Coffee;0
+41;D004327;Drinking Behavior;0
+42;D005500;Follow-Up Studies;0
+43;D016016;Proportional Hazards Models;0
+44;D012307;Risk Factors;0
+45;D015996;Survival Rate;0
+46;D014481;United States;0
+47;D018450;Disease Progression;0
+48;D015972;Gene Expression Regulation, Neoplastic;0
+49;D005819;Genetic Markers;0
+50;D000951;Antigens, Neoplasm;0
+51;D051549;Glutathione S-Transferase pi;0
+52;D055432;Metabolomics;0
+53;D064307;Microbiota;0
+54;D011379;Prognosis;0
+55;D012697;Serine Endopeptidases;0
+56;D015534;Trans-Activators;0
+57;D014486;United States Food and Drug Administration;0
+58;D000818;Animals;1
+59;D000972;Antineoplastic Agents, Phytogenic;0
+60;D017209;Apoptosis;0
+61;D045744;Cell Line, Tumor;0
+62;D047188;Chalcones;0
+63;D015394;Molecular Structure;0
+64;D016328;NF-kappa B;0
+65;D015398;Signal Transduction;0
+66;D000369;Aged, 80 and over;1
+67;D003287;Contrast Media;0
+68;D038524;Diffusion Magnetic Resonance Imaging;0
+69;D060787;Neoplasm Grading;0
+70;D009361;Neoplasm Invasiveness;0
+71;D009364;Neoplasm Recurrence, Local;0
+72;D011468;Prostatectomy;0
+73;D002460;Cell Line;0
+74;D049109;Cell Proliferation;0
+75;D015536;Down-Regulation;0
+76;D004967;Estrogens;0
+77;D011467;Prostate;0
+78;D019009;Proto-Oncogene Proteins c-kit;0
+79;D051381;Rats;1
+80;D017208;Rats, Wistar;0
+81;D019089;Stem Cell Factor;0
+82;D019943;Amino Acid Substitution;0
+83;D063646;Carcinogenesis;0
+84;D049452;Green Fluorescent Proteins;0
+85;D057809;HEK293 Cells;0
+86;D008819;Mice, Nude;0
+87;D009154;Mutation;0
+88;D009363;Neoplasm Proteins;0
+89;D009368;Neoplasm Transplantation;0
+90;D010088;Oxidoreductases;0
+91;D063151;Polycomb Repressive Complex 2;0
+92;D011897;Random Allocation;0
+93;D011993;Recombinant Fusion Proteins;0
+94;D058207;Sumoylation;0
+95;D047368;Tumor Burden;0
+96;D025521;Tumor Suppressor Proteins;0
+97;D012189;Retrospective Studies;0
+98;D016588;Anticarcinogenic Agents;0
+99;D051546;Cyclooxygenase 2;0
+100;D019388;Cytochrome P-450 CYP1A2;0
+101;D003849;Deoxyguanosine;0
+102;D004032;Diet;0
+103;D004195;Disease Models, Animal;0
+104;D007093;Imidazoles;0
+105;D019394;Ki-67 Antigen;0
+106;D008822;Mice, Transgenic;0
+107;D051267;NF-E2-Related Factor 2;0
+108;D051059;PTEN Phosphohydrolase;0
+109;D010766;Phosphorylation;0
+110;D019048;Prostatic Intraepithelial Neoplasia;0
+111;D051057;Proto-Oncogene Proteins c-akt;0
+112;D024505;Tocopherols;0
+113;D014443;Tyrosine;0
+114;D007091;Image Processing, Computer-Assisted;0
+115;D000069550;Machine Learning;0
+116;D008279;Magnetic Resonance Imaging;0
+117;D017024;Chemotherapy, Adjuvant;0
+118;D016001;Confidence Intervals;0
+119;D018572;Disease-Free Survival;0
+120;D004961;Estramustine;0
+121;D017273;Goserelin;0
+122;D008197;Lymph Node Excision;0
+123;D015182;Lymphatic Irradiation;0
+124;D015999;Multivariate Analysis;0
+125;D020360;Neoadjuvant Therapy;0
+126;D009367;Neoplasm Staging;0
+127;D043823;Taxoids;0
+128;D016022;Case-Control Studies;0
+129;D004311;Double-Blind Method;0
+130;D005838;Genotype;0
+131;D010281;Parathyroid Hormone;0
+132;D010919;Placebos;0
+133;D020641;Polymorphism, Single Nucleotide;0
+134;D018167;Receptors, Calcitriol;0
+135;D047488;Retinoid X Receptors;0
+136;D014807;Vitamin D;0
+137;D044383;African Continental Ancestry Group;0
+138;D005006;Ethnic Groups;0
+139;D005239;Fear;0
+140;D006113;Great Britain;0
+141;D006301;Health Services Needs and Demand;0
+142;D008913;Minority Groups;0
+143;D000067269;Diet, Vegan;0
+144;D044465;European Continental Ancestry Group;0
+145;D005510;Food Habits;0
+146;D015994;Incidence;0
+147;D000066988;Vegetarians;0
+148;D000046;Academic Medical Centers;0
+149;D002288;Adenocarcinoma, Mucinous;0
+150;D005845;Georgia;0
+151;D007150;Immunohistochemistry;0
+152;D007196;Indiana;0
+153;D013997;Time Factors;0
+154;D014523;Urethral Neoplasms;0
+155;D000970;Antineoplastic Agents;0
+156;D017322;Clinical Trials, Phase II as Topic;0
+157;D020022;Genetic Predisposition to Disease;0
+158;D025202;Molecular Diagnostic Techniques;0
+159;D058990;Molecular Targeted Therapy;0
+160;D010641;Phenotype;0
+161;D057285;Precision Medicine;0
+162;D002470;Cell Survival;0
+163;D018841;HSP90 Heat-Shock Proteins;0
+164;D056572;Histone Deacetylase Inhibitors;0
+165;D006655;Histone Deacetylases;0
+166;D061986;MCF-7 Cells;0
+167;D008870;Microtubules;0
+168;D010226;Parabens;0
+169;D018442;Lymphoma, B-Cell, Marginal Zone;0
+170;D000900;Anti-Bacterial Agents;0
+171;D001419;Bacteria;0
+172;D001424;Bacterial Infections;0
+173;D002648;Child;1
+174;D003967;Diarrhea;0
+175;D005767;Gastrointestinal Diseases;0
+176;D015658;HIV Infections;0
+177;D055048;Integrative Medicine;0
+178;D007413;Intestinal Mucosa;0
+179;D008659;Metabolic Diseases;0
+180;D019936;Probiotics;0
+181;D000704;Analysis of Variance;0
+182;D000806;Angiotensin-Converting Enzyme Inhibitors;0
+183;D016009;Chi-Square Distribution;0
+184;D006973;Hypertension;0
+185;D011349;Proctitis;0
+186;D057216;Propensity Score;0
+187;D018709;Statistics, Nonparametric;0
+188;D057890;Epigenomics;0
+189;D018394;CA-125 Antigen;0
+190;D009780;Occult Blood;0
+191;D000509;alpha-Fetoproteins;0
+192;D009360;Neoplastic Cells, Circulating;0
+193;D017395;Plasminogen Activator Inhibitor 1;0
+194;D055293;Receptors, Urokinase Plasminogen Activator;0
+195;D014568;Urokinase-Type Plasminogen Activator;0
+196;D016372;RNA, Antisense;0
+197;D050053;TRPM Cation Channels;0
+198;D000975;Antioxidants;0
+199;D001343;Autophagy;0
+200;D008869;Microtubule-Associated Proteins;0
+201;D020944;Milk Thistle;0
+202;D017382;Reactive Oxygen Species;0
+203;D012838;Silymarin;0
+204;D000293;Adolescent;1
+205;D000367;Age Factors;0
+206;D016208;Databases, Factual;0
+207;D014943;Global Health;0
+208;D049673;History, 20th Century;0
+209;D049674;History, 21st Century;0
+210;D011159;Population Surveillance;0
+211;D057086;High-Intensity Focused Ultrasound Ablation;0
+212;D003692;Delayed-Action Preparations;0
+213;D007564;Japan;0
+214;D016729;Leuprolide;0
+215;D012107;Research Design;0
+216;D013739;Testosterone;0
+217;D016896;Treatment Outcome;0
+218;D055011;Ablation Techniques;0
+219;D000162;Acoustics;0
+220;D017097;Electric Impedance;0
+221;D004566;Electrodes;0
+222;D055724;Electrophysiological Phenomena;0
+223;D018274;Electroporation;0
+224;D019047;Phantoms, Imaging;0
+225;D000177;Acrosome;0
+226;D048749;Cytokinesis;0
+227;D008540;Meiosis;0
+228;D008938;Mitosis;0
+229;D009218;Myosins;0
+230;D012708;Sertoli Cells;0
+231;D013087;Spermatids;0
+232;D013091;Spermatogenesis;0
+233;D008941;Spindle Apparatus;0
+234;D001315;Australia;0
+235;D035683;MicroRNAs;0
+236;D058668;Adrenergic alpha-1 Receptor Antagonists;0
+237;D001896;Boron Compounds;0
+238;D002784;Cholesterol;0
+239;D034281;Dynamins;0
+240;D004705;Endocytosis;0
+241;D011992;Endosomes;0
+242;D005456;Fluorescent Dyes;0
+243;D006863;Hydrogen-Ion Concentration;0
+244;D020014;K562 Cells;0
+245;D051907;Lysosome-Associated Membrane Glycoproteins;0
+246;D008247;Lysosomes;0
+247;D011224;Prazosin;0
+248;D020696;rab5 GTP-Binding Proteins;0
+249;D000107;Acetylation;0
+250;D001549;Benzamides;0
+251;D055785;Gene Knockdown Techniques;0
+252;D056985;Nuclear Receptor Co-Repressor 2;0
+253;D014404;Tubulin;0
+254;D016294;Models, Nursing;0
+255;D015653;Cystectomy;0
+256;D065426;Cytoreduction Surgical Procedures;0
+257;D006723;Hong Kong;0
+258;D007680;Kidney Neoplasms;0
+259;D010535;Laparoscopy;0
+260;D009392;Nephrectomy;0
+261;D065287;Robotic Surgical Procedures;0
+262;D001749;Urinary Bladder Neoplasms;0
+263;D014565;Urogenital Neoplasms;0
+264;D002453;Cell Cycle;0
+265;D012097;Repressor Proteins;0
+266;D015415;Biomarkers;0
+267;D002338;Carotenoids;0
+268;D015331;Cohort Studies;0
+269;D003430;Cross-Sectional Studies;0
+270;D015201;Meta-Analysis as Topic;0
+271;D064887;Observational Studies as Topic;0
+272;D014801;Vitamin A;0
+273;D024502;alpha-Tocopherol;0
+274;D015992;Body Mass Index;0
+275;D001835;Body Weight;0
+276;D002675;Child, Preschool;1
+277;D063766;Pediatric Obesity;0
+278;D012606;Scotland;0
+279;D029760;Garcinia;0
+280;D051379;Mice;1
+281;D011065;Poly(ADP-ribose) Polymerases;0
+282;D011506;Proteins;0
+283;D019253;Proto-Oncogene Proteins c-bcl-2;0
+284;D013729;Terpenes;0
+285;D023041;Xenograft Model Antitumor Assays;0
+286;D016017;Odds Ratio;0
+287;D012042;Registries;0
+288;D012306;Risk;0
+289;D015030;Zimbabwe;0
+290;D000959;Antihypertensive Agents;0
+291;D015820;Cadherins;0
+292;D002465;Cell Movement;0
+293;D058492;Drug Repositioning;0
+294;D004791;Enzyme Inhibitors;0
+295;D058750;Epithelial-Mesenchymal Transition;0
+296;D056466;Histone Demethylases;0
+297;D016688;Mice, Inbred NOD;0
+298;D016513;Mice, SCID;0
+299;D010293;Pargyline;0
+300;D064129;Prostatic Neoplasms, Castration-Resistant;0
+301;D011944;Receptors, Androgen;0
+302;D014746;Vimentin;0
+303;D019204;GTP-Binding Proteins;0
+304;D055106;Genome-Wide Association Study;0
+305;D008810;Mice, Inbred C57BL;0
+306;D009362;Neoplasm Metastasis;0
+307;D009687;Nuclear Proteins;0
+308;D040641;Quantitative Trait Loci;0
+309;D015096;3-Hydroxysteroid Dehydrogenases;0
+310;D044127;Epigenesis, Genetic;0
+311;D006877;Hydroxamic Acids;0
+312;D006911;Hydroxyprostaglandin Dehydrogenases;0
+313;D047495;PPAR gamma;0
+314;D015230;Prostaglandin D2;0
+315;D019496;Cancer Vaccines;0
+316;D006242;Haptoglobins;0
+317;D011110;Polymorphism, Genetic;0
+318;D011401;Promoter Regions, Genetic;0
+319;D012333;RNA, Messenger;0
+320;D022223;Vaccines, Subunit;0
+321;D017353;Gene Deletion;0
+322;D056726;Genetic Association Studies;0
+323;D007492;Iran;0
+324;D015514;Oncogene Proteins, Fusion;0
+325;D002211;Capsaicin;0
+326;D004359;Drug Therapy, Combination;0
+327;D050503;Indoleamine-Pyrrole 2,3,-Dioxygenase;0
+328;D007211;Indoles;0
+329;D053078;Membrane Potential, Mitochondrial;0
+330;D013859;Thiocarbamates;0
+331;D019715;Tissue Inhibitor of Metalloproteinase-1;0
+332;D018398;Homeodomain Proteins;0
+333;D009419;Nerve Tissue Proteins;0
+334;D019587;Dietary Supplements;0
+335;D010386;Pelvic Neoplasms;0
+336;D056692;Prebiotics;0
+337;D011832;Radiation Injuries;0
+338;D011878;Radiotherapy;0
+339;D014815;Vitamins;0
+340;D015032;Zinc;0
+341;D000971;Antineoplastic Combined Chemotherapy Protocols;0
+342;D003131;Combined Modality Therapy;0
+343;D008137;Longitudinal Studies;0
+344;D000736;Androstenes;0
+345;D000230;Adenocarcinoma;0
+346;D042601;Lymphatic Vessels;0
+347;D009389;Neovascularization, Pathologic;0
+348;D002250;Carbon Radioisotopes;0
+349;D019583;Dose Fractionation;0
+350;D005240;Feasibility Studies;0
+351;D063193;Heavy Ion Radiotherapy;0
+352;D052801;Male Urogenital Diseases;0
+353;D009017;Morbidity;0
+354;D010315;Particle Accelerators;0
+355;D011788;Quality of Life;0
+356;D020869;Gene Expression Profiling;0
+357;D010865;Pilot Projects;0
+358;D000547;Amantadine;0
+359;D004073;Digitoxigenin;0
+360;D004074;Digitoxin;0
+361;D007938;Leukemia;0
+362;D014571;Urologic Neoplasms;0
+363;D001691;Biological Therapy;0
+364;D016923;Cell Death;0
+365;D012486;Salmonella typhimurium;0
+366;D002986;Clinical Trials as Topic;0
+367;D000069473;Dose Hypofractionation;0
+368;D016019;Survival Analysis;0
+369;D001842;Bone and Bones;0
+370;D005462;Fluorine Radioisotopes;0
+371;D019788;Fluorodeoxyglucose F18;0
+372;D064847;Multimodal Imaging;0
+373;D049268;Positron-Emission Tomography;0
+374;D019275;Radiopharmaceuticals;0
+375;D012969;Sodium Fluoride;0
+376;D013669;Technetium Tc 99m Medronate;0
+377;D051598;Whole Body Imaging;0
+378;D000465;Algorithms;0
+379;D002138;Calibration;0
+380;D054893;Cone-Beam Computed Tomography;0
+381;D007089;Image Enhancement;0
+382;D010039;Otorhinolaryngologic Neoplasms;0
+383;D011874;Radiometry;0
+384;D011879;Radiotherapy Dosage;0
+385;D011880;Radiotherapy Planning, Computer-Assisted;0
+386;D012542;Scattering, Radiation;0
+387;D014659;Vasectomy;0
+388;D002454;Cell Differentiation;0
+389;D004149;Dioxoles;0
+390;D059630;Mesenchymal Stromal Cells;0
+391;D018125;Receptors, Transforming Growth Factor beta;0
+392;D053773;Transforming Growth Factor beta1;0
+393;D014764;Viral Proteins;0
+394;D020413;3' Untranslated Regions;0
+395;D014453;Glucuronosyltransferase;0
+396;D018920;Coculture Techniques;0
+397;D005347;Fibroblasts;0
+398;D050356;Lipid Metabolism;0
+399;D021381;Protein Transport;0
+400;D059016;Tumor Microenvironment;0
+401;D009043;Motor Activity;0
+402;D049451;Nomograms;0
+403;D018899;CpG Islands;0
+404;D019175;DNA Methylation;0
+405;D004272;DNA, Mitochondrial;0
+406;D019161;Hydroxymethylglutaryl-CoA Reductase Inhibitors;0
+407;D019821;Simvastatin;0
+408;D001291;Attitude of Health Personnel;0
+409;D003075;Coitus;0
+410;D009426;Netherlands;0
+411;D010348;Patient Care Team;0
+412;D010818;Practice Patterns, Physicians';0
+413;D018787;Radiation Oncology;0
+414;D012731;Sex Counseling;0
+415;D016190;Carboplatin;0
+416;D000068338;Everolimus;0
+417;D011241;Prednisone;0
+418;D058570;TOR Serine-Threonine Kinases;0
+419;D003072;Cognition Disorders;0
+420;D003863;Depression;0
+421;D009919;Orchiectomy;0
+422;D012735;Sexual Dysfunction, Physiological;0
+423;D020018;Sexual Dysfunctions, Psychological;0
+424;D018454;Spouses;0
+425;D059351;Organ Sparing Treatments;0
+426;D010410;Penile Erection;0
+427;D010413;Penis;0
+428;D020127;Recovery of Function;0
+429;D001743;Urinary Bladder;0
+430;D002942;Circular Dichroism;0
+431;D056831;Coordination Complexes;0
+432;D003474;Curcumin;0
+433;D004789;Enzyme Activation;0
+434;D005708;Gallium;0
+435;D010084;Oxidation-Reduction;0
+436;D009195;Peroxidase;0
+437;D013050;Spectrometry, Fluorescence;0
+438;D000903;Antibiotics, Antineoplastic;0
+439;D004317;Doxorubicin;0
+440;D008280;Magnetics;0
+441;D053758;Nanoparticles;0
+442;D010789;Phototherapy;0
+443;D008207;Lymphatic Metastasis;0
+444;D020381;Interleukin-17;0
+445;D032389;Myocytes, Smooth Muscle;0
+446;D011470;Prostatic Hyperplasia;0
+447;D053722;Receptors, Interleukin-17;0
+448;D002292;Carcinoma, Renal Cell;0
+449;D002295;Carcinoma, Transitional Cell;0
+450;D006297;Health Services Accessibility;0
+451;D015995;Prevalence;0
+452;D012959;Socioeconomic Factors;0
+453;D013785;Thailand;0
+454;D013520;Urologic Surgical Procedures;0
+455;D055372;AMP-Activated Protein Kinases;0
+456;D020536;Enzyme Activators;0
+457;D062105;Molecular Docking Simulation;0
+458;D009374;Neoplasms, Experimental;0
+459;D014407;Tumor Cells, Cultured;0
+460;D001741;African Americans;0
+461;D015928;Cognitive Therapy;0
+462;D010342;Patient Acceptance of Health Care;0
+463;D017060;Patient Satisfaction;0
+464;D020377;Self Efficacy;0
+465;D013315;Stress, Psychological;0
+466;D013813;Therapy, Computer-Assisted;0
+467;D054625;Healthcare Disparities;0
+468;D062526;Patient Navigation;0
+469;D012923;Social Class;0
+470;D017472;Receptors, Interleukin-1;0
+471;D008403;Mass Screening;0
+472;D010808;Physical Examination;0
+473;D015374;Biosensing Techniques;0
+474;D014780;Viruses;0
+475;D057286;Electronic Health Records;0
+476;D004938;Esophageal Neoplasms;0
+477;D010190;Pancreatic Neoplasms;0
+478;D013274;Stomach Neoplasms;0
+479;D007477;Ions;0
+480;D011522;Protons;0
+481;D064007;Ataxia Telangiectasia Mutated Proteins;0
+482;D016615;Telomere;0
+483;D008244;Lysophosphatidylcholines;0
+484;D053719;Tandem Mass Spectrometry;0
+485;D002471;Cell Transformation, Neoplastic;0
+486;D050687;E2F1 Transcription Factor;0
+487;D046988;Proteasome Endopeptidase Complex;0
+488;D059748;Proteolysis;0
+489;D014158;Transcription, Genetic;0
+490;D025803;Tumor Suppressor Protein p14ARF;0
+491;D001859;Bone Neoplasms;0
+492;D011877;Radionuclide Imaging;0
+493;D012015;Reference Standards;0
+494;D015203;Reproducibility of Results;0
+495;D003376;Counseling;0
+496;D015444;Exercise;0
+497;D017144;Focus Groups;0
+498;D011615;Psychotherapy, Group;0
+499;D036301;Qualitative Research;0
+500;D012657;Self-Help Groups;0
+501;D017741;Survivors;0
+502;D001918;Brachytherapy;0
+503;D006679;HIV Seropositivity;0
+504;D061766;Proton Therapy;0
+505;D014739;Victoria;0
+506;D002118;Calcium;0
+507;D000242;Cyclic AMP;0
+508;D017868;Cyclic AMP-Dependent Protein Kinases;0
+509;D015232;Dinoprostone;0
+510;D005786;Gene Expression Regulation;0
+511;D053760;Interleukin-23 Subunit p19;0
+512;D046912;Multiprotein Complexes;0
+513;D058306;Receptors, Prostaglandin E, EP1 Subtype;0
+514;D058307;Receptors, Prostaglandin E, EP2 Subtype;0
+515;D058309;Receptors, Prostaglandin E, EP4 Subtype;0
+516;D015854;Up-Regulation;0
+517;D054413;Chemokine CCL11;0
+518;D053148;Caspase 3;0
+519;D046888;Tissue Array Analysis;0
+520;D054460;rho-Associated Kinases;0
+521;D012313;RNA;0
+522;D004334;Drug Administration Schedule;0
+523;D005296;Ferrous Compounds;0
+524;D011355;Prodrugs;0
+525;D061705;Image-Guided Biopsy;0
+526;D053783;Magnetic Resonance Imaging, Interventional;0
+527;D059708;Ultrasonic Surgical Procedures;0
+528;D018084;Ultrasonography, Interventional;0
+529;D007090;Image Interpretation, Computer-Assisted;0
+530;D021621;Imaging, Three-Dimensional;0
+531;D015588;Observer Variation;0
+532;D061089;Radiotherapy, Image-Guided;0
+533;D050397;Radiotherapy, Intensity-Modulated;0
+534;D060828;Induction Chemotherapy;0
+535;D063868;Patient Outcome Assessment;0
+536;D004283;Dog Diseases;0
+537;D004285;Dogs;1
+538;D050130;Oncolytic Virotherapy;0
+539;D050504;Oncolytic Viruses;0
+540;D057127;Single-Chain Antibodies;0
+541;D014616;Vaccinia virus;0
+542;D042461;Vascular Endothelial Growth Factor A;0
+543;D000577;Amides;0
+544;D002243;Carbolines;0
+545;D002853;Chromatography, Liquid;0
+546;D005455;Fluorescent Antibody Technique;0
+547;D009682;Magnetic Resonance Spectroscopy;0
+548;D013058;Mass Spectrometry;0
+549;D021241;Spectrometry, Mass, Electrospray Ionization;0
+550;D013654;Taurine;0
+551;D014561;Urochordata;0
+552;D005638;Fruit;0
+553;D018551;Lycopersicon esculentum;0
+554;D010936;Plant Extracts;0
+555;D028321;Plant Preparations;0
+556;D010949;Plasma;0
+557;D014018;Tissue Distribution;0
+558;D002268;Carboxypeptidases;0
+559;D052250;Nitric Oxide Synthase Type III;0
+560;D011388;Prolactin;0
+561;D011981;Receptors, Prolactin;0
+562;D050799;STAT5 Transcription Factor;0
+563;D003920;Diabetes Mellitus;0
+564;D007004;Hypoglycemic Agents;0
+565;D007328;Insulin;0
+566;D008687;Metformin;0
+567;D017526;Receptor, IGF Type 1;0
+568;D011972;Receptor, Insulin;0
+569;D054337;Cell Dedifferentiation;0
+570;D002813;Chondrosarcoma;0
+571;D004252;DNA Mutational Analysis;0
+572;D005091;Exons;0
+573;D005266;Femoral Neoplasms;0
+574;D059014;High-Throughput Nucleotide Sequencing;0
+575;D007521;Isocitrate Dehydrogenase;0
+576;D010027;Osteotomy;0
+577;D015153;Blotting, Western;0
+578;D002839;Chromans;0
+579;D004305;Dose-Response Relationship, Drug;0
+580;D004357;Drug Synergism;0
+581;D034622;RNA Interference;0
+582;D053221;TNF-Related Apoptosis-Inducing Ligand;0
+583;D045162;Thiazolidinediones;0
+584;D051176;beta Catenin;0
+585;D005075;Biological Evolution;0
+586;D004247;DNA;0
+587;D006367;HeLa Cells;0
+588;D058727;RNA, Small Untranslated;0
+589;D012269;Ribosomal Proteins;0
+590;D016415;Sequence Alignment;0
+591;D013347;Subcellular Fractions;0
+592;D047233;Suberites;0
+593;D000860;Anoxia;0
+594;D001812;Blood-Brain Barrier;0
+595;D001932;Brain Neoplasms;0
+596;D002232;Carbocyanines;0
+597;D003841;Deoxycytidine;0
+598;D003952;Diagnostic Imaging;0
+599;D016503;Drug Delivery Systems;0
+600;D027361;Organic Anion Transporters;0
+601;D019265;Spectroscopy, Near-Infrared;0
+602;D010669;Phenylthiohydantoin;0
+603;D011868;Radioisotopes;0
+604;D011883;Radium;0
+605;D014020;Tissue Extracts;0
+606;D061249;Batch Cell Culture Techniques;0
+607;D024042;Collagen Type I;0
+608;D004353;Drug Evaluation, Preclinical;0
+609;D004867;Equipment Design;0
+610;D019544;Equipment Failure Analysis;0
+611;D015316;Genetic Therapy;0
+612;D053769;Nanocapsules;0
+613;D066330;Printing, Three-Dimensional;0
+614;D034741;RNA, Small Interfering;0
+615;D023822;Tissue Engineering;0
+616;D054457;Tissue Scaffolds;0
+617;D003142;Communication;0
+618;D008327;Mammography;0
+619;D010817;Physician-Patient Relations;0
+620;D011336;Probability;0
+621;D040242;Risk Reduction Behavior;0
+622;D012007;Rectum;0
+623;D016013;Likelihood Functions;0
+624;D013548;Sweden;0
+625;D009765;Obesity;0
+626;D050177;Overweight;0
+627;D002135;Calcium-Binding Proteins;0
+628;D053208;Kaplan-Meier Estimate;0
+629;D015195;Drug Design;0
+630;D019008;Drug Resistance, Neoplasm;0
+631;D001284;Atrophy;0
+632;D007249;Inflammation;0
+633;D002681;China;0
+634;D009026;Mortality;0
+635;D000375;Aging;0
+636;D020533;Angiogenesis Inhibitors;0
+637;D018120;Finasteride;0
+638;D055806;Microvessels;0
+639;D017154;Stromal Cells;0
+640;D058891;5-alpha Reductase Inhibitors;0
+641;D001378;Azasteroids;0
+642;D000068538;Dutasteride;0
+643;D011472;Prostatitis;0
+644;D016477;Artifacts;0
+645;D014057;Tomography, X-Ray Computed;0
+646;D007457;Iodine Radioisotopes;0
+647;D008239;Lysine;0
+648;D011829;Radiation Dosage;0
+649;D014508;Urea;0
+650;D001822;Body Burden;0
+651;D008657;Metabolic Clearance Rate;0
+652;D009928;Organ Specificity;0
+653;D014915;Whole-Body Counting;0
+654;D003894;Deamino Arginine Vasopressin;0
+655;D020778;Matrix Metalloproteinase 2;0
+656;D020780;Matrix Metalloproteinase 9;0
+657;D017677;Age Distribution;0
+658;D004185;Disability Evaluation;0
+659;D008017;Life Expectancy;0
+660;D017678;Sex Distribution;0
+661;D012737;Sex Factors;0
+662;D019295;Computational Biology;0
+663;D056915;DNA Copy Number Variations;0
+664;D059472;Exome;0
+665;D018628;Gene Dosage;0
+666;D005820;Genetic Testing;0
+667;D054643;INDEL Mutation;0
+668;D018579;Patient Selection;0
+669;D015142;Baltimore;0
+670;D020033;Protein Isoforms;0
+671;D006903;Hydroxymethylglutaryl CoA Reductases;0
+672;D010085;Oxidative Phosphorylation;0
+673;D010100;Oxygen;0
+674;D010101;Oxygen Consumption;0
+675;D017368;Protein Prenylation;0
+676;D059808;Polyphenols;0
+677;D031826;Punicaceae;0
+678;D002170;Canada;0
+679;D054624;Health Status Disparities;0
+680;D011647;Puerto Rico;0
+681;D012643;Selenium;0
+682;D014810;Vitamin E;0
+683;D008928;Mitochondria;0
+684;D010646;Phentolamine;0
+685;D011799;Quinazolines;0
+686;D011958;Receptor, Epidermal Growth Factor;0
+687;D000469;Alkaline Phosphatase;0
+688;D011836;Radiation Tolerance;0
+689;D018267;Carcinoma, Acinar Cell;0
+690;D044584;Carcinoma, Ductal;0
+691;D004337;Drug Carriers;0
+692;D011091;Polyesters;0
+693;D011092;Polyethylene Glycols;0
+694;D011108;Polymers;0
+695;D064593;Heterografts;0
+696;D014183;Transplantation, Heterologous;0
+697;D020728;Transurethral Resection of Prostate;0
+698;D014644;Genetic Variation;0
+699;D015810;Linkage Disequilibrium;0
+700;D019149;Bioreactors;0
+701;D016207;Cytokines;0
+702;D054409;Nicotinamide Phosphoribosyltransferase;0
+703;D002462;Cell Membrane;0
+704;D051417;Focal Adhesion Kinase 1;0
+705;D036104;Receptor, EphA2;0
+706;D020742;rhoA GTP-Binding Protein;0
+707;D008019;Life Style;0
+708;D010166;Palliative Care;0
+709;D016540;Smoking Cessation;0
+710;D000595;Amino Acid Sequence;0
+711;D001483;Base Sequence;0
+712;D005787;Gene Frequency;0
+713;D018095;Germ-Line Mutation;0
+714;D008969;Molecular Sequence Data;0
+715;D010375;Pedigree;0
+716;D011174;Portugal;0
+717;D006761;Hospitals;0
+718;D010359;Patient Readmission;0
+719;D011183;Postoperative Complications;0
+720;D012044;Regression Analysis;0
+721;D018805;Sepsis;0
+722;D014552;Urinary Tract Infections;0
+723;D065087;Acetylcholine Release Inhibitors;0
+724;D000283;Administration, Intravesical;0
+725;D019274;Botulinum Toxins, Type A;0
+726;D001750;Urinary Bladder, Neurogenic;0
+727;D053201;Urinary Bladder, Overactive;0
+728;D014549;Urinary Incontinence;0
+729;D021581;Active Transport, Cell Nucleus;0
+730;D002467;Cell Nucleus;0
+731;D042541;Intracellular Space;0
+732;D039122;Poly(A)-Binding Protein I;0
+733;D011485;Protein Binding;0
+734;D017434;Protein Structure, Tertiary;0
+735;D040901;Proteomics;0
+736;D012008;Recurrence;0
+737;D015533;Transcriptional Activation;0
+738;D055910;Antibodies, Immobilized;0
+739;D015815;Cell Adhesion Molecules;0
+740;D002469;Cell Separation;0
+741;D005434;Flow Cytometry;0
+742;D053446;CASP8 and FADD-Like Apoptosis Regulating Protein;0
+743;D055551;HSP27 Heat-Shock Proteins;0
+744;D057832;Watchful Waiting;0
+745;D051747;DNA-Activated Protein Kinase;0
+746;D004268;DNA-Binding Proteins;0
+747;D053263;Gene Regulatory Networks;0
+748;D000728;Androgens;0
+749;D002843;Chromatin;0
+750;D020218;Response Elements;0
+751;D043222;Ubiquitin Thiolesterase;0
+752;D054875;Ubiquitination;0
+753;D047908;Intracellular Signaling Peptides and Proteins;0
+754;D060888;Real-Time Polymerase Chain Reaction;0
+755;D002352;Carrier Proteins;0
+756;D013194;Staining and Labeling;0
+757;D003452;Cryosurgery;0
+758;D020013;Calcium Signaling;0
+759;D017207;Rats, Sprague-Dawley;0
+760;D044169;Receptors, Calcium-Sensing;0
+761;D018797;Cell Cycle Proteins;0
+762;D003937;Diagnosis, Differential;0
+763;D017211;Treatment Failure;0
+764;D004058;Diffusion;0
+765;D000431;Ethanol;0
+766;D015552;Injections, Intralesional;0
+767;D003663;Decision Trees;0
+768;D001707;Biopsy, Needle;0
+769;D017809;Fatal Outcome;0
+770;D035583;Rare Diseases;0
+771;D048868;Adaptor Proteins, Signal Transducing;0
+772;D019556;COS Cells;0
+773;D002522;Cercopithecus aethiops;0
+774;D025941;Protein Interaction Mapping;0
+775;D048029;TNF Receptor-Associated Factor 6;0
+776;D016212;Transforming Growth Factor beta;0
+777;D020691;rab GTP-Binding Proteins;0
+778;D004522;Educational Status;0
+779;D012111;Residence Characteristics;0
+780;D053823;Hedgehog Proteins;0
+781;D032341;Withania;0
+782;D054358;Withanolides;0
+783;D055118;Medication Adherence;0
+784;D013482;Superoxide Dismutase;0
+785;D013741;3-Oxo-5-alpha-Steroid 4-Dehydrogenase;0
+786;D008565;Membrane Proteins;0
+787;D003695;Delivery of Health Care;0
+788;D015141;Los Angeles;0
+789;D019114;Remote Consultation;0
+790;D012424;Rural Population;0
+791;D017216;Telemedicine;0
+792;D014493;United States Department of Veterans Affairs;0
+793;D014570;Urologic Diseases;0
+794;D058014;Veterans Health;0
+795;D058958;Organs at Risk;0
+796;D020266;Radiotherapy, Conformal;0
+797;D004847;Epithelial Cells;0
+798;D012509;Sarcoma;0
+799;D002272;Carcinoembryonic Antigen;0
+800;D059248;Chemoradiotherapy;0
+801;D003082;Colectomy;0
+802;D003113;Colonoscopy;0
+803;D013505;Digestive System Surgical Procedures;0
+804;D004724;Endoscopy;0
+805;D019160;Endosonography;0
+806;D010349;Patient Compliance;0
+807;D003161;Compartment Syndromes;0
+808;D004211;Disseminated Intravascular Coagulation;0
+809;D009916;Orbital Diseases;0
+810;D009918;Orbital Neoplasms;0
+811;D033162;Incidental Findings;0
+812;D011835;Radiation Protection;0
+813;D012983;Soft Tissue Neoplasms;0
+814;D013899;Thoracic Neoplasms;0
+815;D015899;Tomography, Emission-Computed, Single-Photon;0
+816;D005544;Forecasting;0
+817;D009518;New York;0
+818;D012371;Robotics;0
+819;D014554;Urination;0
+820;D004059;Diffusion of Innovation;0
+821;D000319;Adrenergic beta-Antagonists;0
+822;D015897;Comorbidity;0
+823;D011433;Propranolol;0
+824;D013624;Taiwan;0
+825;D016015;Logistic Models;0
+826;D012372;ROC Curve;0
+827;D012669;Seminal Vesicles;0
+828;D047390;Casein Kinase II;0
+829;D019892;eIF-2 Kinase;0
+830;D053455;Caspase 10;0
+831;D014409;Tumor Necrosis Factor-alpha;0
+832;D000894;Anti-Inflammatory Agents, Non-Steroidal;0
+833;D001241;Aspirin;0
+834;D015971;Gene Expression Regulation, Enzymologic;0
+835;D056945;Hep G2 Cells;0
+836;D012323;RNA Processing, Post-Transcriptional;0
+837;D014162;Transfection;0
+838;D005298;Fertility;0
+839;D007902;Length of Stay;0
+840;D016879;Salvage Therapy;0
+841;D002877;Chromosomes, Human;0
+842;D004249;DNA Damage;0
+843;D009375;Neoplasms, Glandular and Epithelial;0
+844;D009942;Organometallic Compounds;0
+845;D017892;Osmium Compounds;0
+846;D010051;Ovarian Neoplasms;0
+847;D018384;Oxidative Stress;0
+848;D017423;Sequence Analysis, RNA;0
+849;D018808;Transcription Factor AP-1;0
+850;D019317;Evidence-Based Medicine;0
+851;D009683;Nuclear Medicine;0
+852;D014055;Tomography, Emission-Computed;0
+853;D057220;Health Literacy;0
+854;D014922;Wisconsin;0
+855;D007165;Immunosuppression;0
+856;D007167;Immunotherapy;0
+857;D022423;Myeloid Cells;0
+858;D018448;Models, Immunological;0
+859;D061307;Human Umbilical Vein Endothelial Cells;0
+860;D054419;Receptors, Adiponectin;0
+861;D051784;Aryl Hydrocarbon Receptor Nuclear Translocator;0
+862;D051792;Basic Helix-Loop-Helix Transcription Factors;0
+863;D031541;Fluorescence Resonance Energy Transfer;0
+864;D055503;Protein Multimerization;0
+865;D004795;Enzyme Stability;0
+866;D044767;Ubiquitin-Protein Ligases;0
+867;D051376;Actin-Related Protein 2-3 Complex;0
+868;D004815;Epidermal Growth Factor;0
+869;D021962;Membrane Microdomains;0
+870;D019869;Phosphatidylinositol 3-Kinases;0
+871;D047428;Protein Kinase Inhibitors;0
+872;D011994;Recombinant Proteins;0
+873;D054462;p21-Activated Kinases;0
+874;D010388;Pelvis;0
+875;D018714;Radiotherapy, Adjuvant;0
+876;D016227;Benzoquinones;0
+877;D002401;Cathepsin B;0
+878;D050091;Dendrimers;0
+879;D004355;Drug Stability;0
+880;D020128;Inhibitory Concentration 50;0
+881;D047029;Lactams, Macrocyclic;0
+882;D010455;Peptides;0
+883;D032429;Alpinia;0
+884;D001592;Benzyl Alcohols;0
+885;D004797;Enzyme-Linked Immunosorbent Assay;0
+886;D007124;Immunoenzyme Techniques;0
+887;D018000;Receptors, Peptide;0
+888;D024141;Collagen Type IV;0
+889;D056426;Genetic Loci;0
+890;D016014;Linear Models;0
+891;D009929;Organ Size;0
+892;D015222;Sodium Channels;0
+893;D027981;Symporters;0
+894;D002289;Carcinoma, Non-Small-Cell Lung;0
+895;D002384;Catalysis;0
+896;D018836;Inflammation Mediators;0
+897;D008113;Liver Neoplasms;0
+898;D038744;Ribosomal Protein S6 Kinases, 90-kDa;0
+899;D012694;Serine;0
+900;D016475;3T3 Cells;0
+901;D004354;Drug Screening Assays, Antitumor;0
+902;D019216;Metals, Heavy;0
+903;D057054;Molecular Imaging;0
+904;D055668;Photochemical Processes;0
+905;D010778;Photochemotherapy;0
+906;D013329;Structure-Activity Relationship;0
+907;D051525;Fibroblast Growth Factor 9;0
+908;D006706;Homeostasis;0
+909;D053219;Receptors, Tumor Necrosis Factor, Member 25;0
+910;D002874;Chromosome Mapping;0
+911;D010412;Penile Neoplasms;0
+912;D059370;RNA Folding;0
+913;D020133;Reverse Transcriptase Polymerase Chain Reaction;0
+914;D002369;Castration;0
+915;D019363;Cytochrome P-450 CYP1A1;0
+916;D008024;Ligands;0
+917;D018336;Receptors, Aryl Hydrocarbon;0
+918;D013749;Tetrachlorodibenzodioxin;0
+919;D047628;Estrogen Receptor alpha;0
+920;D011374;Progesterone;0
+921;D011980;Receptors, Progesterone;0
+922;D000954;Antigens, Surface;0
+923;D015870;Gene Expression;0
+924;D018740;Genetic Heterogeneity;0
+925;D043425;Glutamate Carboxypeptidase II;0
+926;D016612;Paraffin Embedding;0
+927;D016707;Tissue Fixation;0
+928;D061067;Antibodies, Monoclonal, Humanized;0
+929;D005174;Factor XII;0
+930;D015956;Factor XIIa;0
+931;D005337;Fibrin;0
+932;D011122;Polyphosphates;0
+933;D011655;Pulmonary Embolism;0
+934;D022142;Secretory Vesicles;0
+935;D013917;Thrombin;0
+936;D013927;Thrombosis;0
+937;D000813;Anilides;0
+938;D008206;Lymphatic Diseases;0
+939;D009570;Nitriles;0
+940;D014105;Tosyl Compounds;0
+941;D000483;Alleles;0
+942;D001665;Binding Sites;0
+943;D008562;Membrane Glycoproteins;0
+944;D008840;Microfilament Proteins;0
+945;D017422;Sequence Analysis, DNA;0
+946;D014157;Transcription Factors;0
+947;D017354;Point Mutation;0
+948;D054730;Protein Interaction Domains and Motifs;0
+949;D017346;Protein-Serine-Threonine Kinases;0
+950;D051906;Smad7 Protein;0
+951;D020794;Receptor Protein-Tyrosine Kinases;0
+952;D023381;Endpoint Determination;0
+953;D005060;Europe;0
+954;D006979;Hyperthermia, Induced;0
+955;D026683;Advisory Committees;0
+956;D019538;Health Care Surveys;0
+957;D057566;Self Report;0
+958;D001792;Blood Platelets;0
+959;D019032;Spectrometry, Mass, Matrix-Assisted Laser Desorption-Ionization;0
+960;D000069501;Abiraterone Acetate;0
+961;D005938;Glucocorticoids;0
+962;D018906;Antineoplastic Agents, Alkylating;0
+963;D018567;Breast Neoplasms, Male;0
+964;D003520;Cyclophosphamide;0
+965;D046152;Gastrointestinal Stromal Tumors;0
+966;D024522;Genes, BRCA2;0
+967;D017239;Paclitaxel;0
+968;D007987;Gonadotropin-Releasing Hormone;0
+969;D007654;Ketoconazole;0
+970;D009842;Oligopeptides;0
+971;D004702;Endocrine Glands;0
+972;D009474;Neurons;0
+973;D016133;Polymerase Chain Reaction;0
+974;D000068877;Imatinib Mesylate;0
+975;D010879;Piperazines;0
+976;D011182;Postoperative Care;0
+977;D011743;Pyrimidines;0
+978;D000925;Anticoagulants;0
+979;D001803;Blood Transfusion;0
+980;D010975;Platelet Aggregation Inhibitors;0
+981;D011300;Preoperative Care;0
+982;D014521;Urethra;0
+983;D006869;Hydronephrosis;0
+984;D010146;Pain;0
+985;D016055;Urinary Retention;0
+986;D000911;Antibodies, Monoclonal;0
+987;D009281;Naphthalenes;0
+988;D038441;Diet, Mediterranean;0
+989;D004067;Digestive System Neoplasms;0
+990;D055951;Functional Food;0
+991;D018673;Nutrition Policy;0
+992;D014675;Vegetables;0
+993;D004307;Dose-Response Relationship, Radiation;0
+994;D006258;Head and Neck Neoplasms;0
+995;D007822;Laryngeal Neoplasms;0
+996;D010306;Parotid Gland;0
+997;D057210;Delayed Diagnosis;0
+998;D011320;Primary Health Care;0
+999;D019984;Quality Indicators, Health Care;0
+1000;D001294;Attitude to Health;0
+1001;D024802;Nurse's Role;0
+1002;D009859;Oncology Nursing;0
+1003;D009864;Ontario;0
+1004;D010353;Patient Education as Topic;0
+1005;D057185;Sedentary Lifestyle;0
+1006;D000273;Adipose Tissue;0
+1007;D005081;Exercise Therapy;0
+1008;D009922;Oregon;0
+1009;D012150;Polymorphism, Restriction Fragment Length;0
+1010;D004848;Epithelium;0
+1011;D004958;Estradiol;0
+1012;D047629;Estrogen Receptor beta;0
+1013;D006965;Hyperplasia;0
+1014;D047369;Chromatin Immunoprecipitation;0
+1015;D058851;GPI-Linked Proteins;0
+1016;D009303;Nasopharyngeal Neoplasms;0
+1017;D020411;Oligonucleotide Array Sequence Analysis;0
+1018;D023281;Genomics;0
+1019;D014572;Urology;0
+1020;D060890;Antigens, CD274;0
+1021;D061026;Programmed Cell Death 1 Receptor;0
+1022;D006528;Carcinoma, Hepatocellular;0
+1023;D063150;Polycomb Repressive Complex 1;0
+1024;D006338;Heart Neoplasms;0
+1025;D006392;Hemangioma, Cavernous;0
+1026;D003362;Cost-Benefit Analysis;0
+1027;D016206;Databases, Bibliographic;0
+1028;D007172;Erectile Dysfunction;0
+1029;D000069451;Long Term Adverse Effects;0
+1030;D010043;Outcome and Process Assessment (Health Care);0
+1031;D019057;Quality-Adjusted Life Years;0
+1032;D013222;State Medicine;0
+1033;D007630;Kenya;0
+1034;D060149;Antigens, CD63;0
+1035;D060245;Antigens, CD9;0
+1036;D055354;Exosomes;0
+1037;D019084;Fluorescent Antibody Technique, Indirect;0
+1038;D011125;Adenomatous Polyposis Coli;0
+1039;D018345;Mice, Knockout;0
+1040;D060449;Wnt Signaling Pathway;0
+1041;D005109;Extracellular Matrix;0
+1042;D051191;Plakophilins;0
+1043;D011509;Proteoglycans;0
+1044;D019540;Area Under Curve;0
+1045;D002277;Carcinoma;0
+1046;D011871;Radiology;0
+1047;D001739;BK Virus;0
+1048;D021901;DNA, Intergenic;0
+1049;D004279;DNA, Viral;0
+1050;D007577;JC Virus;0
+1051;D019562;Viral Load;0
+1052;D053379;Chromogranin A;0
+1053;D016555;Matched-Pair Analysis;0
+1054;D012086;Reoperation;0
+1055;D056910;Republic of Korea;0
+1056;D004273;DNA, Neoplasm;0
+1057;D051759;Xeroderma Pigmentosum Group D Protein;0
+1058;D000714;Anastomosis, Surgical;0
+1059;D061646;Operative Time;0
+1060;D013536;Suture Techniques;0
+1061;D013537;Sutures;0
+1062;D012863;Skeleton;0
+1063;D000185;Actinin;0
+1064;D057056;Cysteine Proteases;0
+1065;D014246;Trichomonas vaginalis;0
+1066;D002406;Catheterization, Peripheral;0
+1067;D004106;Dilatation;0
+1068;D019060;Minimally Invasive Surgical Procedures;0
+1069;D014525;Urethral Stricture;0
+1070;D019091;Critical Pathways;0
+1071;D004651;Employment;0
+1072;D013030;Spain;0
+1073;D061665;Time-to-Treatment;0
+1074;D018960;Antigens, CD44;0
+1075;D017879;Isothiocyanates;0
+1076;D020935;MAP Kinase Signaling System;0
+1077;D010385;Pelvic Exenteration;0
+1078;D012004;Rectal Neoplasms;0
+1079;D012907;Smoking;0
+1080;D003198;Computer Simulation;0
+1081;D008954;Models, Biological;0
+1082;D005609;Free Radicals;0
+1083;D058626;Plasma Gases;0
+1084;D015233;Models, Statistical;0
+1085;D005858;Germany;0
+1086;D017891;Pharmacoepidemiology;0
+1087;D065840;Protective Factors;0
+1088;D001755;Blastocyst;0
+1089;D002478;Cells, Cultured;0
+1090;D058534;Class I Phosphatidylinositol 3-Kinases;0
+1091;D007247;Infertility, Female;0
+1092;D007248;Infertility, Male;0
+1093;D009028;Morula;0
+1094;D044466;Asian Continental Ancestry Group;0
+1095;D018270;Carcinoma, Ductal, Breast;0
+1096;D003110;Colonic Neoplasms;0
+1097;D016609;Neoplasms, Second Primary;0
+1098;D004198;Disease Susceptibility;0
+1099;D006069;Gonorrhea;0
+1100;D011184;Postoperative Period;0
+1101;D025321;Surgery, Computer-Assisted;0
+1102;D051926;Antigens, CD147;0
+1103;D050814;Octamer Transcription Factor-3;0
+1104;D019143;Evolution, Molecular;0
+1105;D050939;Gene Fusion;0
+1106;D050783;Proto-Oncogene Proteins c-ets;0
+1107;D011770;Pyruvate Kinase;0
+1108;D018278;Carcinoma, Neuroendocrine;0
+1109;D018426;SEER Program;0
+1110;D004781;Environmental Exposure;0
+1111;D012802;Sicily;0
+1112;D007422;Intestines;0
+1113;D011833;Radiation Injuries, Experimental;0
+1114;D011837;Radiation-Protective Agents;0
+1115;D015090;25-Hydroxyvitamin D3 1-alpha-Hydroxylase;0
+1116;D002117;Calcitriol;0
+1117;D016193;G1 Phase;0
+1118;D000596;Amino Acids;0
+1119;D012831;Bombyx;0
+1120;D012739;Gonadal Steroid Hormones;0
+1121;D006900;Hydroxylation;0
+1122;D010710;Phosphates;0
+1123;D012343;RNA, Transfer;0
+1124;D011960;Receptors, Estrogen;0
+1125;D012259;Ribonuclease, Pancreatic;0
+1126;D001692;Biological Transport;0
+1127;D003599;Cytoskeleton;0
+1128;D004734;Energy Metabolism;0
+1129;D059447;Cell Cycle Checkpoints;0
+1130;D003373;Coumaric Acids;0
+1131;D059032;Learning Curve;0
+1132;D053448;Prostatism;0
+1133;D012720;Severity of Illness Index;0
+1134;D002140;California;0
+1135;D008329;Managed Care Programs;0
+1136;D006996;Hypocalcemia;0
+1137;D007011;Hypoparathyroidism;0
+1138;D014808;Vitamin D Deficiency;0
+1139;D066241;Carbon-13 Magnetic Resonance Spectroscopy;0
+1140;D002452;Cell Count;0
+1141;D045604;Extracellular Fluid;0
+1142;D007424;Intracellular Fluid;0
+1143;D019344;Lactic Acid;0
+1144;D019289;Pyruvic Acid;0
+1145;D060887;B7 Antigens;0
+1146;D016130;Immunophenotyping;0
+1147;D016246;Lymphocytes, Tumor-Infiltrating;0
+1148;D060907;V-Set Domain-Containing T-Cell Activation Inhibitor 1;0
+1149;D002448;Cell Adhesion;0
+1150;D051058;Oncogene Protein v-akt;0
+1151;D011725;Pyridines;0
+1152;D051034;Inhibitor of Apoptosis Proteins;0
+1153;D011107;Polylysine;0
+1154;D011857;Radiographic Image Interpretation, Computer-Assisted;0
+1155;D050071;Bone Density Conservation Agents;0
+1156;D000069448;Denosumab;0
+1157;D004164;Diphosphonates;0
+1158;D010006;Osteoblasts;0
+1159;D010014;Osteolysis;0
+1160;D019070;Cell Lineage;0
+1161;D020545;Respiratory Mucosa;0
+1162;D019370;Observation;0
+1163;D012890;Sleep;0
+1164;D012892;Sleep Deprivation;0
+1165;D007319;Sleep Initiation and Maintenance Disorders;0
+1166;D051541;Hepatocyte Nuclear Factor 3-alpha;0
+1167;D010149;Pain, Postoperative;0
+1168;D014472;Umbilicus;0
+1169;D014547;Urinary Diversion;0
+1170;D009382;Neoplasms, Unknown Primary;0
+1171;D003543;Cysteamine;0
+1172;D007783;Lactones;0
+1173;D018515;Plant Leaves;0
+1174;D050796;STAT3 Transcription Factor;0
+1175;D012717;Sesquiterpenes;0
+1176;D013438;Sulfhydryl Compounds;0
+1177;D035741;Vernonia;0
+1178;D003296;Cooking;0
+1179;D004041;Dietary Fats;0
+1180;D005502;Food;0
+1181;D001169;Arthritis, Experimental;0
+1182;D001324;Autoantigens;0
+1183;D004706;Endodeoxyribonucleases;0
+1184;D058847;Inflammasomes;0
+1185;D053633;Receptor, Interferon alpha-beta;0
+1186;D008495;Medical Oncology;0
+1187;D014463;Ultrasonography;0
+1188;D000069347;Erlotinib Hydrochloride;0
+1189;D020868;Gene Silencing;0
+1190;D039503;Integrin alpha6;0
+1191;D019746;Intramolecular Oxidoreductases;0
+1192;D051356;Cortactin;0
+1193;D048430;Cell Shape;0
+1194;D013196;Dihydrotestosterone;0
+1195;D006046;Gold;0
+1196;D053768;Metal Nanoparticles;0
+1197;D010316;Particle Size;0
+1198;D000223;Adaptation, Psychological;0
+1199;D002985;Clinical Protocols;0
+1200;D018939;Holistic Nursing;0
+1201;D020380;Needs Assessment;0
+1202;D012648;Self Care;0
+1203;D014852;Wales;0
+1204;D060005;Genotyping Techniques;0
+1205;D055771;Serbia;0
+1206;D002794;Choline;0
+1207;D005189;False Positive Reactions;0
+1208;D005710;Gallium Radioisotopes;0
+1209;D001672;Biocompatible Materials;0
+1210;D001839;Bombesin;0
+1211;D003301;Copper Radioisotopes;0
+1212;D008807;Mice, Inbred BALB C;0
+1213;D009596;Nitrophenols;0
+1214;D045663;Quantum Dots;0
+1215;D018004;Receptors, Bombesin;0
+1216;D012666;Semiconductors;0
+1217;D003625;Data Collection;0
+1218;D003710;Demography;0
+1219;D005843;Geography;0
+1220;D016018;Least-Squares Analysis;0
+1221;D010820;Physicians;0
+1222;D031584;Hibiscus;0
+1223;D008198;Lymph Nodes;0
+1224;D000163;Acquired Immunodeficiency Syndrome;0
+1225;D007223;Infant;1
+1226;D007231;Infant, Newborn;1
+1227;D009073;Mozambique;0
+1228;D012514;Sarcoma, Kaposi;0
+1229;D014505;Urban Population;0
+1230;D002583;Uterine Cervical Neoplasms;0
+1231;D015703;Antigens, CD;0
+1232;D006023;Glycoproteins;0
+1233;D014411;Neoplastic Stem Cells;0
+1234;D062085;RNA, Long Noncoding;0
+1235;D003950;Diagnostic Techniques, Urological;0
+1236;D060885;Multiplex Polymerase Chain Reaction;0
+1237;D001172;Arthritis, Rheumatoid;0
+1238;D003123;Colorectal Neoplasms, Hereditary Nonpolyposis;0
+1239;D055748;SOXB1 Transcription Factors;0
+1240;D013234;Stem Cells;0
+1241;D001499;Bayes Theorem;0
+1242;D042965;Methylenetetrahydrofolate Reductase (NADPH2);0
+1243;D030541;Databases, Genetic;0
+1244;D015894;Genome, Human;0
+1245;D059467;Transcriptome;0
+1246;D005264;Femoral Fractures;0
+1247;D005593;Fracture Fixation, Internal;0
+1248;D015775;Fractures, Stress;0
+1249;D005599;Fractures, Ununited;0
+1250;D002274;Carcinogens, Environmental;0
+1251;D015386;Hazardous Substances;0
+1252;D063405;Anatomic Variation;0
+1253;D005270;Femur Head;0
+1254;D032921;Consensus;0
+1255;D008488;Medical Illustration;0
+1256;D005485;Flutamide;0
+1257;D011787;Quality of Health Care;0
+1258;D016634;Radiosurgery;0
+1259;D051380;GRB2 Adaptor Protein;0
+1260;D020664;Son of Sevenless Proteins;0
+1261;D018909;src Homology Domains;0
+1262;D006834;Hydrazines;0
+1263;D008995;Monoamine Oxidase;0
+1264;D008996;Monoamine Oxidase Inhibitors;0
+1265;D011810;Quinoxalines;0
+1266;D020407;Internet;0
+1267;D011882;Radiotherapy, High-Energy;0
+1268;D012984;Software;0
+1269;D057188;Workflow;0
+1270;D011785;Quality Assurance, Health Care;0
+1271;D056888;Patient Positioning;0
+1272;D004583;Electrons;0
+1273;D005373;Film Dosimetry;0
+1274;D003199;Computer Systems;0
+1275;D056973;Four-Dimensional Computed Tomography;0
+1276;D008991;Monitoring, Physiologic;0
+1277;D009068;Movement;0
+1278;D011881;Radiotherapy, Computer-Assisted;0
+1279;D003951;Diagnostic Errors;0
+1280;D012017;Referral and Consultation;0
+1281;D017352;Echo-Planar Imaging;0
+1282;D008968;Molecular Conformation;0
+1283;D012503;Saponins;0
+1284;D012616;Sea Cucumbers;0
+1285;D014315;Triterpenes;0
+1286;D008210;Lymphocele;0
+1287;D010537;Peritoneum;0
+1288;D013524;Surgical Flaps;0
+1289;D013557;Switzerland;0
+1290;D060066;Protein Interaction Maps;0
+1291;D016601;RNA-Binding Proteins;0
+1292;D025341;Principal Component Analysis;0
+1293;D000069342;Medical Overuse;0
+1294;D014600;Utilization Review;0
+1295;D018288;Carcinoma, Small Cell;0
+1296;D002817;Chordoma;0
+1297;D005326;Fetal Proteins;0
+1298;D009373;Neoplasms, Germ Cell and Embryonal;0
+1299;D020825;T-Box Domain Proteins;0
+1300;D010338;Pathology, Clinical;0
+1301;D013038;Specialization;0
+1302;D059411;Lower Urinary Tract Symptoms;0
+1303;D008957;Models, Genetic;0
+1304;D019061;src-Family Kinases;0
+1305;D001650;Bile Duct Neoplasms;0
+1306;D018281;Cholangiocarcinoma;0
+1307;D065100;CCR5 Receptor Antagonists;0
+1308;D060326;Chemistry Techniques, Synthetic;0
+1309;D041681;NIH 3T3 Cells;0
+1310;D019713;Receptors, CCR5;0
+1311;D054392;Adipokines;0
+1312;D005770;Gastrointestinal Neoplasms;0
+1313;D037102;Lectins;0
+1314;D011860;Radiography, Abdominal;0
+1315;D054556;Venous Thromboembolism;0
+1316;D026741;Physical Therapy Modalities;0
+1317;D059565;G2 Phase Cell Cycle Checkpoints;0
+1318;D057134;Antibodies, Neutralizing;0
+1319;D017228;Hepatocyte Growth Factor;0
+1320;D019859;Proto-Oncogene Proteins c-met;0
+1321;D011817;Rabbits;0
+1322;D008156;Luciferases;0
+1323;D012512;Sarcoma, Ewing;0
+1324;D014945;Wound Healing;0
+1325;D011634;Public Health;0
+1326;D059002;Androgen Receptor Antagonists;0
+1327;D005598;Fractures, Spontaneous;0
+1328;D013117;Spinal Cord Compression;0
+1329;D004260;DNA Repair;0
+1330;D000067856;Poly(ADP-ribose) Polymerase Inhibitors;0
+1331;D057170;Translational Medical Research;0
+1332;D012016;Reference Values;0
+1333;D019012;Antigens, CD29;0
+1334;D002450;Cell Communication;0
+1335;D016000;Cluster Analysis;0
+1336;D051361;Cyclin-Dependent Kinase 6;0
+1337;D053781;Transforming Growth Factor beta2;0
+1338;D002294;Carcinoma, Squamous Cell;0
+1339;D007633;Keratins;0
+1340;D042783;Endothelial Cells;0
+1341;D003528;Carcinoma, Adenoid Cystic;0
+1342;D002280;Carcinoma, Basal Cell;0
+1343;D020570;Genes, myb;0
+1344;D017404;In Situ Hybridization, Fluorescence;0
+1345;D004365;Drugs, Chinese Herbal;0
+1346;D011314;Preventive Health Services;0
+1347;D019564;Unnecessary Procedures;0
+1348;D000135;Acid Phosphatase;0
+1349;D018193;Neoplasms, Complex and Mixed;0
+1350;D011127;Polyps;0
+1351;D014625;Vaginal Neoplasms;0
+1352;D002869;Chromosome Aberrations;0
+1353;D009447;Neuroblastoma;0
+1354;D015513;Oncogene Proteins;0
+1355;D010840;Phytosterols;0
+1356;D010944;Plants;0
+1357;D002285;Carcinoma, Intraductal, Noninfiltrating;0
+1358;D016922;Cell Aging;0
+1359;D045325;HCT116 Cells;0
+1360;D009287;Naphthyridines;0
+1361;D007333;Insulin Resistance;0
+1362;D020738;Leptin;0
+1363;D001323;Autoantibodies;0
+1364;D016884;Polyendocrinopathies, Autoimmune;0
+1365;D020543;Proteome;0
+1366;D011627;Puberty;0
+1367;D013950;Thymus Gland;0
+1368;D011503;Transglutaminases;0
+1369;D036961;Matrix Attachment Region Binding Proteins;0
+1370;D016271;Proto-Oncogene Proteins c-myc;0
+1371;D019718;Receptors, CXCR4;0
+1372;D017384;Sequence Deletion;0
+1373;D052246;Cyclooxygenase 2 Inhibitors;0
+1374;D005419;Flavonoids;0
+1375;D055808;Drug Discovery;0
+1376;D008958;Models, Molecular;0
+1377;D011719;Pyrazines;0
+1378;D057927;Hydrophobic and Hydrophilic Interactions;0
+1379;D054852;Small Molecule Libraries;0
+1380;D062005;Biopsy, Large-Core Needle;0
+1381;D061765;Endoscopic Ultrasound-Guided Fine Needle Aspiration;0
+1382;D005188;False Negative Reactions;0
+1383;D056920;Nuclear Receptor Coactivator 1;0
+1384;D056921;Nuclear Receptor Coactivator 3;0
+1385;D018809;Proliferating Cell Nuclear Antigen;0
+1386;D065607;Cytochrome P-450 Enzyme Inhibitors;0
+1387;D008942;Mitoxantrone;0
+1388;D003924;Diabetes Mellitus, Type 2;0
+1389;D017668;Age of Onset;0
+1390;D020249;Hormone Replacement Therapy;0
+1391;D007006;Hypogonadism;0
+1392;D012955;Societies, Medical;0
+1393;D009285;Naphthoquinones;0
+1394;D012516;Osteosarcoma;0
+1395;D004642;Emodin;0
+1396;D016222;Fibroblast Growth Factor 2;0
+1397;D036341;Intercellular Signaling Peptides and Proteins;0
+1398;D051881;Receptor, Notch1;0
+1399;D000243;Adenosine Deaminase;0
+1400;D015151;Immunoblotting;0
+1401;D007438;Introns;0
+1402;D012322;RNA Precursors;0
+1403;D000199;Actins;0
+1404;D002148;Calmodulin-Binding Proteins;0
+1405;D019950;Mitogen-Activated Protein Kinase 1;0
+1406;D048052;Mitogen-Activated Protein Kinase 3;0
+1407;D010750;Phosphoproteins;0
+1408;D001459;Bangladesh;0
+1409;D004739;England;0
+1410;D007194;India;0
+1411;D010154;Pakistan;0
+1412;D019072;Antibiotic Prophylaxis;0
+1413;D002443;Ceftriaxone;0
+1414;D003428;Cross Infection;0
+1415;D004341;Drug Evaluation;0
+1416;D024881;Drug Resistance, Bacterial;0
+1417;D004926;Escherichia coli;0
+1418;D004927;Escherichia coli Infections;0
+1419;D024841;Fluoroquinolones;0
+1420;D010147;Pain Measurement;0
+1421;D011187;Posture;0
+1422;D017709;Fractals;0
+1423;D000416;Alberta;0
+1424;D010809;Physical Fitness;0
+1425;D055070;Resistance Training;0
+1426;D001786;Blood Glucose;0
+1427;D047108;Embryonic Development;0
+1428;D024821;Metabolic Syndrome X;0
+1429;D011469;Prostatic Diseases;0
+1430;D053685;Laser Therapy;0
+1431;D051152;Clusterin;0
+1432;D005978;Glutathione;0
+1433;D005980;Glutathione Reductase;0
+1434;D057166;High-Throughput Screening Assays;0
+1435;D054377;Chemokine CXCL12;0
+1436;D042583;Lymphangiogenesis;0
+1437;D011518;Proto-Oncogene Proteins;0
+1438;D051573;Proto-Oncogene Proteins c-pim-1;0
+1439;D015027;Zebrafish;0
+1440;D005346;Fibroblast Growth Factors;0
+1441;D051217;Toll-Like Receptor 9;0
+1442;D051996;Transcription Factor RelA;0
+1443;D001482;Base Composition;0
+1444;D020134;Catalytic Domain;0
+1445;D004261;DNA Replication;0
+1446;D004259;DNA-Directed DNA Polymerase;0
+1447;D007700;Kinetics;0
+1448;D011487;Protein Conformation;0
+1449;D007553;Isotope Labeling;0
+1450;D011876;Radionuclide Generators;0
+1451;D012212;Rheology;0
+1452;D013048;Specimen Handling;0
+1453;D048289;Imidazolidines;0
+1454;D048271;Chitosan;0
+1455;D002851;Chromatography, High Pressure Liquid;0
+1456;D056148;Chromatography, Reverse-Phase;0
+1457;D006569;Hesperidin;0
+1458;D057230;Limit of Detection;0
+1459;D051017;Apoptosis Regulatory Proteins;0
+1460;D060908;CTLA-4 Antigen;0
+1461;D018615;Ultrasonography, Doppler, Color;0
+1462;D014655;Vascular Resistance;0
+1463;D042822;Genomic Instability;0
+1464;D008097;Lithuania;0
+1465;D015397;Program Evaluation;0
+1466;D005557;Formaldehyde;0
+1467;D040081;Protein Array Analysis;0
+1468;D000066491;Clinical Decision-Making;0
+1469;D020029;Base Pairing;0
+1470;D004264;DNA Topoisomerases, Type I;0
+1471;D052138;Genes, Neoplasm;0
+1472;D055029;Inverted Repeat Sequences;0
+1473;D011071;Poly T;0
+1474;D051736;Proto-Oncogene Proteins c-mdm2;0
+1475;D020537;RNA, Small Nucleolar;0
+1476;D002797;Choline Kinase;0
+1477;D018414;CD8-Positive T-Lymphocytes;0
+1478;D000939;Epitopes;0
+1479;D007114;Immunization;0
+1480;D010446;Peptide Fragments;0
+1481;D019444;Vaccines, DNA;0
+1482;D005716;Game Theory;0
+1483;D002999;Clone Cells;0
+1484;D019696;Peptidylprolyl Isomerase;0
+1485;D000678;Amygdalin;0
+1486;D007676;Kidney Failure, Chronic;0
+1487;D011565;Psoriasis;0
+1488;D001092;Arachidonate 12-Lipoxygenase;0
+1489;D016466;CHO Cells;0
+1490;D006224;Cricetinae;0
+1491;D003412;Cricetulus;0
+1492;D015777;Eicosanoids;0
+1493;D048049;Extracellular Signal-Regulated MAP Kinases;0
+1494;D039663;Integrin beta4;0
+1495;D016859;Lipoxygenase Inhibitors;0
+1496;D044842;Cullin Proteins;0
+1497;D039621;Eukaryotic Initiation Factor-3;0
+1498;D009857;Oncogenes;0
+1499;D000251;Adenosine Triphosphatases;0
+1500;D003598;Cytoskeletal Proteins;0
+1501;D053843;DNA Mismatch Repair;0
+1502;D045643;DNA Repair Enzymes;0
+1503;D000263;Adenylate Kinase;0
+1504;D001567;Benzocycloheptenes;0
+1505;D019938;Cyclin D1;0
+1506;D014230;Triazoles;0
+1507;D020246;Venous Thrombosis;0
+1508;D014728;Veterans;0
+1509;D006814;Hungary;0
+1510;D007432;Intraoperative Period;0
+1511;D009339;Needles;0
+1512;D002173;Cancer Care Facilities;0
+1513;D005062;European Union;0
+1514;D006282;Health Personnel;0
+1515;D014916;Whole-Body Irradiation;0
+1516;D018929;Cell Culture Techniques;0
+1517;D010183;Pancreatic Ducts;0
+1518;D022005;Adherens Junctions;0
+1519;D051301;Desmoglein 2;0
+1520;D003896;Desmosomes;0
+1521;D016063;Blood Loss, Surgical;0
+1522;D019106;Postoperative Hemorrhage;0
+1523;D006003;Glycogen;0
+1524;D053687;Adult Stem Cells;0
+1525;D051497;Receptor, Fibroblast Growth Factor, Type 2;0
+1526;D018874;Spheroids, Cellular;0
+1527;D050759;Cyclin-Dependent Kinase Inhibitor p21;0
+1528;D000758;Anesthesia;0
+1529;D001779;Blood Coagulation Factors;0
+1530;D008074;Lipoproteins;0
+1531;D055758;SOX9 Transcription Factor;0
+1532;D053898;Biosynthetic Pathways;0
+1533;D001711;Biotransformation;0
+1534;D002455;Cell Division;0
+1535;D013254;Steroid 17-alpha-Hydroxylase;0
+1536;D018588;Fee-for-Service Plans;0
+1537;D017048;Health Care Costs;0
+1538;D007345;Insurance Claim Review;0
+1539;D006278;Medicare;0
+1540;D016345;Medicare Part B;0
+1541;D020714;Maximum Tolerated Dose;0
+1542;D005682;Gadolinium;0
+1543;D043303;Aryldialkylphosphatase;0
+1544;D044469;Continental Population Groups;0
+1545;D013045;Species Specificity;0
+1546;D009858;Oncogenic Viruses;0
+1547;D027383;Papillomaviridae;0
+1548;D030361;Papillomavirus Infections;0
+1549;D035843;Biomedical Research;0
+1550;D031407;Crinum;0
+1551;D010946;Plants, Medicinal;0
+1552;D059871;HLA-A24 Antigen;0
+1553;D059811;HLA-DRB1 Chains;0
+1554;D018719;Receptor, ErbB-2;0
+1555;D017370;Interleukin-11;0
+1556;D015850;Interleukin-6;0
+1557;D007694;Killer Cells, Natural;0
+1558;D056743;Cyclin D3;0
+1559;D051357;Cyclin-Dependent Kinase 2;0
+1560;D016209;Interleukin-8;0
+1561;D010671;Phenylurea Compounds;0
+1562;D023063;Receptors, Interleukin-8B;0
+1563;D048051;p38 Mitogen-Activated Protein Kinases;0
+1564;D010938;Plant Oils;0
+1565;D032123;Santalum;0
+1566;D012878;Skin Neoplasms;0
+1567;D017930;Genes, Reporter;0
+1568;D015464;Leukemia, Myelogenous, Chronic, BCR-ABL Positive;0
+1569;D021281;Quantitative Structure-Activity Relationship;0
+1570;D046509;Tissue Culture Techniques;0
+1571;D059766;DNA End-Joining Repair;0
+1572;D015984;Causality;0
+1573;D012529;Saudi Arabia;0
+1574;D055617;Micro-Electrical-Mechanical Systems;0
+1575;D017115;Catheter Ablation;0
+1576;D007103;Immobilization;0
+1577;D000735;Androstenedione;0
+1578;D003687;Dehydroepiandrosterone;0
+1579;D030024;Curcuma;0
+1580;D016118;Anterior Cruciate Ligament;0
+1581;D059549;Anterior Cruciate Ligament Reconstruction;0
+1582;D065186;Interrupted Time Series Analysis;0
+1583;D012421;Rupture;0
+1584;D013673;Technology Assessment, Biomedical;0
+1585;D005576;Colforsin;0
+1586;D000068876;Fingolimod Hydrochloride;0
+1587;D019319;Okadaic Acid;0
+1588;D054648;Protein Phosphatase 2;0
+1589;D019919;Prosthesis Implantation;0
+1590;D057786;Peptidomimetics;0
+1591;D034444;Peptoids;0
+1592;D006031;Glycosylation;0
+1593;D020125;Mutation, Missense;0
+1594;D017386;Sequence Homology, Amino Acid;0
+1595;D001682;Biological Availability;0
+1596;D016723;Bone Remodeling;0
+1597;D016903;Drug Monitoring;0
+1598;D002472;Cell Transformation, Viral;0
+1599;D008018;Life Cycle Stages;0
+1600;D015674;Mammary Neoplasms, Animal;0
+1601;D055114;X-Ray Microtomography;0
+1602;D038362;Glycogen Synthase Kinase 3;0
+1603;D051879;Twist Transcription Factor;0
+1604;D005190;Family;0
+1605;D005387;Finland;0
+1606;D012334;RNA, Neoplasm;0
+1607;D006257;Head;0
+1608;D020169;Caspases;0
+1609;D005354;Fibrosarcoma;0
+1610;D059585;G1 Phase Cell Cycle Checkpoints;0
+1611;D007779;Lactobacillus acidophilus;0
+1612;D018233;Rhabdomyosarcoma, Embryonal;0
+1613;D010257;Paraneoplastic Syndromes;0
+1614;D009455;Neurofibroma;0
+1615;D001086;Arabinofuranosyluracil;0
+1616;D006689;Hodgkin Disease;0
+1617;D043942;Nanotubes;0
+1618;D012834;Silver;0
+1619;D013237;Stereoisomerism;0
+1620;D044948;Flavonols;0
+1621;D001952;Bridged Compounds;0
+1622;D053181;Caspase 8;0
+1623;D018036;Selenium Compounds;0
+1624;D014131;Trace Elements;0
+1625;D055613;Multiple Pulmonary Nodules;0
+1626;D000998;Antiviral Agents;0
+1627;D006571;Heterocyclic Compounds;0
+1628;D066246;ErbB Receptors;0
+1629;D008654;Mesothelioma;0
+1630;D010997;Pleural Neoplasms;0
+1631;D011948;Receptors, Antigen, T-Cell;0
+1632;D013601;T-Lymphocytes;0
+1633;D003032;Coal Mining;0
+1634;D040362;Geographic Information Systems;0
+1635;D007087;Illinois;0
+1636;D020871;RNA Stability;0
+1637;D002278;Carcinoma in Situ;0
+1638;D017398;Alternative Splicing;0
+1639;D004194;Disease;0
+1640;D006727;Hormone Antagonists;0
+1641;D011966;Receptors, LHRH;0
+1642;D000310;Adrenal Gland Neoplasms;0
+1643;D051231;Farnesyltranstransferase;0
+1644;D020827;rap1 GTP-Binding Proteins;0
+1645;D064647;Nephrology Nursing;0
+1646;D061214;Patient Safety;0
+1647;D003545;Cysteine;0
+1648;D006984;Hypertrophy;0
+1649;D056668;Cathepsin L;0
+1650;D018890;Chemoprevention;0
+1651;D010010;Osteoclasts;0
+1652;D010012;Osteogenesis;0
+1653;D053244;Osteoprotegerin;0
+1654;D053245;RANK Ligand;0
+1655;D027843;Vitis;0
+1656;D054338;Cell Transdifferentiation;0
+1657;D017077;Culture Media, Conditioned;0
+1658;D008962;Models, Theoretical;0
+1659;D003299;Cooperative Behavior;0
+1660;D033183;Interdisciplinary Communication;0
+1661;D009313;National Health Programs;0
+1662;D011873;Radiology Information Systems;0
+1663;D006220;Haloperidol;0
+1664;D008854;Microscopy, Electron;0
+1665;D010654;Phenylbutyrates;0
+1666;D004424;Ear Canal;0
+1667;D004427;Ear Diseases;0
+1668;D018475;Head-Down Tilt;0
+1669;D006406;Hematoma;0
+1670;D009569;Nitric Oxide;0
+1671;D052247;Nitric Oxide Synthase Type II;0
+1672;D017319;Photosensitizing Agents;0
+1673;D011524;Protoporphyrins;0
+1674;D002642;Chick Embryo;0
+1675;D006862;Hydrogen Sulfide;0
+1676;D020672;I-kappa B Proteins;0
+1677;D052002;NF-kappa B p50 Subunit;0
+1678;D018528;ATP-Binding Cassette Transporters;0
+1679;D017931;DNA Primers;0
+1680;D020690;GTPase-Activating Proteins;0
+1681;D046529;Microscopy, Electron, Transmission;0
+1682;D019154;Protein Splicing;0
+1683;D027501;Monocarboxylic Acid Transporters;0
+1684;D009124;Muscle Proteins;0
+1685;D015084;2,4-Dichlorophenoxyacetic Acid;0
+1686;D006540;Herbicides;0
+1687;D008228;Lymphoma, Non-Hodgkin;0
+1688;D008134;Long-Term Care;0
+1689;D006657;Histones;0
+1690;D051958;Nuclear Receptor Coactivator 2;0
+1691;D003657;Decision Making;0
+1692;D058015;Health Communication;0
+1693;D005453;Fluorescence;0
+1694;D021141;Nucleic Acid Amplification Techniques;0
+1695;D007107;Immune System;0
+1696;D053246;Receptor Activator of Nuclear Factor-kappa B;0
+1697;D012468;Salivary Gland Neoplasms;0
+1698;D009010;Monte Carlo Method;0
+1699;D011834;Radiation Monitoring;0
+1700;D001331;Automation;0
+1701;D006820;Hyaluronic Acid;0
+1702;D020136;Hydrogel;0
+1703;D018613;Microscopy, Confocal;0
+1704;D000444;Aldehyde Dehydrogenase;0
+1705;D002392;Catechin;0
+1706;D004339;Drug Compounding;0
+1707;D005780;Gelatin;0
+1708;D037742;Nanotubes, Carbon;0
+1709;D011838;Radiation-Sensitizing Agents;0
+1710;D000280;Administration, Inhalation;0
+1711;D002245;Carbon Dioxide;0
+1712;D015687;Cell Hypoxia;0
+1713;D010092;Oximetry;0
+1714;D011166;Porphyrins;0
+1715;D014178;Translocation, Genetic;0
+1716;D057918;Fiducial Markers;0
+1717;D011856;Radiographic Image Enhancement;0
+1718;D059629;Signal-To-Noise Ratio;0
+1719;D011786;Quality Control;0
+1720;D007769;Lactams;0
+1721;D018942;Macrolides;0
+1722;D013302;Streptomyces;0
+1723;D013844;Thiazoles;0
+1724;D013871;Thiones;0
+1725;D006306;Health Surveys;0
+1726;D007407;Interviews as Topic;0
+1727;D011939;Mental Recall;0
+1728;D015983;Selection Bias;0
+1729;D034481;Heterogeneous-Nuclear Ribonucleoprotein Group A-B;0
+1730;D052003;NF-kappa B p52 Subunit;0
+1731;D022821;RNA Splice Sites;0
+1732;D001364;Awareness;0
+1733;D003365;Costs and Cost Analysis;0
+1734;D015438;Health Behavior;0
+1735;D057226;Information Seeking Behavior;0
+1736;D057386;Search Engine;0
+1737;D014626;Vaginal Smears;0
+1738;D002983;Clinical Competence;0
+1739;D013932;Thulium;0
+1740;D005431;Florida;0
+1741;D057234;Preoperative Period;0
+1742;D057915;Drug Substitution;0
+1743;D014551;Urinary Tract;0
+1744;D005822;Genetic Vectors;0
+1745;D010534;Peritoneal Neoplasms;0
+1746;D000203;Activities of Daily Living;0
+1747;D005837;Genitalia, Male;0
+1748;D007398;Interpersonal Relations;0
+1749;D007410;Intestinal Diseases;0
+1750;D014555;Urination Disorders;0
+1751;D004492;Edetic Acid;0
+1752;D002264;Carboxylic Acids;0
+1753;D003503;Cyclobutanes;0
+1754;D008145;Louisiana;0
+1755;D009657;North Carolina;0
+1756;D048493;Proto-Oncogene Proteins B-raf;0
+1757;D015964;Gene Expression Regulation, Bacterial;0
+1758;D015967;Gene Expression Regulation, Viral;0
+1759;D011425;Propionibacterium acnes;0
+1760;D011372;Progestins;0
+1761;D011965;Receptors, Glucocorticoid;0
+1762;D016678;Genome;0
+1763;D007797;Laminin;0
+1764;D064549;Myeloid Cell Leukemia Sequence 1 Protein;0
+1765;D034181;Epimedium;0
+1766;D008517;Phytotherapy;0
+1767;D063189;Symptom Assessment;0
+1768;D005833;Genital Neoplasms, Female;0
+1769;D017773;Pelvic Floor;0
+1770;D006184;Habits;0
+1771;D014550;Urinary Incontinence, Stress;0
+1772;D016741;Urinary Sphincter, Artificial;0
+1773;D051339;Actin Depolymerizing Factors;0
+1774;D064096;Aurora Kinase A;0
+1775;D054461;Lim Kinases;0
+1776;D059566;M Phase Cell Cycle Checkpoints;0
+1777;D016518;Neurofibromatosis 2;0
+1778;D025581;Neurofibromin 2;0
+1779;D012583;Schwann Cells;0
+1780;D012738;Sex Hormone-Binding Globulin;0
+1781;D014410;Tumor Stem Cell Assay;0
+1782;D020764;cdc42 GTP-Binding Protein;0
+1783;D020744;rac GTP-Binding Proteins;0
+1784;D002638;Chewing Gum;0
+1785;D005769;Gastrointestinal Motility;0
+1786;D045823;Ileus;0
+1787;D008409;Mastication;0
+1788;D000889;Anti-Arrhythmia Agents;0
+1789;D002316;Cardiotonic Agents;0
+1790;D004077;Digoxin;0
+1791;D000470;Alkaloids;0
+1792;D052117;Benzodioxoles;0
+1793;D056750;Cyclin A1;0
+1794;D050760;Cyclin-Dependent Kinase Inhibitor p27;0
+1795;D010880;Piperidines;0
+1796;D053284;Polyunsaturated Alkamides;0
+1797;D021941;Caveolae;0
+1798;D051242;Caveolin 1;0
+1799;D047468;Immunoprecipitation;0
+1800;D051900;Smad3 Protein;0
+1801;D011351;Proctoscopy;0
+1802;D058986;Phosphodiesterase 5 Inhibitors;0
+1803;D011687;Purines;0
+1804;D000068677;Sildenafil Citrate;0
+1805;D013450;Sulfones;0
+1806;D017063;Outcome Assessment (Health Care);0
+1807;D018571;Sentinel Surveillance;0
+1808;D000085;Acetates;0
+1809;D005801;Genes, Homeobox;0
+1810;D003661;Decision Support Techniques;0
+1811;D010502;Perineum;0
+1812;D048909;Diabetes Complications;0
+1813;D000069059;Atorvastatin Calcium;0
+1814;D004224;Diterpenes;0
+1815;D006538;Heptanoic Acids;0
+1816;D011758;Pyrroles;0
+1817;D019833;Genistein;0
+1818;D015986;Confounding Factors (Epidemiology);0
+1819;D006239;Haplotypes;0
+1820;D008811;Mice, Inbred DBA;0
+1821;D005452;Fluoresceins;0
+1822;D055767;Immobilized Proteins;0
+1823;D008856;Microscopy, Fluorescence;0
+1824;D019151;Peptide Library;0
+1825;D016889;Endometrial Neoplasms;0
+1826;D002898;Chromosomes, Human, Pair 8;0
+1827;D058685;Genetic Pleiotropy;0
+1828;D001057;Apolipoproteins E;0
+1829;D004493;Education;0
+1830;D012725;Sexual Behavior;0
+1831;D012747;Sexual Partners;0
+1832;D048708;Cell Growth Processes;0
+1833;D006968;Hypersensitivity, Delayed;0
+1834;D007117;Immunization, Secondary;0
+1835;D008213;Lymphocyte Activation;0
+1836;D006651;Histocytochemistry;0
+1837;D041622;Tomography, Optical;0
+1838;D016158;Genes, p53;0
+1839;D042944;Cholestenone 5 alpha-Reductase;0
+1840;D022021;Tacrolimus Binding Proteins;0
+1841;D017698;Postmenopause;0
+1842;D017697;Premenopause;0
+1843;D053487;DEAD-box RNA Helicases;0
+1844;D009000;Monocytes;0
+1845;D053580;Muscle Strength;0
+1846;D018482;Muscle, Skeletal;0
+1847;D006943;Hyperglycemia;0
+1848;D006946;Hyperinsulinism;0
+1849;D010179;Pancreas;0
+1850;D005629;Frozen Sections;0
+1851;D018365;Neoplasm, Residual;0
+1852;D009376;Neoplasms, Hormone-Dependent;0
+1853;D018434;Sickness Impact Profile;0
+1854;D006728;Hormones;0
+1855;D006899;Mixed Function Oxygenases;0
+1856;D009243;NAD;0
+1857;D004645;Empathy;0
+1858;D010555;Personality Inventory;0
+1859;D011594;Psychometrics;0
+1860;D013313;Stress Disorders, Post-Traumatic;0
+1861;D000428;Alcohol Drinking;0
+1862;D009418;S100 Proteins;0
+1863;D019998;Racemases and Epimerases;0
+1864;D019458;Insurance Coverage;0
+1865;D007348;Insurance, Health;0
+1866;D009515;New Jersey;0
+1867;D054405;Chemokine CCL3;0
+1868;D008264;Macrophages;0
+1869;D001632;Bibenzyls;0
+1870;D059865;Endoplasmic Reticulum Stress;0
+1871;D010647;Phenyl Ethers;0
+1872;D061988;Proteasome Inhibitors;0
+1873;D000737;Androstenols;0
+1874;D004054;Diethylstilbestrol;0
+1875;D004968;Estrogens, Non-Steroidal;0
+1876;D014150;Antipsychotic Agents;0
+1877;D015519;Bone Density;0
+1878;D004298;Dopamine;0
+1879;D065127;Dopamine D2 Receptor Antagonists;0
+1880;D006966;Hyperprolactinemia;0
+1881;D007030;Hypothalamo-Hypophyseal System;0
+1882;D010903;Pituitary Gland, Anterior;0
+1883;D010913;Pituitary-Adrenal System;0
+1884;D017448;Receptors, Dopamine D2;0
+1885;D001391;Azo Compounds;0
+1886;D002626;Chemistry, Pharmaceutical;0
+1887;D018922;HL-60 Cells;0
+1888;D015473;Leukemia, Promyelocytic, Acute;0
+1889;D008823;Micelles;0
+1890;D020030;Nitric Oxide Donors;0
+1891;D011060;Poloxalene;0
+1892;D011499;Protein Processing, Post-Translational;0
+1893;D012995;Solubility;0
+1894;D015220;Calcium Channels;0
+1895;D003600;Cytosol;0
+1896;D017136;Ion Transport;0
+1897;D053498;Sarcoplasmic Reticulum Calcium-Transporting ATPases;0
+1898;D019284;Thapsigargin;0
+1899;D001141;Aromatase;0
+1900;D047072;Aromatase Inhibitors;0
+1901;D004721;Endoplasmic Reticulum;0
+1902;D056004;Molecular Dynamics Simulation;0
+1903;D003037;Cobalt Radioisotopes;0
+1904;D000767;Anesthesia, Epidural;0
+1905;D000933;Antifibrinolytic Agents;0
+1906;D005342;Fibrinolysis;0
+1907;D005440;Fluid Therapy;0
+1908;D007023;Hypotension, Controlled;0
+1909;D014148;Tranexamic Acid;0
+1910;D016499;Radioimmunotherapy;0
+1911;D000554;Ambulatory Care Facilities;0
+1912;D007494;Ireland;0
+1913;D016526;Workload;0
+1914;D046210;Microfluidic Analytical Techniques;0
+1915;D051526;Fibroblast Growth Factor 10;0
+1916;D051523;Fibroblast Growth Factor 7;0
+1917;D007334;Insulin-Like Growth Factor I;0
+1918;D001853;Bone Marrow;0
+1919;D007166;Immunosuppressive Agents;0
+1920;D020123;Sirolimus;0
+1921;D058448;Biota;0
+1922;D005243;Feces;0
+1923;D041981;Gastrointestinal Tract;0
+1924;D004322;Drainage;0
+1925;D051793;Hypoxia-Inducible Factor 1;0
+1926;D004534;Egypt;0
+1927;D015843;Serpins;0
+1928;D062948;rho Guanine Nucleotide Dissociation Inhibitor alpha;0
+1929;D007097;Imines;0
+1930;D009943;Organophosphorus Compounds;0
+1931;D011095;Polyethylenes;0
+1932;D000962;Antimalarials;0
+1933;D001798;Blood Proteins;0
+1934;D002738;Chloroquine;0
+1935;D015180;Electrophoresis, Gel, Two-Dimensional;0
+1936;D006360;Heat-Shock Proteins;0
+1937;D016147;Genes, Tumor Suppressor;0
+1938;D001374;Azacitidine;0
+1939;D004347;Drug Interactions;0
+1940;D053507;Matrix Metalloproteinase 11;0
+1941;D054387;Receptors, CXCR;0
+1942;D006146;Guanidines;0
+1943;D006593;Hexokinase;0
+1944;D008114;Liver Neoplasms, Experimental;0
+1945;D051336;Mitochondrial Membranes;0
+1946;D013312;Stress, Physiological;0
+1947;D001185;Artificial Intelligence;0
+1948;D010363;Pattern Recognition, Automated;0
+1949;D018511;Systems Integration;0
+1950;D057225;Data Mining;0
+1951;D020000;Decision Support Systems, Clinical;0
+1952;D004250;DNA Topoisomerases, Type II;0
+1953;D011720;Pyrazoles;0
+1954;D014053;Tomatine;0
+1955;D051028;bcl-2-Associated X Protein;0
+1956;D051025;bcl-Associated Death Protein;0
+1957;D013108;Sphingomyelin Phosphodiesterase;0
+1958;D003593;Cytoplasm;0
+1959;D016159;Tumor Suppressor Protein p53;0
+1960;D003556;Cystitis;0
+1961;D006417;Hematuria;0
+1962;D006931;Hyperbaric Oxygenation;0
+1963;D004122;Dimethylallyltranstransferase;0
+1964;D011987;Receptors, Steroid;0
+1965;D014812;Vitamin K;0
+1966;D001008;Anxiety Disorders;0
+1967;D057189;Checklist;0
+1968;D003866;Depressive Disorder;0
+1969;D064946;Hospice and Palliative Care Nursing;0
+1970;D009730;Nursing Assessment;0
+1971;D057184;Practice Patterns, Nurses';0
+1972;D003718;Denmark;0
+1973;D054928;Validation Studies as Topic;0
+1974;D003955;Diagnostic Tests, Routine;0
+1975;D008853;Microscopy;0
+1976;D061848;Optical Imaging;0
+1977;D010340;Pathology, Surgical;0
+1978;D013057;Spectrum Analysis;0
+1979;D042241;Early Diagnosis;0
+1980;D000912;Antibodies, Neoplasm;0
+1981;D000918;Antibody Specificity;0
+1982;D061505;Cell Surface Display Techniques;0
+1983;D002846;Chromatography, Affinity;0
+1984;D005910;Glioma;0
+1985;D017594;Publication Bias;0
+1986;D010549;Personal Satisfaction;0
+1987;D055751;SOXC Transcription Factors;0
+1988;D012965;Sodium Chloride;0
+1989;D013816;Thermodynamics;0
+1990;D003911;Dextrans;0
+1991;D058185;Magnetite Nanoparticles;0
+1992;D059408;Pain Management;0
+1993;D016326;Extracellular Matrix Proteins;0
+1994;D000588;Amines;0
+1995;D001930;Brain Injuries;0
+1996;D010848;Picolinic Acids;0
+1997;D001604;Berlin;0
+1998;D017360;Arabidopsis;0
+1999;D002162;Camels;0
+2000;D007141;Immunoglobulin Fc Fragments;0
+2001;D030821;Plants, Genetically Modified;0
+2002;D061905;Single-Domain Antibodies;0
+2003;D034421;Sus scrofa;0
+2004;D018304;Esthesioneuroblastoma, Olfactory;0
+2005;D005784;Gene Amplification;0
+2006;D018308;Papilloma, Inverted;0
+2007;D010255;Paranasal Sinus Neoplasms;0
+2008;D051496;Receptor, Fibroblast Growth Factor, Type 1;0
+2009;D000935;Antifungal Agents;0
+2010;D000068258;Bevacizumab;0
+2011;D007390;International Agencies;0
+2012;D050834;Interferon-Stimulated Gene Factor 3, gamma Subunit;0
+2013;D016898;Interferon-alpha;0
+2014;D001666;Binding Sites, Antibody;0
+2015;D018604;Epitope Mapping;0
+2016;D001461;Barbering;0
+2017;D006266;Health Education;0
+2018;D006293;Health Promotion;0
+2019;D014364;Tryptophan;0
+2020;D016650;Fluorescein-5-isothiocyanate;0
+2021;D006108;Graphite;0
+2022;D049329;Nanostructures;0
+2023;D016376;Oligonucleotides, Antisense;0
+2024;D059010;Single-Cell Analysis;0
+2025;D013499;Surface Properties;0
+2026;D058070;Asymptomatic Diseases;0
+2027;D005901;Glaucoma;0
+2028;D010024;Osteoporosis;0
+2029;D013019;South Africa;0
+2030;D002690;Chlamydia Infections;0
+2031;D002692;Chlamydia trachomatis;0
+2032;D004318;Doxycycline;0
+2033;D035264;Flowers;0
+2034;D019668;Liliaceae;0
+2035;D010616;Phenanthrenes;0
+2036;D010617;Phenanthridines;0
+2037;D018517;Plant Roots;0
+2038;D007527;Isoenzymes;0
+2039;D001938;Brazil;0
+2040;D002971;Cleft Lip;0
+2041;D002972;Cleft Palate;0
+2042;D058473;Receptors, Purinergic P2Y2;0
+2043;D059648;Kisspeptins;0
+2044;D043562;Receptors, G-Protein-Coupled;0
+2045;D013382;Subtraction Technique;0
+2046;D001667;Binding, Competitive;0
+2047;D011854;Radiochemistry;0
+2048;D002733;Chlorophenols;0
+2049;D019281;Dimerization;0
+2050;D011728;Pyridones;0
+2051;D008855;Microscopy, Electron, Scanning;0
+2052;D017550;Spectroscopy, Fourier Transform Infrared;0
+2053;D013267;Stilbenes;0
+2054;D001530;Belgium;0
+2055;D003266;Continuity of Patient Care;0
+2056;D058996;Quality Improvement;0
+2057;D030301;Activin Receptors, Type II;0
+2058;D028341;Activins;0
+2059;D052006;Bone Morphogenetic Protein Receptors, Type II;0
+2060;D011956;Receptors, Cell Surface;0
+2061;D051898;Smad1 Protein;0
+2062;D002256;Carbonic Anhydrases;0
+2063;D012964;Sodium;0
+2064;D025262;Vacuolar Proton-Translocating ATPases;0
+2065;D000255;Adenosine Triphosphate;0
+2066;D001572;Benzofurans;0
+2067;D011505;Protein-Tyrosine Kinases;0
+2068;D053844;Lasers, Solid-State;0
+2069;D007889;Leiomyoma;0
+2070;D005353;Fibronectins;0
+2071;D039302;Integrin alphaVbeta3;0
+2072;D017277;Drug Approval;0
+2073;D058539;Phosphatidylinositol 3-Kinase;0
+2074;D011134;Polysaccharides;0
+2075;D044648;Undaria;0
+2076;D004465;Economic Competition;0
+2077;D018581;Technology Transfer;0
+2078;D015295;Antigens, Tumor-Associated, Carbohydrate;0
+2079;D007722;Health Knowledge, Attitudes, Practice;0
+2080;D058007;Physicians, Primary Care;0
+2081;D053938;DNA Fragmentation;0
+2082;D018972;Insulin-Like Growth Factor Binding Protein 3;0
+2083;D036701;Limonins;0
+2084;D013002;Somatomedins;0
+2085;D000123;Acetyltransferases;0
+2086;D060406;Brassinosteroids;0
+2087;D009955;Ornithine Decarboxylase;0
+2088;D065108;Ornithine Decarboxylase Inhibitors;0
+2089;D000587;Oxidoreductases Acting on CH-NH Group Donors;0
+2090;D011073;Polyamines;0
+2091;D011700;Putrescine;0
+2092;D013260;Steroids, Heterocyclic;0
+2093;D011867;Radioisotope Teletherapy;0
+2094;D006442;Hemoglobin A, Glycosylated;0
+2095;D002279;Carcinoma 256, Walker;0
+2096;D008689;Methacrylates;0
+2097;D011109;Polymethacrylic Acids;0
+2098;D008697;Methane;0
+2099;D018971;Insulin-Like Growth Factor Binding Protein 2;0
+2100;D009284;Naphthols;0
+2101;D056564;Sirtuin 1;0
+2102;D056565;Sirtuin 2;0
+2103;D002867;Chromones;0
+2104;D003374;Coumarins;0
+2105;D009025;Morpholines;0
+2106;D058186;Acute Kidney Injury;0
+2107;D007659;Ketones;0
+2108;D024201;Bystander Effect;0
+2109;D005221;Fatigue;0
+2110;D053477;Apoptotic Protease-Activating Factor 1;0
+2111;D053453;Caspase 9;0
+2112;D020552;Comet Assay;0
+2113;D045304;Cytochromes c;0
+2114;D020287;In Situ Nick-End Labeling;0
+2115;D007529;Isoflavones;0
+2116;D061105;Peroxiredoxin III;0
+2117;D050998;bcl-2 Homologous Antagonist-Killer Protein;0
+2118;D051020;bcl-X Protein;0
+2119;D002570;Ceruloplasmin;0
+2120;D004221;Disulfiram;0
+2121;D020893;Receptor, ErbB-3;0
+2122;D004970;Estrone;0
+2123;D011353;Prodigiosin;0
+2124;D013629;Tamoxifen;0
+2125;D020362;Paraneoplastic Cerebellar Degeneration;0
+2126;D018094;Receptors, Metabotropic Glutamate;0
+2127;D058998;Remote Sensing Technology;0
+2128;D063990;Gene Ontology;0
+2129;D058977;Molecular Sequence Annotation;0
+2130;D010465;Perception;0
+2131;D063586;Social Validity, Research;0
+2132;D053144;Cell Nucleus Shape;0
+2133;D048429;Cell Size;0
+2134;D024862;Oxyphil Cells;0
+2135;D012261;Ribonucleoproteins;0
+2136;D057228;Masculinity;0
+2137;D014176;Protein Biosynthesis;0
+2138;D000730;Androstadienes;0
+2139;D017028;Caregivers;0
+2140;D016239;MEDLINE;0
+2141;D003644;Death Certificates;0
+2142;D005977;Glutarates;0
+2143;D063065;Organophosphonates;0
+2144;D011849;Radioactive Tracers;0
+2145;D012449;Safety;0
+2146;D007278;Injections, Spinal;0
+2147;D010264;Paraplegia;0
+2148;D013125;Spinal Neoplasms;0
+2149;D011804;Quinolines;0
+2150;D017281;Cost of Illness;0
+2151;D007182;Income;0
+2152;D029623;Primulaceae;0
+2153;D006418;Heme;0
+2154;D044925;Oxidoreductases Acting on CH-CH Group Donors;0
+2155;D002030;Bulbourethral Glands;0
+2156;D008679;Metaplasia;0
+2157;D011230;Precancerous Conditions;0
+2158;D057240;Patient Preference;0
+2159;D011287;Prejudice;0
+2160;D006720;Homozygote;0
+2161;D051858;Forkhead Transcription Factors;0
+2162;D058118;Transcription Factor 7-Like 2 Protein;0
+2163;D054890;Fatty Acid Synthase, Type I;0
+2164;D050155;Lipogenesis;0
+2165;D051780;Sterol Regulatory Element Binding Protein 1;0
+2166;D051782;Sterol Regulatory Element Binding Protein 2;0
+2167;D005720;Gamma Rays;0
+2168;D055504;Insulin Receptor Substrate Proteins;0
+2169;D051135;Rad51 Recombinase;0
+2170;D059767;Recombinational DNA Repair;0
+2171;D020032;Tyrphostins;0
+2172;D018401;Sample Size;0
+2173;D018275;Carcinoma, Lobular;0
+2174;D018395;CA-19-9 Antigen;0
+2175;D010189;Pancreatic Juice;0
+2176;D003451;Cryoprotective Agents;0
+2177;D004121;Dimethyl Sulfoxide;0
+2178;D053672;Electrochemotherapy;0
+2179;D008243;1-Acylglycerophosphocholine O-Acyltransferase;0
+2180;D003506;Cyclofenil;0
+2181;D015735;Mifepristone;0
+2182;D010972;Platelet Activating Factor;0
+2183;D051153;Wnt Proteins;0
+2184;D001429;Bacteriochlorophylls;0
+2185;D012329;RNA, Bacterial;0
+2186;D006787;Hospitals, Veterans;0
+2187;D012947;Social Work;0
+2188;D019069;Cell Respiration;0
+2189;D055786;Gene Knockout Techniques;0
+2190;D024101;Mitochondrial Proteins;0
+2191;D000285;Administration, Rectal;0
+2192;D000772;Anesthesia, Local;0
+2193;D006471;Gastrointestinal Hemorrhage;0
+2194;D006489;Hemostatic Techniques;0
+2195;D006490;Hemostatics;0
+2196;D012002;Rectal Diseases;0
+2197;D002247;Carbon Isotopes;0
+2198;D000893;Anti-Inflammatory Agents;0
+2199;D004742;Enhancer Elements, Genetic;0
+2200;D013534;Survival;0
+2201;D016371;Cranial Irradiation;0
+2202;D055752;Small Cell Lung Carcinoma;0
+2203;D011169;Portal Vein;0
+2204;D001748;Urinary Bladder Neck Obstruction;0
+2205;D026881;Acupuncture;0
+2206;D028241;Camellia sinensis;0
+2207;D000529;Complementary Therapies;0
+2208;D000700;Analgesics;0
+2209;D003697;Delphi Technique;0
+2210;D002940;Circadian Rhythm;0
+2211;D009749;Nutrition Surveys;0
+2212;D014940;Work Schedule Tolerance;0
+2213;D018592;Cross-Over Studies;0
+2214;D019699;Thrombospondins;0
+2215;D003628;Database Management Systems;0
+2216;D055317;Evidence-Based Practice;0
+2217;D008490;Medical Informatics;0
+2218;D042002;Chromatin Assembly and Disassembly;0
+2219;D004965;Estrogen Antagonists;0
+2220;D005849;Gerbillinae;0
+2221;D051360;Cyclin-Dependent Kinase 5;0
+2222;D055550;Protein Stability;0
+2223;D035501;Uncertainty;0
+2224;D012196;Review Literature as Topic;0
+2225;D020727;ADP-Ribosylation Factors;0
+2226;D049409;Luciferases, Firefly;0
+2227;D057507;Mice, 129 Strain;0
+2228;D001597;Benzylidene Compounds;0
+2229;D008546;Melanoma, Experimental;0
+2230;D010881;Piperidones;0
+2231;D016219;Immunotherapy, Adoptive;0
+2232;D014161;Transduction, Genetic;0
+2233;D050699;E2F3 Transcription Factor;0
+2234;D051789;Proto-Oncogene Protein c-fli-1;0
+2235;D034802;RNA-Binding Protein EWS;0
+2236;D003401;Creatine;0
+2237;D010767;Phosphorylcholine;0
+2238;D055879;Gene Knock-In Techniques;0
+2239;D054400;Receptors, CCR7;0
+2240;D040321;Vascular Endothelial Growth Factor Receptor-3;0
+2241;D002734;Chlorophyll;0
+2242;D056604;Grape Seed Extract;0
+2243;D006515;Hepatitis B virus;0
+2244;D016877;Oxidants;0
+2245;D015003;Yeasts;0
+2246;D005492;Folic Acid;0
+2247;D005494;Folic Acid Deficiency;0
+2248;D014803;Vitamin B Complex;0
+2249;D000617;Aminoglycosides;0
+2250;D005839;Gentamicins;0
+2251;D008164;Luminescent Proteins;0
+2252;D011083;Polycyclic Compounds;0
+2253;D001189;Aryl Hydrocarbon Hydroxylases;0
+2254;D065633;Cytochrome P-450 CYP1B1;0
+2255;D016660;NAD(P)H Dehydrogenase (Quinone);0
+2256;D011808;Quinone Reductases;0
+2257;D000068196;Albumin-Bound Paclitaxel;0
+2258;D000418;Albumins;0
+2259;D008940;Mitotic Index;0
+2260;D000490;Allium;0
+2261;D008970;Molecular Weight;0
+2262;D009478;Neuropeptide Y;0
+2263;D002244;Carbon;0
+2264;D020379;Risk Adjustment;0
+2265;D049488;Phosphatidylethanolamine Binding Protein;0
+2266;D011995;Recombination, Genetic;0
+2267;D008325;Mammary Neoplasms, Experimental;0
+2268;D008815;Mice, Inbred Strains;0
+2269;D040281;Vascular Endothelial Growth Factor Receptor-1;0
+2270;D061847;Hospitals, High-Volume;0
+2271;D061846;Hospitals, Low-Volume;0
+2272;D002908;Chronic Disease;0
+2273;D019717;Tissue Inhibitor of Metalloproteinase-3;0
+2274;D019468;Disease Management;0
+2275;D015577;Geriatric Assessment;0
+2276;D016482;Urinalysis;0
+2277;D003713;Dendritic Cells;0
+2278;D013602;T-Lymphocytes, Cytotoxic;0
+2279;D005227;Fatty Acids;0
+2280;D005229;Fatty Acids, Monounsaturated;0
+2281;D029424;Pulmonary Disease, Chronic Obstructive;0
+2282;D012129;Respiratory Function Tests;0
+2283;D015982;Bias (Epidemiology);0
+2284;D008910;Minnesota;0
+2285;D005704;Gallbladder;0
+2286;D005706;Gallbladder Neoplasms;0
+2287;D042882;Gallstones;0
+2288;D001208;Asia;0
+2289;D062606;Tertiary Care Centers;0
+2290;D003558;Cystoscopy;0
+2291;D005781;Gelatin Sponge, Absorbable;0
+2292;D006454;Hemoglobins;0
+2293;D022126;Access to Information;0
+2294;D012935;Social Justice;0
+2295;D008076;Cholesterol, HDL;0
+2296;D019073;HT29 Cells;0
+2297;D019893;Ribosomal Protein S6 Kinases;0
+2298;D002755;Choice Behavior;0
+2299;D002116;Calcitonin;0
+2300;D018276;Carcinoma, Medullary;0
+2301;D006934;Hypercalcemia;0
+2302;D009038;Motion;0
+2303;D046228;Microarray Analysis;0
+2304;D008081;Liposomes;0
+2305;D055605;Physicochemical Phenomena;0
+2306;D018691;Excitatory Amino Acid Antagonists;0
+2307;D018698;Glutamic Acid;0
+2308;D019636;Neurodegenerative Diseases;0
+2309;D018377;Neurotransmitter Agents;0
+2310;D058468;Receptors, Ionotropic Glutamate;0
+2311;D063847;Mean Platelet Volume;0
+2312;D005998;Glycine;0
+2313;D015720;5'-Nucleotidase;0
+2314;D007371;Interferon-gamma;0
+2315;D043705;Receptor, Adenosine A2A;0
+2316;D018417;Th1 Cells;0
+2317;D018932;Chemokine CCL2;0
+2318;D054390;Receptors, CCR2;0
+2319;D000236;Adenoma;0
+2320;D007113;Immunity, Innate;0
+2321;D009249;NADP;0
+2322;D019255;NADPH Oxidase;0
+2323;D018911;Trinucleotide Repeats;0
+2324;D009716;Numerical Analysis, Computer-Assisted;0
+2325;D048031;JNK Mitogen-Activated Protein Kinases;0
+2326;D053511;Matrix Metalloproteinase 14;0
+2327;D051419;Paxillin;0
+2328;D001681;Biological Assay;0
+2329;D006690;Bisbenzimidazole;0
+2330;D004396;Coloring Agents;0
+2331;D016192;G0 Phase;0
+2332;D024301;Plant Bark;0
+2333;D018547;Plant Stems;0
+2334;D012997;Solvents;0
+2335;D051517;Digital Rectal Examination;0
+2336;D000906;Antibodies;0
+2337;D055511;CCN Intercellular Signaling Proteins;0
+2338;D016867;Immunocompromised Host;0
+2339;D007267;Injections;0
+2340;D005982;Glutathione Transferase;0
+2341;D001696;Biomechanical Phenomena;0
+2342;D008568;Memory;0
+2343;D060825;Mild Cognitive Impairment;0
+2344;D009044;Motor Cortex;0
+2345;D059906;Neuroimaging;0
+2346;D017397;Prefrontal Cortex;0
+2347;D015212;Inflammatory Bowel Diseases;0
+2348;D002286;Carcinoma, Ehrlich Tumor;0
+2349;D008422;Materials Testing;0
+2350;D015609;Organotechnetium Compounds;0
+2351;D008315;Malondialdehyde;0
+2352;D009573;Nitrites;0
+2353;D016329;Sp1 Transcription Factor;0
+2354;D051705;Sp3 Transcription Factor;0
+2355;D059186;Chemoradiotherapy, Adjuvant;0
+2356;D008569;Memory Disorders;0
+2357;D009325;Nausea;0
+2358;D011581;Psychological Tests;0
+2359;D011792;Quebec;0
+2360;D012893;Sleep Wake Disorders;0
+2361;D013577;Syndrome;0
+2362;D005269;Femur;0
+2363;D020087;Alu Elements;0
+2364;D017124;Conserved Sequence;0
+2365;D014212;Tretinoin;0
+2366;D051795;Hypoxia-Inducible Factor 1, alpha Subunit;0
+2367;D058112;Septins;0
+2368;D019408;Antigens, CD31;0
+2369;D015360;Analgesia, Epidural;0
+2370;D000768;Anesthesia, General;0
+2371;D006056;Golgi Apparatus;0
+2372;D021382;Protein Sorting Signals;0
+2373;D001854;Bone Marrow Cells;0
+2374;D045164;Mesenchymal Stem Cell Transplantation;0
+2375;D009812;Odors;0
+2376;D055696;Olfactory Perception;0
+2377;D012649;Self Concept;0
+2378;D014556;Urine;0
+2379;D005979;Glutathione Peroxidase;0
+2380;D009517;New South Wales;0
+2381;D011793;Queensland;0
+2382;D012621;Seasons;0
+2383;D013648;Tasmania;0
+2384;D014466;Ultraviolet Rays;0
+2385;D025601;Adenomatous Polyposis Coli Protein;0
+2386;D018053;Arsenites;0
+2387;D016335;Zinc Fingers;0
+2388;D018392;Genomic Imprinting;0
+2389;D007335;Insulin-Like Growth Factor II;0
+2390;D003237;Connecticut;0
+2391;D062305;Geographic Mapping;0
+2392;D062206;Spatial Analysis;0
+2393;D000964;Antimetabolites, Antineoplastic;0
+2394;D001973;Bromodeoxyuridine;0
+2395;D031885;Cimicifuga;0
+2396;D033705;Equilibrative Nucleoside Transport Proteins;0
+2397;D005472;Fluorouracil;0
+2398;D009705;Nucleosides;0
+2399;D013936;Thymidine;0
+2400;D014740;Vidarabine;0
+2401;D014861;Washington;0
+2402;D000622;Aminolevulinic Acid;0
+2403;D053179;Caspase 7;0
+2404;D000042;Absorption;0
+2405;D013696;Temperature;0
+2406;D008752;Methylene Chloride;0
+2407;D016273;Occupational Exposure;0
+2408;D001341;Autonomic Nervous System;0
+2409;D055495;Neurogenesis;0
+2410;D002518;Ceramides;0
+2411;D056488;Histone Chaperones;0
+2412;D010749;Phosphoprotein Phosphatases;0
+2413;D001007;Anxiety;0
+2414;D056704;Adaptive Immunity;0
+2415;D000256;Adenoviridae;0
+2416;D015774;Ganciclovir;0
+2417;D013937;Thymidine Kinase;0
+2418;D019076;Transgenes;0
+2419;D048948;14-3-3 Proteins;0
+2420;D054645;Protein Phosphatase 1;0
+2421;D019908;Proto-Oncogene Proteins c-raf;0
+2422;D020687;cdc25 Phosphatases;0
+2423;D000942;Antigens, Bacterial;0
+2424;D001426;Bacterial Proteins;0
+2425;D016481;Helicobacter Infections;0
+2426;D016480;Helicobacter pylori;0
+2427;D059266;Bisphosphonate-Associated Osteonecrosis of the Jaw;0
+2428;D007157;Immunologic Surveillance;0
+2429;D007668;Kidney;0
+2430;D000257;Adenoviridae Infections;0
+2431;D062727;Coxsackie and Adenovirus Receptor-Like Membrane Protein;0
+2432;D003384;Coxsackievirus Infections;0
+2433;D003581;Cytodiagnosis;0
+2434;D003194;Computer-Assisted Instruction;0
+2435;D004521;Educational Measurement;0
+2436;D006339;Heart Rate;0
+2437;D002830;Choroid Neoplasms;0
+2438;D001826;Body Fluids;0
+2439;D013867;Thiohydantoins;0
+2440;D000284;Administration, Oral;0
+2441;D015738;Famotidine;0
+2442;D008231;Lymphopenia;0
+2443;D014159;Transducers;0
+2444;D029627;Crassulaceae;0
+2445;D019108;Tight Junctions;0
+2446;D015085;2,4,5-Trichlorophenoxyacetic Acid;0
+2447;D004147;Dioxins;0
+2448;D004364;Pharmaceutical Preparations;0
+2449;D006760;Hospitalization;0
+2450;D019233;Retreatment;0
+2451;D013530;Surgical Wound Infection;0
+2452;D002163;Cameroon;0
+2453;D029586;Moraceae;0
+2454;D003078;Colchicine;0
+2455;D010755;Organophosphates;0
+2456;D008099;Liver;0
+2457;D008862;Microsomes, Liver;0
+2458;D009757;Nylons;0
+2459;D018675;Toxicity Tests;0
+2460;D055760;SOXF Transcription Factors;0
+2461;D014464;Ultrasonic Therapy;0
+2462;D000339;Affect;0
+2463;D001288;Attention;0
+2464;D009483;Neuropsychological Tests;0
+2465;D018093;Gelatinases;0
+2466;D020781;Matrix Metalloproteinase 1;0
+2467;D020929;Mitogen-Activated Protein Kinase Kinases;0
+2468;D032022;Delegation, Professional;0
+2469;D015641;Radiography, Interventional;0
+2470;D056744;Cyclin B1;0
+2471;D056765;Cyclin B2;0
+2472;D008533;Megakaryocytes;0
+2473;D011123;Polyploidy;0
+2474;D010045;Outpatients;0
+2475;D011569;Psychiatric Status Rating Scales;0
+2476;D016347;Medical Records Systems, Computerized;0
+2477;D055119;Elastic Modulus;0
+2478;D054459;Elasticity Imaging Techniques;0
+2479;D014783;Viscosity;0
+2480;D056284;Histone Deacetylase 1;0
+2481;D056464;Histone Deacetylase 2;0
+2482;D001194;Asbestos;0
+2483;D002273;Carcinogens;0
+2484;D016543;Central Nervous System Neoplasms;0
+2485;D017608;Chromium Compounds;0
+2486;D019652;Extraction and Processing Industry;0
+2487;D019337;Hematologic Neoplasms;0
+2488;D009381;Neoplasms, Radiation-Induced;0
+2489;D009784;Occupational Diseases;0
+2490;D014501;Uranium;0
+2491;D016572;Cyclosporine;0
+2492;D016030;Kidney Transplantation;0
+2493;D009173;Mycophenolic Acid;0
+2494;D016559;Tacrolimus;0
+2495;D019529;Sexuality;0
+2496;D000305;Adrenal Cortex Hormones;0
+2497;D015786;Cytochromes b5;0
+2498;D013379;Substrate Specificity;0
+2499;D015262;Xenobiotics;0
+2500;D005740;Gases;0
+2501;D015321;Gene Rearrangement;0
+2502;D022502;Stress Fibers;0
+2503;D011257;Pregnancy Proteins;0
+2504;D006566;Herpesviridae Infections;0
+2505;D019288;Herpesvirus 8, Human;0
+2506;D017747;Seafood;0
+2507;D044445;Ulva;0
+2508;D009664;Norway;0
+2509;D004921;Erythropoietin;0
+2510;D053614;Janus Kinase 2;0
+2511;D017467;Receptors, Erythropoietin;0
+2512;D008223;Lymphoma;0
+2513;D009042;Motivation;0
+2514;D015279;Organizational Culture;0
+2515;D010558;Personnel Loyalty;0
+2516;D012537;Scandinavian and Nordic Countries;0
+2517;D012944;Social Support;0
+2518;D017132;Workplace;0
+2519;D018360;Crystallography, X-Ray;0
+2520;D000604;Amino Acyl-tRNA Synthetases;0
+2521;D019169;Jurkat Cells;0
+2522;D003201;Computers;0
+2523;D011381;Programming Languages;0
+2524;D054623;Receptor-Like Protein Tyrosine Phosphatases, Class 2;0
+2525;D017567;Karnofsky Performance Status;0
+2526;D006764;Hospitals, Community;0
+2527;D008404;Massachusetts;0
+2528;D005869;Ghana;0
+2529;D006295;Health Resources;0
+2530;D006784;Hospitals, Teaching;0
+2531;D016730;Program Development;0
+2532;D007621;Karyotyping;0
+2533;D007713;Klinefelter Syndrome;0
+2534;D056128;Obesity, Abdominal;0
+2535;D055105;Waist Circumference;0
+2536;D029001;Herbal Medicine;0
+2537;D010636;Phenols;0
+2538;D001800;Blood Specimen Collection;0
+2539;D007258;Informed Consent;0
+2540;D008487;Medical History Taking;0
+2541;D008498;Medical Record Linkage;0
+2542;D014546;Urinary Catheterization;0
+2543;D045423;Microbubbles;0
+2544;D061088;Photoacoustic Techniques;0
+2545;D013010;Sonication;0
+2546;D013016;Sound;0
+2547;D015525;Fatty Acids, Omega-3;0
+2548;D008136;Longevity;0
+2549;D024202;Electrophoretic Mobility Shift Assay;0
+2550;D050938;Glycine N-Methyltransferase;0
+2551;D001999;Bronchoscopy;0
+2552;D018358;Neuroendocrine Tumors;0
+2553;D017565;Sarcoidosis, Pulmonary;0
+2554;D000393;Air Pollutants;0
+2555;D019610;Cytoprotection;0
+2556;D011078;Polychlorinated Biphenyls;0
+2557;D008637;Mesenchymoma;0
+2558;D012208;Rhabdomyosarcoma;0
+2559;D060466;Axin Protein;0
+2560;D019412;Anatomy, Cross-Sectional;0
+2561;D004043;Dietary Fiber;0
+2562;D004108;Dilatation, Pathologic;0
+2563;D004733;Enema;0
+2564;D012319;RNA Polymerase II;0
+2565;D000429;Alcohol Oxidoreductases;0
+2566;D000449;Aldehyde Reductase;0
+2567;D003630;Daunorubicin;0
+2568;D007928;Lethal Dose 50;0
+2569;D023421;Models, Animal;0
+2570;D010984;Platinum;0
+2571;D016195;G2 Phase;0
+2572;D051701;Activating Transcription Factor 4;0
+2573;D026923;Amino Acid Transport Systems, Basic;0
+2574;D007930;Leucine;0
+2575;D008163;Luminescent Measurements;0
+2576;D018014;Gene Transfer Techniques;0
+2577;D018139;Simplexvirus;0
+2578;D050828;Protein Inhibitors of Activated STAT;0
+2579;D051899;Smad2 Protein;0
+2580;D051901;Smad4 Protein;0
+2581;D025841;Small Ubiquitin-Related Modifier Proteins;0
+2582;D020168;P-Glycoprotein;0
+2583;D018435;P-Glycoproteins;0
+2584;D013449;Sulfonamides;0
+2585;D014052;Toluidines;0
+2586;D017468;Receptors, Fibroblast Growth Factor;0
+2587;D019098;Telomerase;0
+2588;D059505;Telomere Homeostasis;0
+2589;D009948;Orgasm;0
+2590;D005102;Health Expenditures;0
+2591;D001671;Biochemistry;0
+2592;D064235;Matrilin Proteins;0
+2593;D012554;Schistosomiasis japonica;0
+2594;D017356;Synchrotrons;0
+2595;D049628;Body Size;0
+2596;D053261;Antigens, CD137;0
+2597;D019013;Antigens, CD40;0
+2598;D018793;Interleukin-13;0
+2599;D053220;Receptors, TNF-Related Apoptosis-Inducing Ligand;0
+2600;D039563;Histamine H1 Antagonists, Non-Sedating;0
+2601;D011968;Receptors, Histamine;0
+2602;D016593;Terfenadine;0
+2603;D050378;T-Lymphocytes, Regulatory;0
+2604;D014566;Urogenital System;0
+2605;D014611;Vaccination;0
+2606;D053492;Elafin;0
+2607;D057446;Hydrodynamics;0
+2608;D011312;Pressure;0
+2609;D011239;Prednisolone;0
+2610;D006435;Renal Dialysis;0
+2611;D017408;Guidelines as Topic;0
+2612;D002763;Cholecystectomy;0
+2613;D013521;Urologic Surgical Procedures, Male;0
+2614;D004563;Electrochemistry;0
+2615;D052157;Aptamers, Nucleotide;0
+2616;D052156;SELEX Aptamer Technique;0
+2617;D051416;Focal Adhesion Protein-Tyrosine Kinases;0
+2618;D039081;Integrin alpha5beta1;0
+2619;D015507;Drugs, Investigational;0
+2620;D008055;Lipids;0
+2621;D010718;Phosphatidylserines;0
+2622;D013107;Sphingolipids;0
+2623;D013109;Sphingomyelins;0
+2624;D014914;Whole Blood Coagulation Time;0
+2625;D017679;Cryotherapy;0
+2626;D012003;Rectal Fistula;0
+2627;D014548;Urinary Fistula;0
+2628;D005191;Family Characteristics;0
+2629;D057181;Pleasure;0
+2630;D004630;Emergencies;0
+2631;D013046;Specific Gravity;0
+2632;D007279;Injections, Subcutaneous;0
+2633;D045784;Diterpenes, Abietane;0
+2634;D019485;Bone Morphogenetic Proteins;0
+2635;D006207;Half-Life;0
+2636;D013737;Testis;0
+2637;D019925;Cyclin A;0
+2638;D015470;Leukemia, Myeloid, Acute;0
+2639;D000432;Methanol;0
+2640;D014704;Veratrum Alkaloids;0
+2641;D037502;Galectin 3;0
+2642;D018387;Codon, Initiator;0
+2643;D036082;Receptor, EphA1;0
+2644;D000634;Aminoquinolines;0
+2645;D020830;rac1 GTP-Binding Protein;0
+2646;D016895;Culture Media, Serum-Free;0
+2647;D003513;Cycloheximide;0
+2648;D011500;Protein Synthesis Inhibitors;0
+2649;D014227;Triazines;0
+2650;D001271;Atlases as Topic;0
+2651;D003062;Codon;0
+2652;D007791;Lactoylglutathione Lyase;0
+2653;D033962;Adaptor Protein Complex 2;0
+2654;D022161;Transport Vesicles;0
+2655;D001940;Breast;0
+2656;D058922;Inflammatory Breast Neoplasms;0
+2657;D042643;Vascular Endothelial Growth Factor D;0
+2658;D017027;Protein Tyrosine Phosphatases;0
+2659;D011554;Pseudopodia;0
+2660;D033921;Vesicular Transport Proteins;0
+2661;D062665;Epidemiological Monitoring;0
+2662;D036761;Ultrasound, High-Intensity Focused, Transrectal;0
+2663;D024504;gamma-Tocopherol;0
+2664;D004248;DNA (Cytosine-5-)-Methyltransferase;0
+2665;D008668;Metallothionein;0
+2666;D000505;Alopecia;0
+2667;D020847;Estrogen Receptor Modulators;0
+2668;D029584;Prostatic Secretory Proteins;0
+2669;D012749;Sexually Transmitted Diseases;0
+2670;D036103;Nanotechnology;0
+2671;D020706;Laparoscopes;0
+2672;D060850;LIM-Homeodomain Proteins;0
+2673;D051761;Paired Box Transcription Factors;0
+2674;D016708;Synaptophysin;0
+2675;D010080;Oxazoles;0
+2676;D050257;Tubulin Modulators;0
+2677;D050197;Atherosclerosis;0
+2678;D002097;C-Reactive Protein;0
+2679;D008953;Models, Anatomic;0
+2680;D062485;Breath Holding;0
+2681;D055425;Respiratory-Gated Imaging Techniques;0
+2682;D029402;Bignoniaceae;0
+2683;D008214;Lymphocytes;0
+2684;D016378;Tissue Transplantation;0
+2685;D016232;Endothelins;0
+2686;D015119;Aminocaproic Acid;0
+2687;D003534;Cyproterone;0
+2688;D057970;Inappropriate Prescribing;0
+2689;D018021;Lithium Chloride;0
+2690;D008550;Melatonin;0
+2691;D015930;Diet Records;0
+2692;D002149;Energy Intake;0
+2693;D005231;Fatty Acids, Unsaturated;0
+2694;D031324;Juglans;0
+2695;D009754;Nuts;0
+2696;D019743;Chemokines, CXC;0
+2697;D012426;Russia;0
+2698;D002490;Central Nervous System;0
+2699;D019382;Human Growth Hormone;0
+2700;D015741;Metribolone;0
+2701;D008817;Mice, Mutant Strains;0
+2702;D050826;Suppressor of Cytokine Signaling Proteins;0
+2703;D013006;Growth Hormone;0
+2704;D054562;Protein Tyrosine Phosphatase, Non-Receptor Type 1;0
+2705;D018798;Anemia, Iron-Deficiency;0
+2706;D001321;Autistic Disorder;0
+2707;D002417;Cattle;1
+2708;D005504;Food Analysis;0
+2709;D006041;Goats;0
+2710;D007787;Lactose Intolerance;0
+2711;D008892;Milk;0
+2712;D016269;Milk Hypersensitivity;0
+2713;D008895;Milk, Human;0
+2714;D009753;Nutritive Value;0
+2715;D007275;Injections, Intravenous;0
+2716;D018664;Interleukin-12;0
+2717;D020382;Interleukin-18;0
+2718;D064094;Interleukin-27;0
+2719;D006412;Hematopoietic Stem Cells;0
+2720;D051550;I-kappa B Kinase;0
+2721;D000727;Androgen-Binding Protein;0
+2722;D011839;Radiation, Ionizing;0
+2723;D002868;Chromosomal Proteins, Non-Histone;0
+2724;D062565;Acid Sensing Ion Channels;0
+2725;D009414;Nerve Growth Factors;0
+2726;D017147;Defibrillators, Implantable;0
+2727;D004868;Equipment Failure;0
+2728;D009502;Neutrons;0
+2729;D010138;Pacemaker, Artificial;0
+2730;D012062;Relative Biological Effectiveness;0
+2731;D007111;Immunity, Cellular;0
+2732;D056724;Immunity, Humoral;0
+2733;D056747;Immunomodulation;0
+2734;D016233;Immunotherapy, Active;0
+2735;D009132;Muscles;0
+2736;D007958;Leukocyte Count;0
+2737;D007964;Leukocytosis;0
+2738;D059035;Perioperative Period;0
+2739;D008960;Models, Psychological;0
+2740;D064890;Social Determinants of Health;0
+2741;D032882;Comprehension;0
+2742;D054626;Consumer Health Information;0
+2743;D033181;Information Dissemination;0
+2744;D039121;Integrin alpha6beta1;0
+2745;D012441;Saccharomyces cerevisiae;0
+2746;D029701;Saccharomyces cerevisiae Proteins;0
+2747;D013261;Sterols;0
+2748;D014774;Virulence;0
+2749;D019899;Paracrine Communication;0
+2750;D013662;Tea;0
+2751;D039481;Antigens, CD11b;0
+2752;D025461;Feedback, Physiological;0
+2753;D044162;Parathyroid Hormone-Related Protein;0
+2754;D064790;Clinical Laboratory Services;0
+2755;D017403;In Situ Hybridization;0
+2756;D022661;RNA, Untranslated;0
+2757;D015214;Antigens, Differentiation, Myelomonocytic;0
+2758;D004714;Endometrial Hyperplasia;0
+2759;D007044;Hysterectomy;0
+2760;D010450;Endopeptidases;0
+2761;D016166;Free Radical Scavengers;0
+2762;D018390;Gene Targeting;0
+2763;D011685;Purine Nucleotides;0
+2764;D054637;Dual-Specificity Phosphatases;0
+2765;D010711;Phosphatidate Phosphatase;0
+2766;D018129;Phosphatidylinositol Phosphates;0
+2767;D010744;Phosphoric Monoester Hydrolases;0
+2768;D004782;Environmental Health;0
+2769;D004785;Environmental Pollutants;0
+2770;D006176;Gynecology;0
+2771;D009774;Obstetrics;0
+2772;D011247;Pregnancy;1
+2773;D060728;Reproductive Health;0
+2774;D018456;Reproductive Medicine;0
+2775;D046468;Sexual Development;0
+2776;D035862;Vulnerable Populations;0
+2777;D016387;Women's Health;0
+2778;D002402;Cathepsin D;0
+2779;D016179;Granulocyte Colony-Stimulating Factor;0
+2780;D061346;Laser Capture Microdissection;0
+2781;D050505;Mutant Proteins;0
+2782;D016103;Spinal Fractures;0
+2783;D002104;Cadmium;0
+2784;D034961;Antigens, Nuclear;0
+2785;D064447;Checkpoint Kinase 2;0
+2786;D011494;Protein Kinases;0
+2787;D053159;Dysuria;0
+2788;D047310;Apigenin;0
+2789;D004345;Drug Industry;0
+2790;D049490;Systems Biology;0
+2791;D013678;Technology, Pharmaceutical;0
+2792;D002849;Chromatography, Gas;0
+2793;D005410;Flame Ionization;0
+2794;D028901;alpha Karyopherins;0
+2795;D009206;Myocardium;0
+2796;D010091;Oximes;0
+2797;D011759;Pyrrolidines;0
+2798;D000254;Sodium-Potassium-Exchanging ATPase;0
+2799;D013256;Steroids;0
+2800;D010957;Plasmids;0
+2801;D007118;Immunoassay;0
+2802;D039942;Neuropilin-1;0
+2803;D010807;Physical Endurance;0
+2804;D053858;Metabolic Networks and Pathways;0
+2805;D019264;Adoptive Transfer;0
+2806;D006388;Hemagglutinins;0
+2807;D061206;Neoplasm Micrometastasis;0
+2808;D006377;T-Lymphocytes, Helper-Inducer;0
+2809;D053582;Interleukin-1alpha;0
+2810;D053583;Interleukin-1beta;0
+2811;D019220;High-Energy Shock Waves;0
+2812;D050152;Intra-Abdominal Fat;0
+2813;D011028;Pneumoperitoneum, Artificial;0
+2814;D003627;Data Interpretation, Statistical;0
+2815;D008956;Models, Chemical;0
+2816;D001774;Blood Chemical Analysis;0
+2817;D016333;HIV Protease;0
+2818;D019095;Point-of-Care Systems;0
+2819;D019410;Interleukin-16;0
+2820;D054501;Group II Phospholipases A2;0
+2821;D000685;Serum Amyloid A Protein;0
+2822;D001213;Asian Americans;0
+2823;D000040;Abscisic Acid;0
+2824;D017796;Caulimovirus;0
+2825;D018506;Gene Expression Regulation, Plant;0
+2826;D032306;Petunia;0
+2827;D011523;Protoplasts;0
+2828;D020156;Salicylic Acid;0
+2829;D014026;Tobacco;0
+2830;D000478;Alkylation;0
+2831;D054879;Halogenation;0
+2832;D001435;Bacteriophages;0
+2833;D014771;Virion;0
+2834;D014965;X-Rays;0
+2835;D011533;Proviruses;0
+2836;D012192;Retroviridae Infections;0
+2837;D014779;Virus Replication;0
+2838;D058008;Xenotropic murine leukemia virus-related virus;0
+2839;D003921;Diabetes Mellitus, Experimental;0
+2840;D005947;Glucose;0
+2841;D013311;Streptozocin;0
+2842;D017362;Cyclic AMP Response Element-Binding Protein;0
+2843;D004837;Epinephrine;0
+2844;D013156;Splenectomy;0
+2845;D010456;Peptides, Cyclic;0
+2846;D009520;New Zealand;0
+2847;D015067;17-Hydroxysteroid Dehydrogenases;0
+2848;D001897;Boronic Acids;0
+2849;D000069286;Bortezomib;0
+2850;D007976;Leupeptins;0
+2851;D043266;Steryl-Sulfatase;0
+2852;D015238;Sulfotransferases;0
+2853;D064804;Urological Agents;0
+2854;D008322;Mammals;0
+2855;D012270;Ribosomes;0
+2856;D001862;Bone Resorption;0
+2857;D058491;Bacterial Load;0
+2858;D006575;Heterocyclic Compounds, 3-Ring;0
+2859;D002872;Chromosome Deletion;0
+2860;D002889;Chromosomes, Human, Pair 2;0
+2861;D006630;Hispanic Americans;0
+2862;D013781;Texas;0
+2863;D020746;Calcium Channels, L-Type;0
+2864;D018076;DNA, Complementary;0
+2865;D015673;Fatigue Syndrome, Chronic;0
+2866;D007962;Leukocytes;0
+2867;D006304;Health Status;0
+2868;D055028;Comparative Genomic Hybridization;0
+2869;D004269;DNA, Bacterial;0
+2870;D016680;Genome, Bacterial;0
+2871;D054884;Host-Pathogen Interactions;0
+2872;D018625;Microscopy, Atomic Force;0
+2873;D011424;Propionibacterium;0
+2874;D012867;Skin;0
+2875;D014563;Urodynamics;0
+2876;D030262;Soybean Proteins;0
+2877;D000698;Analgesia;0
+2878;D000779;Anesthetics, Local;0
+2879;D004008;Diclofenac;0
+2880;D005782;Gels;0
+2881;D015742;Propofol;0
+2882;D013488;Suppositories;0
+2883;D051798;Inhibitor of Differentiation Protein 1;0
+2884;D003071;Cognition;0
+2885;D013647;Task Performance and Analysis;0
+2886;D010174;Pamphlets;0
+2887;D010358;Patient Participation;0
+2888;D051861;Antigens, CD82;0
+2889;D004416;Dysplastic Nevus Syndrome;0
+2890;D001344;Autopsy;0
+2891;D020239;Receptor Cross-Talk;0
+2892;D015675;Osteocalcin;0
+2893;D002085;Butylhydroxybutylnitrosamine;0
+2894;D013326;Strontium Radioisotopes;0
+2895;D007989;Libido;0
+2896;D012647;Self-Assessment;0
+2897;D017252;Antigens, CD3;0
+2898;D007140;Immunoglobulin Fab Fragments;0
+2899;D007963;Leukocytes, Mononuclear;0
+2900;D015202;Protein Engineering;0
+2901;D009675;Novobiocin;0
+2902;D011489;Protein Denaturation;0
+2903;D058849;Protein Refolding;0
+2904;D012156;Reticulocytes;0
+2905;D012235;Rhodamines;0
+2906;D000068579;Celecoxib;0
+2907;D008503;Medical Staff;0
+2908;D017748;Time Management;0
+2909;D013996;Time and Motion Studies;0
+2910;D000098;Acetophenones;0
+2911;D001578;Benzopyrans;0
+2912;D016304;Hospitals, Private;0
+2913;D006779;Hospitals, Public;0
+2914;D003327;Coronary Disease;0
+2915;D006495;Heparin, Low-Molecular-Weight;0
+2916;D017052;Hospital Mortality;0
+2917;D011322;Primary Prevention;0
+2918;D013923;Thromboembolism;0
+2919;D026403;S-Nitrosothiols;0
+2920;D002248;Carbon Monoxide;0
+2921;D056918;Nuclear Receptor Coactivators;0
+2922;D020840;Tissue Kallikreins;0
+2923;D010900;Pituitary Diseases;0
+2924;D001881;Borates;0
+2925;D016138;Walking;0
+2926;D040501;Calgranulin A;0
+2927;D040502;Calgranulin B;0
+2928;D000498;Allyl Compounds;0
+2929;D016315;Proto-Oncogene Proteins c-abl;0
+2930;D020743;rhoB GTP-Binding Protein;0
+2931;D008460;Meat;0
+2932;D064209;Phytochemicals;0
+2933;D050756;Cyclin-Dependent Kinase Inhibitor Proteins;0
+2934;D051796;Inhibitor of Differentiation Proteins;0
+2935;D000103;Acetyl-CoA Carboxylase;0
+2936;D005992;Glycerol-3-Phosphate O-Acyltransferase;0
+2937;D044243;Linoleic Acids, Conjugated;0
+2938;D019301;Oleic Acid;0
+2939;D013229;Stearic Acids;0
+2940;D004960;Estradiol Dehydrogenases;0
+2941;D044950;Flavanones;0
+2942;D009549;Nigeria;0
+2943;D050976;Basic-Leucine Zipper Transcription Factors;0
+2944;D000001;Calcimycin;0
+2945;D050883;HSC70 Heat-Shock Proteins;0
+2946;D059250;Administration, Metronomic;0
+2947;D013830;Thiadiazoles;0
+2948;D009930;Organic Chemicals;0
+2949;D013056;Spectrophotometry, Ultraviolet;0
+2950;D012847;Single Person;0
+2951;D053713;Azoospermia;0
+2952;D005640;Follicle Stimulating Hormone;0
+2953;D007986;Luteinizing Hormone;0
+2954;D012326;RNA Splicing;0
+2955;D056808;Biostatistics;0
+2956;D020930;MAP Kinase Kinase Kinases;0
+2957;D055647;Rats, Transgenic;0
+2958;D003907;Dexamethasone;0
+2959;D009101;Multiple Myeloma;0
+2960;D010447;Peptide Hydrolases;0
+2961;D019947;Receptors, Interleukin-6;0
+2962;D053668;Syndecan-1;0
+2963;D013792;Thalidomide;0
+2964;D009133;Muscular Atrophy;0
+2965;D032761;Animal Experimentation;0
+2966;D001823;Body Composition;0
+2967;D019415;Torque;0
+2968;D002102;Cadaver;0
+2969;D001794;Blood Pressure;0
+2970;D017079;Exercise Tolerance;0
+2971;D016037;Single-Blind Method;0
+2972;D000279;Administration, Cutaneous;0
+2973;D011086;Polycythemia;0
+2974;D012891;Sleep Apnea Syndromes;0
+2975;D013607;Tablets;0
+2976;D019985;Benchmarking;0
+2977;D012744;Sex Ratio;0
+2978;D013880;Thioredoxin-Disulfide Reductase;0
+2979;D017304;Annexin A5;0
+2980;D050989;GATA2 Transcription Factor;0
+2981;D027702;Organic Cation Transporter 1;0
+2982;D008800;Mexico;0
+2983;D003936;Diagnosis, Computer-Assisted;0
+2984;D012815;Signal Processing, Computer-Assisted;0
+2985;D014584;User-Computer Interface;0
+2986;D014741;Video Recording;0
+2987;D000544;Alzheimer Disease;0
+2988;D018950;Antigens, CD14;0
+2989;D001249;Asthma;0
+2990;D016011;Normal Distribution;0
+2991;D016343;Monitoring, Intraoperative;0
+2992;D057868;Anastomotic Leak;0
+2993;D007081;Ileostomy;0
+2994;D002408;Catheters, Indwelling;0
+2995;D019300;Medical Errors;0
+2996;D009862;Online Systems;0
+2997;D000287;Administration, Topical;0
+2998;D001003;Anal Canal;0
+2999;D057908;Argon Plasma Coagulation;0
+3000;D003029;Coagulants;0
+3001;D012677;Sensation;0
+3002;D007866;Leg;0
+3003;D064797;Physical Conditioning, Human;0
+3004;D060726;Torso;0
+3005;D008246;Lysophospholipids;0
+3006;D011493;Protein Kinase C;0
+3007;D049368;Receptors, Lysophosphatidic Acid;0
+3008;D010738;Type C Phospholipases;0
+3009;D001793;Blood Preservation;0
+3010;D006305;Health Status Indicators;0
+3011;D011498;Protein Precursors;0
+3012;D006358;Hot Temperature;0
+3013;D018716;Molecular Mimicry;0
+3014;D000570;American Cancer Society;0
+3015;D012772;Shock, Septic;0
+3016;D016060;Sorption Detoxification;0
+3017;D001618;beta-Lactamases;0
+3018;D064420;Drug-Related Side Effects and Adverse Reactions;0
+3019;D017493;Antigens, CD45;0
+3020;D039421;Integrin alpha2;0
+3021;D051140;Selenoproteins;0
+3022;D003560;Cysts;0
+3023;D004543;Ejaculatory Ducts;0
+3024;D051516;Hemospermia;0
+3025;D054547;National Cancer Institute (U.S.);0
+3026;D012109;Research Support as Topic;0
+3027;D014015;Tissue Banks;0
+3028;D009146;Music;0
+3029;D018033;Antibodies, Bispecific;0
+3030;D032383;Myocytes, Cardiac;0
+3031;D004369;Pentetic Acid;0
+3032;D011099;Polyglutamic Acid;0
+3033;D003469;Culture;0
+3034;D063505;Racism;0
+3035;D005336;Fiber Optic Technology;0
+3036;D013552;Swine;1
+3037;D004002;Clodronic Acid;0
+3038;D020121;5' Untranslated Regions;0
+3039;D051959;ELAV Proteins;0
+3040;D006019;Glycolysis;0
+3041;D007136;Immunoglobulins;0
+3042;D012262;Ribonucleoside Diphosphate Reductase;0
+3043;D000427;Alcohol Deterrents;0
+3044;D008745;Methylation;0
+3045;D000991;Antithrombins;0
+3046;D001562;Benzimidazoles;0
+3047;D001777;Blood Coagulation;0
+3048;D000069604;Dabigatran;0
+3049;D015091;beta-Alanine;0
+3050;D006620;Hip Fractures;0
+3051;D044946;Biflavonoids;0
+3052;D005707;Gallic Acid;0
+3053;D008698;Mesylates;0
+3054;D044945;Proanthocyanidins;0
+3055;D013059;Spectrum Analysis, Raman;0
+3056;D005104;Expert Testimony;0
+3057;D058262;Receptor Activity-Modifying Protein 1;0
+3058;D018259;Herpesvirus 1, Human;0
+3059;D017711;Nonlinear Dynamics;0
+3060;D012703;Serotyping;0
+3061;D012402;Rotenone;0
+3062;D014589;Utah;0
+3063;D018803;Models, Economic;0
+3064;D007984;Leydig Cell Tumor;0
+3065;D043205;11-beta-Hydroxysteroid Dehydrogenase Type 1;0
+3066;D006915;Hydroxytestosterones;0
+3067;D008180;Lupus Erythematosus, Systemic;0
+3068;D015596;Nutrition Assessment;0
+3069;D005293;Ferritins;0
+3070;D005737;Garlic;0
+3071;D055765;Shc Signaling Adaptor Proteins;0
+3072;D013440;Sulfides;0
+3073;D018046;Protein C Inhibitor;0
+3074;D011990;Receptors, Transferrin;0
+3075;D059346;Magnets;0
+3076;D008863;Microspheres;0
+3077;D015336;Molecular Probe Techniques;0
+3078;D009767;Obesity, Morbid;0
+3079;D059348;Peripheral Nerve Injuries;0
+3080;D054043;Nuclear Weapons;0
+3081;D047789;World War II;0
+3082;D006576;Heterocyclic Compounds with 4 or More Rings;0
+3083;D020782;Matrix Metalloproteinases;0
+3084;D011161;Porifera;0
+3085;D004574;Electromagnetic Fields;0
+3086;D013778;Tetrazolium Salts;0
+3087;D014343;Trypan Blue;0
+3088;D019405;Cytochrome P-450 CYP11B2;0
+3089;D051544;Cytochrome P-450 CYP3A;0
+3090;D065692;Cytochrome P-450 CYP3A Inhibitors;0
+3091;D013252;Steroid 11-beta-Hydroxylase;0
+3092;D018970;Insulin-Like Growth Factor Binding Protein 1;0
+3093;D002114;Calcinosis;0
+3094;D016684;Prone Position;0
+3095;D009203;Myocardial Infarction;0
+3096;D005127;Eye Color;0
+3097;D006200;Hair Color;0
+3098;D012880;Skin Pigmentation;0
+3099;D019207;beta Carotene;0
+3100;D010597;Pharmacogenetics;0
+3101;D015337;Multicenter Studies as Topic;0
+3102;D011724;Pyridazines;0
+3103;D002875;Chromosomes;0
+3104;D016012;Poisson Distribution;0
+3105;D002109;Caffeic Acids;0
+3106;D010626;Phenylethyl Alcohol;0
+3107;D003466;Cultural Characteristics;0
+3108;D014177;Translations;0
+3109;D010355;Patient Identification Systems;0
+3110;D013131;Spine;0
+3111;D014277;Trigeminal Neuralgia;0
+3112;D044963;Biopsy, Fine-Needle;0
+3113;D006177;Gynecomastia;0
+3114;D009077;Mucins;0
+3115;D017292;Doxazosin;0
+3116;D061985;Madin Darby Canine Kidney Cells;0
+3117;D060388;Support Vector Machine;0
+3118;D043925;Angiogenesis Inducing Agents;0
+3119;D012335;RNA, Ribosomal;0
+3120;D043244;Ribonuclease III;0
+3121;D015152;Blotting, Northern;0
+3122;D058846;Antibodies, Monoclonal, Murine-Derived;0
+3123;D045422;Continuous Positive Airway Pressure;0
+3124;D016393;Lymphoma, B-Cell;0
+3125;D017286;Polysomnography;0
+3126;D000069283;Rituximab;0
+3127;D020181;Sleep Apnea, Obstructive;0
+3128;D013546;Sweating;0
+3129;D011003;Ploidies;0
+3130;D017500;Adenovirus E1A Proteins;0
+3131;D050881;E1A-Associated p300 Protein;0
+3132;D050720;Retinoblastoma-Like Protein p107;0
+3133;D053595;Embryonic Stem Cells;0
+3134;D008648;Mesoderm;0
+3135;D016062;Porosity;0
+3136;D012822;Silicon Dioxide;0
+3137;D006291;Health Policy;0
+3138;D006296;Health Services;0
+3139;D038801;International Classification of Diseases;0
+3140;D007558;Italy;0
+3141;D018499;Linear Energy Transfer;0
+3142;D001698;Biomedical Engineering;0
+3143;D058266;Dielectric Spectroscopy;0
+3144;D003157;Community Pharmacy Services;0
+3145;D006115;Greece;0
+3146;D010595;Pharmacists;0
+3147;D024382;Professional Role;0
+3148;D011369;Professional-Patient Relations;0
+3149;D013885;Thiosulfates;0
+3150;D001363;Awards and Prizes;0
+3151;D006268;Health Facilities;0
+3152;D043371;Fatty Acids, Omega-6;0
+3153;D010743;Phospholipids;0
+3154;D005818;Genetic Engineering;0
+3155;D007202;Indicators and Reagents;0
+3156;D008660;Metabolism;0
+3157;D000320;Adrenergic Fibers;0
+3158;D002799;Cholinergic Fibers;0
+3159;D016259;Genes, myc;0
+3160;D009415;Nerve Net;0
+3161;D010275;Parasympathetic Nervous System;0
+3162;D003324;Coronary Artery Disease;0
+3163;D002895;Chromosomes, Human, Pair 5;0
+3164;D002896;Chromosomes, Human, Pair 6;0
+3165;D002317;Cardiovascular Agents;0
+3166;D019313;BRCA1 Protein;0
+3167;D024682;BRCA2 Protein;0
+3168;D010793;Phthalazines;0
+3169;D005805;Genes, MHC Class I;0
+3170;D001613;beta 2-Microglobulin;0
+3171;D006025;Glycosaminoglycans;0
+3172;D020051;N-Acetylgalactosamine-4-Sulfatase;0
+3173;D009819;Office Visits;0
+3174;D013269;Stochastic Processes;0
+3175;D000172;Acromegaly;0
+3176;D013961;Thyroid Gland;0
+3177;D051927;Antigens, CD24;0
+3178;D000943;Antigens, Differentiation;0
+3179;D020100;Hydrogels;0
+3180;D007153;Immunologic Deficiency Syndromes;0
+3181;D008798;Mevalonic Acid;0
+3182;D016692;Receptors, Antigen, T-Cell, gamma-delta;0
+3183;D016176;T-Lymphocyte Subsets;0
+3184;D055615;Electrical Equipment and Supplies;0
+3185;D012399;Rotation;0
+3186;D004701;Endocrine Gland Neoplasms;0
+3187;D004704;Endocrinology;0
+3188;D004417;Dyspnea;0
+3189;D004487;Edema;0
+3190;D018826;Antigens, CD13;0
+3191;D018819;Dipeptidyl Peptidase 4;0
+3192;D037181;Lectins, C-Type;0
+3193;D012661;Semen;0
+3194;D055648;Cell Physiological Processes;0
+3195;D012330;RNA, Double-Stranded;0
+3196;D002121;Calcium Channel Blockers;0
+3197;D004110;Diltiazem;0
+3198;D008012;Lidocaine;0
+3199;D009407;Nerve Block;0
+3200;D015127;9,10-Dimethyl-1,2-benzanthracene;0
+3201;D015603;Keratinocytes;0
+3202;D010212;Papilloma;0
+3203;D014059;Tongue;0
+3204;D051840;Y-Box-Binding Protein 1;0
+3205;D048490;raf Kinases;0
+3206;D051766;Early Growth Response Protein 1;0
+3207;D020703;ras GTPase-Activating Proteins;0
+3208;D019299;Decompression, Surgical;0
+3209;D001628;Beverages;0
+3210;D010352;Patient Dropouts;0
+3211;D007834;Lasers;0
+3212;D007909;Lenses;0
+3213;D009707;Nucleosomes;0
+3214;D055415;Bone Morphogenetic Protein 4;0
+3215;D019278;Matrix Metalloproteinase 3;0
+3216;D004281;Docosahexaenoic Acids;0
+3217;D051037;Large-Conductance Calcium-Activated Potassium Channel alpha Subunits;0
+3218;D045165;Testosterone Congeners;0
+3219;D038203;alpha-Crystallin B Chain;0
+3220;D051358;Cyclin-Dependent Kinase 4;0
+3221;D000108;Acetylcarnitine;0
+3222;D052160;Benzothiazoles;0
+3223;D034261;Epothilones;0
+3224;D010523;Peripheral Nervous System Diseases;0
+3225;D004801;Eosine Yellowish-(YS);0
+3226;D006416;Hematoxylin;0
+3227;D011773;Pyruvates;0
+3228;D016178;Granulocyte-Macrophage Colony-Stimulating Factor;0
+3229;D017909;Levivirus;0
+3230;D012367;RNA, Viral;0
+3231;D018418;Th2 Cells;0
+3232;D058425;Vaccines, Virus-Like Particle;0
+3233;D000701;Analgesics, Opioid;0
+3234;D017450;Receptors, Opioid, mu;0
+3235;D004591;Electrophoresis, Polyacrylamide Gel;0
+3236;D006020;Glycopeptides;0
+3237;D004502;Education, Medical, Continuing;0
+3238;D002166;Camptothecin;0
+3239;D002474;Cell-Free System;0
+3240;D056970;Co-Repressor Proteins;0
+3241;D012118;Resorcinols;0
+3242;D008579;Meningioma;0
+3243;D019704;Protein Disulfide-Isomerases;0
+3244;D053449;TNF Receptor-Associated Factor 4;0
+3245;D007257;Information Theory;0
+3246;D005714;Gambia;0
+3247;D006509;Hepatitis B;0
+3248;D017325;Hepatitis B Vaccines;0
+3249;D055573;Acid Ceramidase;0
+3250;D028884;Karyopherins;0
+3251;D018160;Receptors, Cytoplasmic and Nuclear;0
+3252;D013110;Sphingosine;0
+3253;D005909;Glioblastoma;0
+3254;D018815;Genes, erbB;0
+3255;D011946;Receptors, Antigen;0
+3256;D018121;Receptors, Cytokine;0
+3257;D005663;Furans;0
+3258;D017705;Lignans;0
+3259;D016196;S Phase;0
+3260;D015060;1,2-Dipalmitoylphosphatidylcholine;0
+3261;D002152;Calorimetry, Differential Scanning;0
+3262;D004333;Drug Administration Routes;0
+3263;D007008;Hypokalemia;0
+3264;D009336;Necrosis;0
+3265;D017670;Sodium Compounds;0
+3266;D020816;Amino Acid Motifs;0
+3267;D019913;Nuclear Localization Signals;0
+3268;D005971;Glutamates;0
+3269;D006147;Guanine;0
+3270;D009944;Organoplatinum Compounds;0
+3271;D000068437;Pemetrexed;0
+3272;D039781;PubMed;0
+3273;D018153;Czech Republic;0
+3274;D035281;Plant Tubers;0
+3275;D013395;Sucrose;0
+3276;D040441;Health Educators;0
+3277;D018239;Seminoma;0
+3278;D018154;Slovakia;0
+3279;D018389;Codon, Nonsense;0
+3280;D053484;RecQ Helicases;0
+3281;D053612;Janus Kinases;0
+3282;D051300;Wiskott-Aldrich Syndrome Protein Family;0
+3283;D019644;Arthroplasty, Replacement, Hip;0
+3284;D009999;Ossification, Heterotopic;0
+3285;D055100;Optical Fibers;0
+3286;D014054;Tomography;0
+3287;D019459;Urothelium;0
+3288;D004790;Enzyme Induction;0
+3289;D007274;Injections, Intraperitoneal;0
+3290;D011412;Propanolamines;0
+3291;D016755;Proto-Oncogene Proteins c-jun;0
+3292;D002852;Chromatography, Ion Exchange;0
+3293;D002677;Chile;0
+3294;D064167;Recommended Dietary Allowances;0
+3295;D001724;Birth Weight;0
+3296;D001827;Body Height;0
+3297;D012572;School Health Services;0
+3298;D004040;Dietary Carbohydrates;0
+3299;D038321;Glycemic Index;0
+3300;D055252;Cell-Derived Microparticles;0
+3301;D066298;In Vitro Techniques;0
+3302;D034443;RNA Transport;0
+3303;D000222;Adaptation, Physiological;0
+3304;D020261;Arsenic Poisoning;0
+3305;D001152;Arsenicals;0
+3306;D036401;Toxicity Tests, Chronic;0
+3307;D000437;Alcoholism;0
+3308;D003156;Community Mental Health Services;0
+3309;D001523;Mental Disorders;0
+3310;D010554;Personality Disorders;0
+3311;D006403;Hematologic Tests;0
+3312;D014944;World Health Organization;0
+3313;D062072;Patient Acuity;0
+3314;D004610;Ellagic Acid;0
+3315;D051547;Heme Oxygenase-1;0
+3316;D003094;Collagen;0
+3317;D004338;Drug Combinations;0
+3318;D002614;Chelating Agents;0
+3319;D006868;Hydrolysis;0
+3320;D028581;Lanthanoid Series Elements;0
+3321;D044004;Xanthones;0
+3322;D017305;Annexin A1;0
+3323;D020148;Butyric Acid;0
+3324;D010899;Pituitary Apoplexy;0
+3325;D010911;Pituitary Neoplasms;0
+3326;D009536;Niacinamide;0
+3327;D051741;Kruppel-Like Transcription Factors;0
+3328;D013334;Students;0
+3329;D016203;CDC2 Protein Kinase;0
+3330;D016213;Cyclins;0
+3331;D002934;Cinnamates;0
+3332;D018844;Cyclin-Dependent Kinases;0
+3333;D011794;Quercetin;0
+3334;D008027;Light;0
+3335;D054638;Dual Specificity Phosphatase 1;0
+3336;D050723;Fractures, Bone;0
+3337;D014781;Viscera;0
+3338;D002762;Cholecalciferol;0
+3339;D013250;Steroid Hydroxylases;0
+3340;D065668;Vitamin D3 24-Hydroxylase;0
+3341;D003511;Cyclohexanols;0
+3342;D019584;Hot Flashes;0
+3343;D017367;Serotonin Uptake Inhibitors;0
+3344;D000069470;Venlafaxine Hydrochloride;0
+3345;D002892;Chromosomes, Human, Pair 22;0
+3346;D020077;Endogenous Retroviruses;0
+3347;D015683;Gene Products, gag;0
+3348;D002880;Chromosomes, Human, Pair 11;0
+3349;D002886;Chromosomes, Human, Pair 17;0
+3350;D019058;Community Networks;0
+3351;D013022;South Carolina;0
+3352;D001491;Basophils;0
+3353;D004804;Eosinophils;0
+3354;D009504;Neutrophils;0
+3355;D003424;Crohn Disease;0
+3356;D010384;Pelvic Bones;0
+3357;D014522;Urethral Diseases;0
+3358;D007430;Intraoperative Care;0
+3359;D041722;Genes, Transgenic, Suicide;0
+3360;D055442;Metabolome;0
+3361;D013385;Succinate Dehydrogenase;0
+3362;D005194;Family Practice;0
+3363;D011111;Polymyalgia Rheumatica;0
+3364;D008350;Manitoba;0
+3365;D009735;Nursing Homes;0
+3366;D012559;Schizophrenia;0
+3367;D008485;Medical Audit;0
+3368;D013727;Terminal Care;0
+3369;D056245;Mi-2 Nucleosome Remodeling and Deacetylase Complex;0
+3370;D057105;Nuclear Receptor Subfamily 4, Group A, Member 1;0
+3371;D002137;Calculi;0
+3372;D001744;Urinary Bladder Calculi;0
+3373;D019951;DNA Polymerase beta;0
+3374;D030561;Databases, Nucleic Acid;0
+3375;D009690;Nucleic Acid Conformation;0
+3376;D017433;Protein Structure, Secondary;0
+3377;D041342;Absorbent Pads;0
+3378;D053825;Suburethral Slings;0
+3379;D019935;Penile Implantation;0
+3380;D015917;Penile Prosthesis;0
+3381;D011474;Prosthesis Design;0
+3382;D007271;Injections, Intradermal;0
+3383;D008253;Macaca mulatta;0
+3384;D011591;Psychology, Medical;0
+3385;D011613;Psychotherapy;0
+3386;D010575;Pesticides;0
+3387;D057089;Pathology, Molecular;0
+3388;D018432;Drug Resistance, Multiple;0
+3389;D006878;Hydroxides;0
+3390;D018655;Lymphocyte Count;0
+3391;D042361;Mammary Glands, Human;0
+3392;D008408;Mastectomy;0
+3393;D016880;Anisotropy;0
+3394;D057132;Nuclear Receptor Subfamily 1, Group F, Member 3;0
+3395;D058504;Th17 Cells;0
+3396;D001446;Balanitis;0
+3397;D010688;Phimosis;0
+3398;D016272;Occupational Health;0
+3399;D027461;Beta vulgaris;0
+3400;D041743;Herb-Drug Interactions;0
+3401;D000872;Anthocyanins;0
+3402;D003470;Culture Media;0
+3403;D018552;Daucus carota;0
+3404;D007701;Kinetin;0
+3405;D014709;Vero Cells;0
+3406;D007372;Interferons;0
+3407;D008826;Microbial Sensitivity Tests;0
+3408;D018116;Vesiculovirus;0
+3409;D000527;Alprostadil;0
+3410;D013811;Psychotherapeutic Processes;0
+3411;D014618;Vacuum;0
+3412;D051700;Activating Transcription Factor 3;0
+3413;D002463;Cell Membrane Permeability;0
+3414;D004622;Embryo, Mammalian;0
+3415;D015852;Eukaryotic Initiation Factor-2;0
+3416;D008148;Lovastatin;0
+3417;D013890;Thiourea;0
+3418;D018003;Receptors, Calcitonin;0
+3419;D007262;Infusions, Intravenous;0
+3420;D027601;Polyomavirus Infections;0
+3421;D044967;Serum;0
+3422;D014412;Tumor Virus Infections;0
+3423;D004578;Electron Spin Resonance Spectroscopy;0
+3424;D006622;Hip Prosthesis;0
+3425;D008670;Metals;0
+3426;D000058;Accidental Falls;0
+3427;D058866;Osteoporotic Fractures;0
+3428;D015400;Clinical Nursing Research;0
+3429;D031204;Caloric Restriction;0
+3430;D017451;Receptors, Somatomedin;0
+3431;D008220;Lymphography;0
+3432;D000880;Anthraquinones;0
+3433;D008727;Methotrexate;0
+3434;D012521;Sarcosine;0
+3435;D050892;Sarcosine Dehydrogenase;0
+3436;D008401;Gas Chromatography-Mass Spectrometry;0
+3437;D009135;Muscular Diseases;0
+3438;D052256;Tendinopathy;0
+3439;D013733;Testicular Diseases;0
+3440;D056510;Position-Specific Scoring Matrices;0
+3441;D001381;Azepines;0
+3442;D004151;Dipeptides;0
+3443;D054440;Receptors, Ghrelin;0
+3444;D013141;Spiro Compounds;0
+3445;D000581;Amidohydrolases;0
+3446;D000626;Aminopeptidases;0
+3447;D044482;Benzeneacetamides;0
+3448;D015251;Epirubicin;0
+3449;D005796;Genes;0
+3450;D000814;Aniline Compounds;0
+3451;D015287;Neurokinin B;0
+3452;D019941;Cyclin-Dependent Kinase Inhibitor p16;0
+3453;D015082;2,2'-Dipyridyl;0
+3454;D042943;Dihydrouracil Dehydrogenase (NADP);0
+3455;D009962;Orotate Phosphoribosyltransferase;0
+3456;D005641;Tegafur;0
+3457;D013939;Thymidine Phosphorylase;0
+3458;D013940;Thymidylate Synthase;0
+3459;D014498;Uracil;0
+3460;D011050;Policy Making;0
+3461;D011085;Polycystic Ovary Syndrome;0
+3462;D017510;Protein Folding;0
+3463;D001773;Blood Cells;0
+3464;D019426;Integrases;0
+3465;D053547;Keratin-14;0
+3466;D053555;Keratin-5;0
+3467;D029181;Spirituality;0
+3468;D018608;Ultrasonography, Doppler;0
+3469;D011211;Electric Power Supplies;0
+3470;D000276;Adjuvants, Immunologic;0
+3471;D004167;Diphtheria Toxin;0
+3472;D005690;Galactose;0
+3473;D006017;Glycolipids;0
+3474;D009844;Oligosaccharides;0
+3475;D014614;Vaccines, Synthetic;0
+3476;D054382;Chemokine CXCL13;0
+3477;D047889;Receptors, Tumor Necrosis Factor, Type II;0
+3478;D040301;Vascular Endothelial Growth Factor Receptor-2;0
+3479;D035463;Pol1 Transcription Initiation Complex Proteins;0
+3480;D018035;Receptors, Odorant;0
+3481;D000792;Angiography;0
+3482;D019086;Bicyclo Compounds, Heterocyclic;0
+3483;D016907;Adverse Drug Reaction Reporting Systems;0
+3484;D018507;Gene Expression Regulation, Developmental;0
+3485;D038081;Organogenesis;0
+3486;D013223;Statistics as Topic;0
+3487;D006579;Heterozygote;0
+3488;D007191;Indazoles;0
+3489;D055948;Sarcopenia;0
+3490;D016366;Open Reading Frames;0
+3491;D001565;Benzoates;0
+3492;D001596;Benzylamines;0
+3493;D050703;E2F2 Transcription Factor;0
+3494;D057093;Orphan Nuclear Receptors;0
+3495;D001281;Atrial Fibrillation;0
+3496;D002446;Celiac Disease;0
+3497;D001920;Bradykinin;0
+3498;D018799;Intercellular Adhesion Molecule-1;0
+3499;D014665;Vasodilator Agents;0
+3500;D059647;Gene-Environment Interaction;0
+3501;D001130;Arizona;0
+3502;D001151;Arsenic;0
+3503;D009658;North Dakota;0
+3504;D009825;Oklahoma;0
+3505;D013023;South Dakota;0
+3506;D025741;HMGA1a Protein;0
+3507;D001783;Blood Flow Velocity;0
+3508;D001916;Brachial Artery;0
+3509;D004730;Endothelium, Vascular;0
+3510;D005996;Nitroglycerin;0
+3511;D014664;Vasodilation;0
+3512;D000225;Adenine;0
+3513;D017321;Clinical Trials, Phase I as Topic;0
+3514;D054481;Thioredoxin Reductase 1;0
+3515;D000082;Acetaminophen;0
+3516;D052244;Endocrine Disruptors;0
+3517;D007213;Indomethacin;0
+3518;D007265;Inhibins;0
+3519;D011453;Prostaglandins;0
+3520;D053554;Keratin-20;0
+3521;D009378;Neoplasms, Multiple Primary;0
+3522;D014516;Ureteral Neoplasms;0
+3523;D052242;Adiponectin;0
+3524;D049629;Waist-Hip Ratio;0
+3525;D003248;Constipation;0
+3526;D003672;Defecation;0
+3527;D010165;Palladium;0
+3528;D018912;Arabs;0
+3529;D011780;Qatar;0
+3530;D014416;Tunisia;0
+3531;D016470;Bacteremia;0
+3532;D016360;Clostridium difficile;0
+3533;D004761;Enterocolitis, Pseudomembranous;0
+3534;D012336;RNA, Ribosomal, 16S;0
+3535;D019926;Cyclin B;0
+3536;D009130;Muscle, Smooth;0
+3537;D009403;Nephrostomy, Percutaneous;0
+3538;D014517;Ureteral Obstruction;0
+3539;D002466;Cell Nucleolus;0
+3540;D009685;Nuclear Envelope;0
+3541;D051571;Protein Kinase C-alpha;0
+3542;D060285;Receptors, Autocrine Motility Factor;0
+3543;D044763;Ubiquitin-Conjugating Enzymes;0
+3544;D002560;Cerebrovascular Circulation;0
+3545;D003326;Coronary Circulation;0
+3546;D002699;Chlorambucil;0
+3547;D009626;Terminology as Topic;0
+3548;D029591;Myrsinaceae;0
+3549;D051317;Wiskott-Aldrich Syndrome Protein, Neuronal;0
+3550;D050596;Oncogene Fusion;0
+3551;D005204;Farnesol;0
+3552;D045792;Norisoprenoids;0
+3553;D019898;Autocrine Communication;0
+3554;D016160;Retinoblastoma Protein;0
+3555;D051785;Smad Proteins;0
+3556;D000083;Acetanilides;0
+3557;D004625;Embryo, Nonmammalian;0
+3558;D009656;North America;0
+3559;D010506;Periodicals as Topic;0
+3560;D011639;Public Opinion;0
+3561;D012938;Social Perception;0
+3562;D013240;Stereotyping;0
+3563;D057176;Compassionate Use Trials;0
+3564;D009024;Morphogenesis;0
+3565;D009924;Organ Culture Techniques;0
+3566;D050880;p300-CBP Transcription Factors;0
+3567;D020662;Guanine Nucleotide Exchange Factors;0
+3568;D057171;American Recovery and Reinvestment Act;0
+3569;D057186;Comparative Effectiveness Research;0
+3570;D041322;Chromosomes, Human, Y;0
+3571;D050173;Genes, Y-Linked;0
+3572;D016324;Sequence Tagged Sites;0
+3573;D051876;Sex-Determining Region Y Protein;0
+3574;D007501;Iron;0
+3575;D007951;Leukemia, Myeloid;0
+3576;D059247;Fertility Preservation;0
+3577;D012662;Semen Preservation;0
+3578;D013074;Sperm Banks;0
+3579;D008770;Methylnitrosourea;0
+3580;D008808;Mice, Inbred CBA;0
+3581;D032741;Monascus;0
+3582;D012045;Regulatory Sequences, Nucleic Acid;0
+3583;D007496;Iridium Radioisotopes;0
+3584;D000069439;Dasatinib;0
+3585;D054427;Chemokine CXCL6;0
+3586;D019707;Receptors, Chemokine;0
+3587;D051116;Receptors, Scavenger;0
+3588;D011991;Receptors, Virus;0
+3589;D060509;Wnt3A Protein;0
+3590;D007055;Iceland;0
+3591;D050838;Interferon Regulatory Factor-3;0
+3592;D053592;Interleukin-1 Receptor-Associated Kinases;0
+3593;D051195;Toll-Like Receptor 2;0
+3594;D051216;Toll-Like Receptor 6;0
+3595;D017104;Bacteriophage M13;0
+3596;D020010;Heterosexuality;0
+3597;D018451;Homosexuality, Male;0
+3598;D007414;Intestinal Neoplasms;0
+3599;D002461;Cell Line, Transformed;0
+3600;D009490;Neurosecretory Systems;0
+3601;D006131;Growth Inhibitors;0
+3602;D051498;Receptor, Fibroblast Growth Factor, Type 3;0
+3603;D003300;Copper;0
+3604;D026924;Amino Acid Transport System A;0
+3605;D026962;Amino Acid Transport System ASC;0
+3606;D027283;Large Neutral Amino Acid-Transporter 1;0
+3607;D009865;Oocytes;0
+3608;D014982;Xenopus laevis;0
+3609;D051698;Activating Transcription Factor 2;0
+3610;D002588;Cesium Radioisotopes;0
+3611;D004947;Esophagus;0
+3612;D015162;Micronucleus Tests;0
+3613;D060826;Cementoplasty;0
+3614;D058498;Kyphoplasty;0
+3615;D013873;Thionucleotides;0
+3616;D015395;Histocompatibility Antigens Class I;0
+3617;D005246;Feedback;0
+3618;D019964;Mood Disorders;0
+3619;D015365;Enoxacin;0
+3620;D056484;Jumonji Domain-Containing Histone Demethylases;0
+3621;D001094;Arachidonate 5-Lipoxygenase;0
+3622;D004963;Estrenes;0
+3623;D054799;Phospholipase C beta;0
+3624;D051744;Protein Kinase C-epsilon;0
+3625;D011760;Pyrrolidinones;0
+3626;D018055;Receptors, Eicosanoid;0
+3627;D007391;International Cooperation;0
+3628;D013025;Soybeans;0
+3629;D020741;rho GTP-Binding Proteins;0
+3630;D050822;Cytokine Receptor gp130;0
+3631;D050794;STAT1 Transcription Factor;0
+3632;D016915;AIDS Vaccines;0
+3633;D057911;Angiotensin Receptor Antagonists;0
+3634;D016211;Transforming Growth Factor alpha;0
+3635;D002952;Citric Acid Cycle;0
+3636;D005973;Glutamine;0
+3637;D011962;Receptors, FSH;0
+3638;D010330;Patents as Topic;0
+3639;D001933;Brain Stem;0
+3640;D061106;Radiotherapy Setup Errors;0
+3641;D013116;Spinal Cord;0
+3642;D000782;Aneuploidy;0
+3643;D004171;Diploidy;0
+3644;D006555;Hernia, Ventral;0
+3645;D019390;Arrestins;0
+3646;D013007;Growth Hormone-Releasing Hormone;0
+3647;D057930;Click Chemistry;0
+3648;D003676;Deferoxamine;0
+3649;D015040;Zirconium;0
+3650;D001616;beta-Galactosidase;0
+3651;D015676;Osteonectin;0
+3652;D051837;COUP Transcription Factor II;0
+3653;D010053;Ovary;0
+3654;D009366;Neoplasm Seeding;0
+3655;D015607;Stents;0
+3656;D014513;Ureter;0
+3657;D014850;Waiting Lists;0
+3658;D008224;Lymphoma, Follicular;0
+3659;D001771;Blood Banks;0
+3660;D008321;Mammary Glands, Animal;0
+3661;D013752;Tetracycline;0
+3662;D014599;Uterus;0
+3663;D009316;National Institutes of Health (U.S.);0
+3664;D009270;Naloxone;0
+3665;D009292;Narcotic Antagonists;0
+3666;D010102;Oxygen Inhalation Therapy;0
+3667;D012131;Respiratory Insufficiency;0
+3668;D013375;Substance Withdrawal Syndrome;0
+3669;D001327;Autoimmune Diseases;0
+3670;D004920;Erythropoiesis;0
+3671;D007774;Lactation;0
+3672;D009751;Nutritional Requirements;0
+3673;D011564;Furocoumarins;0
+3674;D001402;B-Lymphocytes;0
+3675;D028024;Serenoa;0
+3676;D004720;Endonucleases;0
+3677;D019292;Skull Base Neoplasms;0
+3678;D000311;Adrenal Glands;0
+3679;D002393;Estrogens, Catechol;0
+3680;D006573;Heterocyclic Compounds, 1-Ring;0
+3681;D013879;Thioredoxins;0
+3682;D025801;Ubiquitin;0
+3683;D005919;Glomerular Filtration Rate;0
+3684;D051436;Renal Insufficiency, Chronic;0
+3685;D018168;Receptors, Retinoic Acid;0
+3686;D005341;Fibrinolysin;0
+3687;D006493;Heparin;0
+3688;D053491;Proteinase Inhibitory Proteins, Secretory;0
+3689;D053667;Syndecans;0
+3690;D059305;Diet, High-Fat;0
+3691;D010770;Phosphotransferases;0
+3692;D055653;Muir-Torre Syndrome;0
+3693;D012626;Sebaceous Gland Neoplasms;0
+3694;D001688;Biological Products;0
+3695;D003596;Cytosine;0
+3696;D063146;Polycomb-Group Proteins;0
+3697;D021441;Carcinoma, Pancreatic Ductal;0
+3698;D002291;Carcinoma, Papillary;0
+3699;D018501;Antirheumatic Agents;0
+3700;D000636;Aminosalicylic Acids;0
+3701;D001557;Benzenesulfonates;0
+3702;D012846;Singapore;0
+3703;D018127;Antigens, CD27;0
+3704;D009841;Oligonucleotides;0
+3705;D009566;Nitrates;0
+3706;D019607;Brassicaceae;0
+3707;D002947;Cities;0
+3708;D011610;Psychosocial Deprivation;0
+3709;D042582;Vascular Endothelial Growth Factor C;0
+3710;D009519;New York City;0
+3711;D006072;Gossypol;0
+3712;D018919;Neovascularization, Physiologic;0
+3713;D057126;Nuclear Receptor Subfamily 4, Group A, Member 2;0
+3714;D006364;Hedgehogs;0
+3715;D051742;Transcription Factor CHOP;0
+3716;D014357;Trypsin;0
+3717;D008390;Markov Chains;0
+3718;D051778;Basic Helix-Loop-Helix Leucine Zipper Transcription Factors;0
+3719;D002945;Cisplatin;0
+3720;D012811;Sigmoid Neoplasms;0
+3721;D002957;Citrus;0
+3722;D007887;Fabaceae;0
+3723;D008930;Mitochondria, Liver;0
+3724;D033681;Mitochondrial Membrane Transport Proteins;0
+3725;D008933;Mitochondrial Swelling;0
+3726;D010539;Permeability;0
+3727;D012812;Sigmoidoscopy;0
+3728;D001986;Bronchial Spasm;0
+3729;D002188;Cannabis;0
+3730;D008385;Marijuana Smoking;0
+3731;D043882;Receptors, Cannabinoid;0
+3732;D012137;Respiratory System;0
+3733;D005094;Exophthalmos;0
+3734;D014792;Visual Acuity;0
+3735;D006631;Amine Oxidase (Copper-Containing);0
+3736;D064236;Cartilage Oligomeric Matrix Protein;0
+3737;D011070;Poly I-C;0
+3738;D051196;Toll-Like Receptor 3;0
+3739;D051190;Plectin;0
+3740;D019736;Prostheses and Implants;0
+3741;D009532;Nickel;0
+3742;D014025;Titanium;0
+3743;D010992;Plethysmography, Impedance;0
+3744;D006639;Histidine;0
+3745;D006860;Hydrogen Bonding;0
+3746;D014747;Vinblastine;0
+3747;D055812;Community-Based Participatory Research;0
+3748;D054706;Cyclic Nucleotide Phosphodiesterases, Type 5;0
+3749;D004558;Electric Stimulation;0
+3750;D008418;Masturbation;0
+3751;D002458;Cell Fractionation;0
+3752;D014461;Ultracentrifugation;0
+3753;D006595;Hexosamines;0
+3754;D017351;N-Acetylglucosaminyltransferases;0
+3755;D058628;Myofibroblasts;0
+3756;D049449;Luminescence;0
+3757;D015335;Molecular Probes;0
+3758;D005205;Fascia;0
+3759;D010525;Peripheral Nerves;0
+3760;D012175;Retinoblastoma;0
+3761;D010015;Osteolysis, Essential;0
+3762;D054839;Retinol-Binding Proteins, Plasma;0
+3763;D061887;Conversion to Open Surgery;0
+3764;D001372;Aza Compounds;0
+3765;D008187;Lutetium;0
+3766;D005110;Extracellular Space;0
+3767;D053218;Receptors, Death Domain;0
+3768;D015347;RNA Probes;0
+3769;D000154;Aconitate Hydratase;0
+3770;D055418;Bone Morphogenetic Protein 6;0
+3771;D019398;Genes, BRCA1;0
+3772;D006580;Heterozygote Detection;0
+3773;D051718;MutS Homolog 2 Protein;0
+3774;D009386;Neoplastic Syndromes, Hereditary;0
+3775;D020843;Chamomile;0
+3776;D031335;Mentha pulegium;0
+3777;D031341;Origanum;0
+3778;D031362;Satureja;0
+3779;D031365;Sideritis;0
+3780;D019645;Arthroplasty, Replacement, Knee;0
+3781;D002387;Cataract Extraction;0
+3782;D006937;Hypercholesterolemia;0
+3783;D017116;Low Back Pain;0
+3784;D018802;Patient-Centered Care;0
+3785;D012494;Sampling Studies;0
+3786;D051880;Receptors, Notch;0
+3787;D013120;Spinal Cord Neoplasms;0
+3788;D002788;Cholesterol Esters;0
+3789;D020286;Pericytes;0
+3790;D015118;Eicosapentaenoic Acid;0
+3791;D005395;Fish Oils;0
+3792;D050719;Crk-Associated Substrate Protein;0
+3793;D016391;Genes, src;0
+3794;D018840;HSP70 Heat-Shock Proteins;0
+3795;D000047;Academies and Institutes;0
+3796;D007378;Interleukins;0
+3797;D005098;Exotoxins;0
+3798;D001011;Aorta;0
+3799;D014469;Umbilical Arteries;0
+3800;D008407;Mast Cells;0
+3801;D009557;Nipecotic Acids;0
+3802;D026362;Serum Response Factor;0
+3803;D011100;Polyglycolic Acid;0
+3804;D000690;Amyotrophic Lateral Sclerosis;0
+3805;D007221;Industry;0
+3806;D009790;Occupations;0
+3807;D059005;Topoisomerase II Inhibitors;0
+3808;D000518;Eflornithine;0
+3809;D008903;Minerals;0
+3810;D020845;Selective Estrogen Receptor Modulators;0
+3811;D006299;Health Services for the Aged;0
+3812;D010347;Patient Care Planning;0
+3813;D056905;Chromosome Breakpoints;0
+3814;D020932;Nerve Growth Factor;0
+3815;D016716;PC12 Cells;0
+3816;D020800;Receptor, Nerve Growth Factor;0
+3817;D017475;Receptors, Nerve Growth Factor;0
+3818;D001921;Brain;0
+3819;D008577;Meningeal Neoplasms;0
+3820;D007294;Inositol;0
+3821;D019035;Rural Health Services;0
+3822;D014904;Western Australia;0
+3823;D051638;Ether-A-Go-Go Potassium Channels;0
+3824;D011973;Receptors, LDL;0
+3825;D002800;Cholinesterase Inhibitors;0
+3826;D026324;Myristicaceae;0
+3827;D016591;Histocytological Preparation Techniques;0
+3828;D008979;Moloney murine leukemia virus;0
+3829;D012194;RNA-Directed DNA Polymerase;0
+3830;D016914;Ribonuclease H;0
+3831;D056951;Photoelectron Spectroscopy;0
+3832;D006652;Histological Techniques;0
+3833;D002364;Caseins;0
+3834;D004267;DNA Viruses;0
+3835;D019342;Acetic Acid;0
+3836;D053607;Adrenomedullin;0
+3837;D050916;TRPV Cation Channels;0
+3838;D005753;Gastric Mucosa;0
+3839;D014652;Vascular Diseases;0
+3840;D057194;Intention to Treat Analysis;0
+3841;D040262;Receptors, Vascular Endothelial Growth Factor;0
+3842;D013020;South America;0
+3843;D004553;Electric Conductivity;0
+3844;D055664;Electrochemical Techniques;0
+3845;D007109;Immunity;0
+3846;D053903;DNA Breaks, Double-Stranded;0
+3847;D010618;Phenanthrolines;0
+3848;D017392;Thiobarbituric Acid Reactive Substances;0
+3849;D007677;Kidney Function Tests;0
+3850;D005951;Glucose Tolerance Test;0
+3851;D045786;Diterpenes, Kaurane;0
+3852;D009584;Nitrogen;0
+3853;D014867;Water;0
+3854;D013472;Sunlight;0
+3855;D017542;Aneurysm, Ruptured;0
+3856;D003289;Convalescence;0
+3857;D006699;Home Care Services;0
+3858;D007083;Iliac Artery;0
+3859;D003668;Pressure Ulcer;0
+3860;D051437;Renal Insufficiency;0
+3861;D012771;Shock, Hemorrhagic;0
+3862;D014138;Tracheoesophageal Fistula;0
+3863;D001471;Barrett Esophagus;0
+3864;D015496;CD4-Positive T-Lymphocytes;0
+3865;D002482;Cellulose;0
+3866;D003505;Cyclodextrins;0
+3867;D044362;Australasia;0
+3868;D001727;Bisexuality;0
+3869;D006233;Disabled Persons;0
+3870;D006552;Hernia, Inguinal;0
+3871;D059685;Herniorrhaphy;0
+3872;D004722;Endoribonucleases;0
+3873;D007259;Infrared Rays;0
+3874;D009900;Optic Nerve;0
+3875;D011203;Poverty;0
+3876;D054697;Cytostatic Agents;0
+3877;D004952;Esters;0
+3878;D013876;Thiophenes;0
+3879;D019352;Censuses;0
+3880;D018707;Volcanic Eruptions;0
+3881;D011480;Protease Inhibitors;0
+3882;D013667;Technetium;0
+3883;D020798;Two-Hybrid System Techniques;0
+3884;D003678;Defoliants, Chemical;0
+3885;D008499;Medical Records;0
+3886;D044385;GTP-Binding Protein alpha Subunits;0
+3887;D020962;Heterotrimeric GTP-Binding Proteins;0
+3888;D020710;RGS Proteins;0
+3889;D051545;Cyclooxygenase 1;0
+3890;D016861;Cyclooxygenase Inhibitors;0
+3891;D053683;Oncostatin M;0
+3892;D033581;Stem Cell Transplantation;0
+3893;D020031;Epstein-Barr Virus Infections;0
+3894;D004854;Herpesvirus 4, Human;0
+3895;D016411;Lymphoma, T-Cell, Peripheral;0
+3896;D002227;Carbazoles;0
+3897;D010802;Phylogeny;0
+3898;D017385;Sequence Homology;0
+3899;D004644;Emotions;0
+3900;D005464;Fluorobenzenes;0
+3901;D013055;Spectrophotometry, Infrared;0
+3902;D054756;Cyclic AMP-Dependent Protein Kinase RIalpha Subunit;0
+3903;D001622;Betaine;0
+3904;D006710;Homocysteine;0
+3905;D014805;Vitamin B 12;0
+3906;D053842;Microsatellite Instability;0
+3907;D004823;Epididymitis;0
+3908;D009920;Orchitis;0
+3909;D015231;Sexually Transmitted Diseases, Bacterial;0
+3910;D013086;Spermatic Cord Torsion;0
+3911;D009126;Muscle Relaxation;0
+3912;D012064;Relaxation Therapy;0
+3913;D010524;Peripheral Nervous System Neoplasms;0
+3914;D010751;Phosphopyruvate Hydratase;0
+3915;D014421;Turkey;0
+3916;D014630;Vagus Nerve;0
+3917;D004636;Emergency Service, Hospital;0
+3918;D007084;Iliac Vein;0
+3919;D009776;Obturator Nerve;0
+3920;D014649;Vas Deferens;0
+3921;D015704;Antigens, CD4;0
+3922;D007108;Immune Tolerance;0
+3923;D053645;Interleukin-2 Receptor alpha Subunit;0
+3924;D053699;Interleukin-7 Receptor alpha Subunit;0
+3925;D016297;Mutagenesis, Site-Directed;0
+3926;D035703;Therapies, Investigational;0
+3927;D015342;DNA Probes;0
+3928;D005807;Genes, Overlapping;0
+3929;D016764;Cell Polarity;0
+3930;D005244;Fecal Impaction;0
+3931;D019772;Topotecan;0
+3932;D018984;Epitopes, T-Lymphocyte;0
+3933;D015789;HLA-A2 Antigen;0
+3934;D000511;alpha-Macroglobulins;0
+3935;D009496;Neurotensin;0
+3936;D044949;Kaempferols;0
+3937;D028761;Withholding Treatment;0
+3938;D018703;Founder Effect;0
+3939;D002584;Cervix Uteri;0
+3940;D002828;Choristoma;0
+3941;D009214;Myoma;0
+3942;D001559;Benzhydryl Compounds;0
+3943;D002728;Chlorohydrins;0
+3944;D017628;Microglia;0
+3945;D014465;Ultrasonics;0
+3946;D006162;Guanylate Cyclase;0
+3947;D007214;Indonesia;0
+3948;D038622;Internationality;0
+3949;D007723;Korea;0
+3950;D016753;Interleukin-10;0
+3951;D015847;Interleukin-4;0

@@ -1,0 +1,65 @@
+// =====================================================================
+// Mesures DAX de l'entrepôt PubMed
+// Créer une table vide "Mesures" (Accueil > Entrer des données > Charger),
+// puis pour chaque mesure : clic droit sur "Mesures" > Nouvelle mesure > coller.
+// =====================================================================
+
+// ---------- Volume
+// DISTINCTCOUNT et non SUM : à travers une table pont (auteur, MeSH…),
+// un article est vu plusieurs fois ; on le compte une seule fois.
+Publications = DISTINCTCOUNT ( fait_publication[id_article] )
+
+Revues = DISTINCTCOUNT ( fait_publication[id_revue] )
+
+Auteurs distincts = DISTINCTCOUNT ( pont_auteur[id_auteur] )
+
+// Contribution pondérée : un article à 4 auteurs compte 0,25 pour chacun.
+// Sur le total, retombe exactement sur le nombre d'articles.
+Publications pondérées (auteurs) = SUM ( pont_auteur[poids] )
+
+Articles en 1er auteur =
+CALCULATE ( DISTINCTCOUNT ( pont_auteur[id_article] ), pont_auteur[est_premier] = 1 )
+
+Articles en dernier auteur =
+CALCULATE ( DISTINCTCOUNT ( pont_auteur[id_article] ), pont_auteur[est_dernier] = 1 )
+
+// ---------- Moyennes (mesures non additives)
+Auteurs par article = AVERAGE ( fait_publication[nb_auteurs] )
+
+MeSH par article = AVERAGE ( fait_publication[nb_mesh] )
+
+Références citées par article = AVERAGE ( fait_publication[nb_references_citees] )
+
+Délai acceptation (jours) = AVERAGE ( fait_publication[delai_acceptation_jours] )
+
+Délai indexation (jours) = AVERAGE ( fait_publication[delai_indexation_jours] )
+
+// ---------- Ratios
+% avec résumé =
+DIVIDE ( SUM ( fait_publication[avec_resume] ), COUNTROWS ( fait_publication ) )
+
+% financées =
+DIVIDE ( CALCULATE ( [Publications], fait_publication[nb_financements] > 0 ), [Publications] )
+
+% collaboration internationale =
+DIVIDE ( CALCULATE ( [Publications], fait_publication[nb_pays_affiliation] > 1 ), [Publications] )
+
+% indexées MEDLINE =
+DIVIDE ( CALCULATE ( [Publications], dim_statut[est_indexe_medline] = "Oui" ), [Publications] )
+
+// Part dans le total de la sélection (ex. part d'un pays parmi les pays affichés)
+% du total =
+DIVIDE ( [Publications], CALCULATE ( [Publications], ALLSELECTED () ) )
+
+// ---------- Temps
+Publications année précédente =
+VAR annee = MAX ( dim_temps[annee] )
+RETURN CALCULATE ( [Publications], REMOVEFILTERS ( dim_temps ), dim_temps[annee] = annee - 1 )
+
+Évolution vs année précédente =
+DIVIDE ( [Publications] - [Publications année précédente], [Publications année précédente] )
+
+// ---------- Thématiques
+// Articles dont le MeSH sélectionné est un sujet principal
+Publications (sujet majeur) =
+CALCULATE ( DISTINCTCOUNT ( pont_mesh[id_article] ), pont_mesh[sujet_majeur] = 1 )

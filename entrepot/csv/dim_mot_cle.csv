@@ -1,0 +1,6613 @@
+﻿id_mot_cle;libelle
+1;methylation
+2;biochemical recurrence
+3;meta-analysis
+4;APC
+5;cell proliferation
+6;FOXO3
+7;prostate cancer
+8;miR-592
+9;chromosomal rearrangements
+10;Chinese CaP
+11;chimeric RNA
+12;SDK1:AMACR
+13;equivalence
+14;high dimension
+15;multiple group
+16;F-test
+17;range test
+18;Tumor biomarker
+19;GPC5
+20;Clinicopathologic parameters
+21;Colon cancer
+22;magnetic resonance imaging
+23;skull base
+24;trigeminal neuralgia
+25;perineural spread
+26;Spontaneous ureteric rupture
+27;obstruction
+28;contrast-enhanced computed tomography scan
+29;risk of prostate cancer
+30;CHEK2 mutation
+31;castration
+32;luminal
+33;heterogeneity
+34;stem/progenitor cells
+35;erectile dysfunction
+36;microscopy, confocal
+37;prostatectomy
+38;prostatic neoplasms
+39;surgery, computer-assisted
+40;Dépistage
+41;cancer
+42;Guideline adherence
+43;Recommandations
+44;Military medicine
+45;General practitioner
+46;Cancer screening
+47;Médecine militaire
+48;Médecin généraliste
+49;biopsy
+50;risk assessment
+51;prevalence
+52;Genomics
+53;community health services
+54;prognosis
+55;recurrence
+56;AR
+57;protein-protein interaction inhibitor
+58;NF-?B2/p52
+59;Single-nucleotide polymorphism
+60;insulin-like growth factor 1 receptor
+61;non-small cell lung cancer
+62;targeted therapy
+63;reactive oxygen species
+64;autophagy
+65;capsaicin
+66;docetaxel
+67;ATM
+68;radiotherapy
+69;p38
+70;population-based studies
+71;prostate-specific antigen (PSA)
+72;socioeconomic status
+73;Epidemiology
+74;Diagnosis
+75;neuroendocrine
+76;SRC kinase
+77;NEPC
+78;metastasis
+79;ERG translocation
+80;fatty acid
+81;cholesterol
+82;metabolites
+83;oligometastases
+84;Stereotactic body radiotherapy
+85;castrate-resistant prostate cancer
+86;urinary system cancer
+87;Cancer registry
+88;incidence
+89;semi-extended lymph node dissection
+90;standard lymph node dissection
+91;radical prostatectomy
+92;ferroportin
+93;benign prostatic hyperplasia
+94;hepcidin
+95;bipolar plasma vaporization of the prostate
+96;Brachytherapy
+97;ultrasound combined with microbubbles
+98;hobnail
+99;inverted
+100;prostate
+101;Adenocarcinoma
+102;prostatic intraepithelial neoplasia
+103;LNCaP cells
+104;G0 phase
+105;LIM domain kinase 1
+106;afzelin
+107;PC-3 cells
+108;cyclophosphamide
+109;germ cell tumor
+110;seminoma
+111;chemotherapy
+112;primary tumor
+113;NOD-SCID? mouse
+114;anterior prostate
+115;microRNA-32
+116;radioresistance
+117;DAB2IP
+118;apoptosis
+119;tumor suppressor
+120;growth arrest-specific transcript 5
+121;long non-coding RNA
+122;annexin A6
+123;tumor promoter
+124;biomarker
+125;malignancy
+126;Prostate adenocarcinoma
+127;alternatively activated macrophage
+128;tumor associated macrophage
+129;alternative splicing
+130;variant
+131;transient receptor potential melastatin 8
+132;mitogen-activated protein kinase signaling pathway
+133;gastrointestinal neoplasm
+134;C-X-C motif receptor 7
+135;chemokine receptor
+136;therapeutic target
+137;tumorigenesis
+138;local recurrence
+139;intensity-modulated radiotherapy
+140;salvage therapy
+141;Prostate neoplasms
+142;Renal cancer
+143;palatine tonsil cancer
+144;Association football
+145;GPS
+146;Bone turnover markers (BTM)
+147;Bone mineral content (BMC)
+148;Exercise intensity
+149;bortezomib
+150;castration-resistant prostate cancer
+151;histone deacetylase inhibitors
+152;clinical trials
+153;Hypogonadism
+154;testosterone
+155;urogenital
+156;tuberculosis
+157;Bladder
+158;breast cancer
+159;quality of life
+160;head and neck cancer
+161;side effects
+162;real-time
+163;LDR brachytherapy
+164;technique
+165;seeds
+166;permanent
+167;variable spacing
+168;rectal sparing
+169;urethral sparing
+170;robotic brachytherapy
+171;LDR
+172;rectal toxicity
+173;constipation
+174;salvage brachytherapy
+175;nodular recurrence
+176;post-prostatectomy
+177;ablation
+178;focused ultrasound surgery
+179;HIFU
+180;interventional radiology
+181;image guided
+182;interventional oncology
+183;REIC/Dkk-3
+184;gene therapy
+185;Localized prostate cancer
+186;neoadjuvant therapy
+187;Rb
+188;PTEN
+189;prostasphere
+190;kinases
+191;bone metastasis
+192;Radiation therapy
+193;salvage
+194;Adjuvant
+195;Asian American and Pacific Islander (AAPI)
+196;Cancer experience
+197;Cancer survivorship
+198;Unmet needs
+199;Phenoxybenzamine hydrochloride (PubChem CID: 5284441)
+200;Hormone-resistant human prostate cancer
+201;Phenylephrine hydrochloride (PubChem CID: 5284443)
+202;Anticancer activity
+203;“In vitro” cell proliferation
+204;Adrenergic system
+205;Alpha1D-adrenoreceptor selective antagonist
+206;Docetaxel (PubChem CID: 148124)
+207;“In vitro” cell migration
+208;Hematological malignancies
+209;Solid tumors
+210;Cancer immunology
+211;Direct anti-cancer effects
+212;Bisphosphonates
+213;false negative prostate biopsy
+214;AMACR
+215;active surveillance
+216;invasion
+217;ZAP70
+218;MicroRNA-631
+219;migration
+220;Diagnóstico
+221;Cáncer de próstata
+222;Biopsia
+223;Gleason
+224;Randomized clinical trials
+225;Screening
+226;Ensayos clínicos aleatorizados
+227;mortality
+228;Mortalidad
+229;Cribado
+230;Measures of synergy
+231;minimum spanning tree
+232;gene interaction network
+233;collaborative genes
+234;heterogeneity test
+235;omics
+236;molecular pathologic epidemiology
+237;Pathology
+238;pathogenesis
+239;beta-3 adrenergic receptor
+240;overactive bladder
+241;symptom scores
+242;MSH3
+243;Polymorphism
+244;Detection
+245;Kallikrein score (4Kscore)
+246;Kallikrein panel (4K panel)
+247;in silico
+248;targeted proteomics
+249;biomarkers
+250;parallel reaction monitoring
+251;Longamide B methyl ester
+252;Cytotoxic activity
+253;Hanishin
+254;Total synthesis
+255;Longamide B
+256;epigenetic silencing
+257;non-viral gene delivery
+258;acetylation
+259;histones
+260;transient protein expression
+261;Localized
+262;Geriatric
+263;metastatic
+264;Surgery
+265;Elderly
+266;oncology
+267;Radiation
+268;Older adults
+269;Risk versus benefit
+270;guidelines
+271;shared decision making
+272;glutathione S-transferase M1
+273;gene polymorphism
+274;fatty-acid-binding proteins (FABPs)
+275;FABP5
+276;DNA methylation
+277;epigenetics
+278;coffee
+279;caffeine
+280;additives
+281;cause-specific mortality
+282;Prostate-specific antigen (PSA) testing
+283;health communication
+284;general health and wellness
+285;healthcare issues
+286;Perineal approach
+287;Fístula rectouretral
+288;Abordaje perineal
+289;Rectourethral fistulae
+290;Radical laparoscopic prostatectomy
+291;Prostatectomía radical laparoscópica
+292;PSA
+293;tissue microarray
+294;AQP5
+295;Questionnaire EORTC QLQ-C30 and QLQ-PR25
+296;A prospective study
+297;Rectum
+298;Toxicity
+299;Total salvage
+300;I-125 brachytherapy
+301;Focal salvage
+302;Dose constraints
+303;Brain tumor
+304;hepatocellular carcinoma
+305;(1)H magnetic resonance spectroscopy metabolites
+306;choline
+307;magnetic resonance spectroscopic imaging
+308;Gene expression testing
+309;Oncogene
+310;calcium
+311;Biased signalling
+312;Tumour suppressor
+313;G protein-coupled receptors
+314;Thioredoxin reductase
+315;Chinese
+316;Angiogenesis inhibitor
+317;VEGFR2
+318;Harmine
+319;B-9-3
+320;Lung caner
+321;HLA molecules
+322;Tumor recurrence
+323;Antigen presentation
+324;Clinical prognosis
+325;human prostate cancer
+326;Beta-2-microglobulin
+327;Dosimetry
+328;223Ra-dichloride
+329;Radionuclide therapy
+330;Bone metastases
+331;treatment decision-making
+332;numeracy
+333;time discounting
+334;risk taking
+335;program evaluation
+336;Survivorship
+337;disparities
+338;Social support
+339;fertility preservation
+340;meiosis
+341;oocyte
+342;dicoumarol
+343;Local control
+344;Recurrence prostate cancer
+345;lymph node metastases
+346;PAF-AH
+347;melanoma
+348;Adhesion
+349;angiogenesis
+350;PLA2G7
+351;growth
+352;PAF
+353;Gleason grade
+354;Carcinogenesis
+355;PCA3
+356;Genomic classification
+357;NMR spectroscopy
+358;native chemical ligation
+359;relaxin
+360;insulin-like peptide
+361;peptides
+362;PSA kinetics
+363;PSA growth curves
+364;PSA velocity
+365;PSA change rate
+366;prostate cancer detection
+367;Mixed-effect model
+368;High-risk prostate cancer
+369;Metastatic noncastrate prostate cancer
+370;androgen deprivation therapy
+371;Metastatic volume
+372;risk
+373;prostate-specific antigen
+374;watchful waiting
+375;outcome assessment (health care)
+376;metabolomics
+377;Microbiota
+378;GSTP1
+379;urine
+380;TMPRSS2:ERG
+381;Prostate health index
+382;kidney cancer
+383;Urothelial carcinoma
+384;Dynamic contrast-enhanced MR imaging
+385;MR imaging
+386;Arterial spin labeling
+387;diffusion-weighted imaging
+388;Discoidin domain receptor2 (DDR2)
+389;Prognostic factors
+390;High dose rate
+391;Targeted biopsy
+392;MRI
+393;Cost-effectiveness
+394;Fibromodulin
+395;corpora amylacea
+396;extracellular matrix
+397;immunohistochemistry
+398;inflammation
+399;Osteoblasts
+400;Patient-derived xenograft
+401;Three-dimensional
+402;Hydrogel
+403;model
+404;Co-culture
+405;estrogen receptor-ß
+406;DNMT1
+407;disulfiram
+408;Paraguay
+409;Cervical cancer
+410;Lung cancer
+411;Low-to middle-income countries
+412;Regional differences
+413;Itapúa
+414;Childhood cancer
+415;Neoplasms
+416;risk factors
+417;Risk stratification
+418;Sex
+419;Renal-cell carcinoma
+420;Cancer registries
+421;etiology
+422;Phytochemical
+423;Multitarget
+424;Butein
+425;NF-?B
+426;Cáncer de próstata de alto grado
+427;Biopsia de próstata
+428;Utilidad clínica
+429;Validation
+430;4Kscore Test
+431;Prostate Cancer Prevention Trial-Risk Calculator
+432;High-grade prostate cancer
+433;Modelos predictivos
+434;European Research Screening Prostate Cancer-Risk Calculator 4
+435;Curvas de utilidad clínica
+436;Validación
+437;Clinical utility curves
+438;prostate biopsy
+439;Clinical utility
+440;Predictive models
+441;Cell–cell adhesions
+442;PAK6
+443;Cdc42
+444;p21-activated kinase
+445;mass screening
+446;prostate specific antigen
+447;education
+448;African American
+449;tomography, emission-computed
+450;incidental findings
+451;positron-emission tomography
+452;fluorodeoxyglucose F18
+453;Nefrectomía parcial robótica
+454;Intraoperative ultrasound
+455;Cáncer renal
+456;Ultrasonido intraoperatorio
+457;Robot-assisted partial nephrectomy
+458;Near-infrared fluorescence imaging
+459;Fluorescencia, infrarrojo
+460;Breast neoplasms
+461;uterine cervical neoplasms
+462;Europe
+463;Colorectal neoplasms
+464;Nonactive treatment
+465;Sociodemographic disparities
+466;elderly patients
+467;Local tumor ablation
+468;fatty acids
+469;epidemiological
+470;omega-3
+471;apparent diffusion coefficient
+472;DWI
+473;Parathyroid hormone-related peptide
+474;Cancer metastasis
+475;Acoustic wave sensor
+476;Antibodies
+477;Biosensor
+478;Fab' fragments
+479;High risk
+480;multiparametric magnetic resonance imaging (MRI)
+481;vector system and targeting strategies
+482;non-invasive imaging in animal
+483;immune inflammation
+484;benign prostate hyperplasia
+485;androgen receptor
+486;depression
+487;stress
+488;Anxiety
+489;STAT3
+490;prostate cancer stem-like cells
+491;castration resistant prostate cancer
+492;IL6
+493;cancer stem cell
+494;PSMA
+495;Healthcare utilization
+496;prostate cancer screening
+497;Population health
+498;Estrogens
+499;c-kit
+500;proliferation
+501;SCF
+502;macrovascular disease
+503;type 2 diabetes
+504;glucose-lowering drug
+505;PPAR-gamma agonist
+506;thiazolidinediones
+507;phase IV study
+508;WW domain-containing oxidoreductase
+509;Small ubiquitin-like modifier
+510;Activator protein-1
+511;TRPM4
+512;Interobserver variation
+513;Tissue biomarker
+514;Twitter
+515;Social media
+516;Bladder cancer
+517;Online patient community
+518;PSA density
+519;Benign prostate hyperplasia (BPH)
+520;Microfluidics
+521;Impedance measurements
+522;Adjustable sensing
+523;In situ functionalization
+524;Self-assembled monolayers
+525;Synthesis
+526;1-Piperazinylphthalazines
+527;VEGFR-2 inhibitors
+528;Multi-targeted
+529;Cancer hallmarks
+530;Phytochemicals
+531;Integrative medicine
+532;HOXB13
+533;Photodynamic therapy
+534;Cancer stem-like cells
+535;Prostate Cancer Prevention Trial
+536;androgens
+537;Síndrome metabólico
+538;Litiasis renal
+539;Disfunción eréctil
+540;Endothelial dysfunction
+541;Kidney stones
+542;Metabolic syndrome
+543;Hipogonadismo
+544;Disfunción endotelial
+545;predictor
+546;ischemic stroke
+547;CHADS2 scores
+548;cost–effectiveness
+549;Skeletal-related events
+550;Denosumab
+551;economics
+552;castration-resistant
+553;Gleason score
+554;Tomotherapy
+555;Setup errors
+556;Dosimetric margins
+557;carotenes
+558;lycopene
+559;genomic instability
+560;genetic polymorphisms
+561;Calcium channel blockers
+562;antiandrogen resistance
+563;functional diffusion map
+564;nanoparticles
+565;tripterine
+566;celastrol
+567;poly(e-caprolactone)
+568;Exercise motivation
+569;Exercise oncology
+570;bioactivity
+571;essential oil
+572;Anaxagorea brevipes
+573;Annonaceae
+574;Steroidogenesis
+575;men's health
+576;Cardiovascular risk
+577;Medicare
+578;medical expenditure
+579;end-of-life care
+580;rural-urban differences
+581;High-grade prostatic intraepithelial neoplasia (HGPIN)
+582;ERG
+583;Multifocality
+584;Exome sequencing
+585;Gene variants
+586;Percentage of positive cores from the dominant side
+587;PSA density of the transition zone
+588;training
+589;robot-assisted radical prostatectomy
+590;Patient safety
+591;Learning curve
+592;assessment
+593;PhIP
+594;p-AKT
+595;mPIN
+596;tocopherols
+597;Prostate carcinogenesis
+598;patient-derived xenografts
+599;ADC
+600;pulmonary metastasis
+601;68Ga-PSMA
+602;aerobic exercise
+603;resistance exercise
+604;diet
+605;Fatigue
+606;mitochondria
+607;7 Tesla body imaging
+608;ultrahigh field
+609;endorectal coil
+610;Absolute risks
+611;Marginal prediction
+612;Complex sampling designs
+613;Probability proportional to a measure of size (PPS)
+614;PLCO
+615;Poisson regression
+616;Bifunctional chelator
+617;Serum stability
+618;Biodistribution
+619;Radiolabeling
+620;Copper 64
+621;transferrin
+622;anemia
+623;cancer-related fatigue
+624;treatment sequencing
+625;nurse
+626;nurse navigator
+627;management
+628;transforming growth factor ß
+629;signal transduction
+630;tumour necrosis factor receptor-associated factor 6
+631;APPL proteins
+632;Enzalutamide
+633;metastatic castration-resistant prostate cancer
+634;PREVAIL trial
+635;Tumors, neuroendocrine
+636;Small cell prostate cancer
+637;Transdifferentiation, neuroendocrine
+638;Histomorphology
+639;Trends
+640;Switzerland
+641;kallikrein
+642;substrate specificity
+643;serine protease
+644;enzyme kinetics
+645;N-linked glycosylation
+646;autolytic inactivation
+647;zymogen activation
+648;therapy
+649;tumor
+650;interplay
+651;MDM2
+652;Ganetespib
+653;heat shock protein
+654;obesity
+655;lipid metabolism
+656;adipose tissue
+657;laparoscopy
+658;robotics
+659;neoplastic cells, circulating
+660;learning from unbalanced data
+661;multiparametric MRI
+662;Gleason score classification
+663;PCa Gleason (3+4) vs. (4+3) cancers
+664;PCa Gleason 6 vs. =7
+665;Antiarrhythmic drugs
+666;digoxin
+667;cohort
+668;insulin sensitivity and body composition
+669;PSA doubling time
+670;Exercise
+671;Volumetric-modulated arc therapy
+672;Gas
+673;Dose distribution
+674;Continence
+675;Anastomosis
+676;Posterior reconstruction
+677;Dispersion stability
+678;Nanotoxicity
+679;Zinc oxide nanoparticles
+680;Abiraterone acetate
+681;68Ga peptide
+682;prostate-specific membrane antigen
+683;Androgen deprivation
+684;psychological issues
+685;men’s health
+686;masculinity
+687;dose-response relationship
+688;cancer heterogeneity
+689;liquid biopsy
+690;circulating tumor cell
+691;whole genome sequencing
+692;surgical margin
+693;robotic radical prostatectomy
+694;Computer-assisted radiotherapy
+695;Retropubic
+696;ultrahypofractionation
+697;radioablation
+698;prostate cancer radiotherapy
+699;CyberKnife
+700;prostate cancer radiation treatment
+701;vesicourethral anastomosis
+702;laparoscopic radical prostatectomy
+703;surgical technique
+704;Jamaica
+705;DRE
+706;Educational Intervention
+707;Spleen
+708;MicroRNA (miRNA)
+709;mouse
+710;Toxoplasma gondii
+711;isoscutellarein derivatives
+712;Wissadula periplocifolia
+713;sulphated flavonoids
+714;Adjuvant radiotherapy
+715;treatment outcome
+716;post-implant dosimetry
+717;MAF minor allele frequency
+718;25-dihydroxyvitamin D3 24-hydroxylase
+719;25-dihydroxyvitamin D
+720;25(OH)2D 1
+721;prostate cancer risk
+722;VDR vitamin D receptor
+723;SU.VI.MAX Supplémentation en Vitamines et Minéraux Antioxydants
+724;gc-globulin or group-specific component
+725;CaSR Ca-sensing receptor
+726;25-Hydroxyvitamin D
+727;CYP24A1 1
+728;PTH parathyroid hormone
+729;RXR retinoid X receptor
+730;Parathyroid hormone
+731;Nested case–control studies
+732;SNP
+733;25(OH)D 25-hydroxyvitamin D
+734;1
+735;GC vitamin D-binding globulin
+736;Osteoblast
+737;Bone
+738;Collagen
+739;cell migration
+740;Fibroblast
+741;Beclin-1
+742;miR-144
+743;VEGF
+744;Cisplatin
+745;communication
+746;physical activity
+747;survivors
+748;sexual dysfunction
+749;Gleason grading
+750;Precision medicine
+751;information needs
+752;Psychosocial support
+753;BME
+754;Cultural diversity
+755;cancer detection
+756;transgenic adenocarcinoma of the mouse prostate
+757;diffusion weighted MRI
+758;SOCS3
+759;ZFP36
+760;prostate carcinoma
+761;PET
+762;PET/CT
+763;HBED
+764;68Ga
+765;[68Ga]PSMA-HBED-CC PET/CT
+766;vegan
+767;Adventist
+768;TNM staging
+769;Ephrin-A2
+770;Ki-67
+771;Dose optimization
+772;Inverse planning
+773;HDR brachytherapy
+774;Needle planning
+775;taTME
+776;Transanal
+777;TAMIS
+778;Rectal cancer
+779;Function
+780;total mesorectal excision
+781;Cobalt-55
+782;Bombesin
+783;AMBA
+784;Gallium-68
+785;Positron emission tomography
+786;PI-RADS
+787;combination therapy
+788;vaccines
+789;therapeutic cancer vaccines
+790;immune combinations
+791;colorectal adenoma
+792;fruits
+793;colorectal cancer
+794;vegetables
+795;pancreatic cancer
+796;radioimmunotherapy
+797;high-LET radiation
+798;XPC
+799;Kras
+800;ROS
+801;Urologic neoplasms
+802;Comorbidity
+803;Competing risk analysis
+804;Complications
+805;Systemic therapy
+806;microarray analysis
+807;cancer class prediction
+808;Bioinformatics
+809;Machine learning
+810;Bayes network
+811;quercetin
+812;androgen
+813;flavonols
+814;myricetin
+815;flavonoids
+816;Chemoprevention
+817;kaempferol
+818;fisetin
+819;immunotherapy
+820;murine model
+821;cancer vaccine
+822;gastrointestinal cancers
+823;statins
+824;health information technology
+825;Standardized Data Collection
+826;Patient Involvement
+827;Sulforaphane
+828;Prostate biopsy, stereotactic
+829;Combination biopsy, perineal
+830;MRI, multiparametric
+831;Tumor detection rate
+832;Image-guided biopsy
+833;Sodium fluoride
+834;time of flight
+835;quantification
+836;urinary incontinence
+837;Glucose
+838;RGN
+839;MCT4
+840;lactate
+841;extracapsular extension
+842;Nerve sparing
+843;sensitivity
+844;Utility
+845;mpMRI
+846;Focal therapy
+847;Diagnostic accuracy
+848;specificity
+849;Likelihood
+850;subclinical atherosclerosis risk factor
+851;coronary artery calcium
+852;cardiotoxicity
+853;Clinicopathologic analysis
+854;Female urethra
+855;follow-up
+856;Mucinous adenocarcinoma
+857;copy number variation
+858;EPHA3
+859;genetic predisposition
+860;germline
+861;Copper-64
+862;Irreversible inhibitor
+863;Phosphoramidate
+864;transcriptional activity
+865;nuclear envelope
+866;protein phosphorylation
+867;PIK3/Akt pathway
+868;genetic synergism
+869;bigenic mouse model
+870;disease progression
+871;NF-?B pathway
+872;PSGR
+873;NF-?B signaling
+874;Genetic manipulation
+875;Kindlin-2
+876;epigenomics
+877;benign growth
+878;tumor microenvironment
+879;therapeutic response
+880;MR
+881;MRS
+882;13C-pyruvate
+883;response monitoring
+884;Dynamic nuclear polarization
+885;planning target volume
+886;image-guided radiotherapy
+887;Fiducial markers
+888;perineural invasion
+889;local treatment
+890;rs2294008
+891;Prostate stem cell antigen
+892;metformin
+893;observational studies
+894;KRT6/13
+895;UCA1
+896;KLF4
+897;osteoporosis
+898;Recurrent prostate cancer
+899;Delphi study
+900;HSP90a
+901;HDAC inhibitor
+902;HDAC6
+903;Microtubular organization
+904;Anti-cancer
+905;Algae
+906;Sesquiterpenes
+907;Cytotoxicity
+908;Laurencia pacifica
+909;prostatic neoplasm
+910;Lymphome
+911;lymphoma
+912;MALT
+913;Radiothérapie
+914;Cancers de la prostate
+915;KLK
+916;kallikrein-related peptidase
+917;miRNA
+918;tumor marker
+919;Image registration
+920;prostate volume
+921;Prostate segmentation
+922;Satisfaction
+923;Perception
+924;Proceso de atención
+925;Percepción
+926;Medical care process
+927;Satisfacción
+928;T2D type 2 diabetes
+929;RCT randomised-controlled trials
+930;GI gastrointestine
+931;Irritable bowel syndrome
+932;IBS irritable bowel syndrome
+933;Gut microbiota
+934;IBD inflammatory bowel disease
+935;LPS lipopolysaccharide
+936;AAD antibiotic-associated diarrhoea
+937;CD Crohn’s disease
+938;BA butyric acid
+939;Probiotics
+940;SCI spinal cord injury
+941;TLR toll-like receptor
+942;UC ulcerative colitis
+943;Immune system
+944;Diarrhoea
+945;FMT faecal microbiota transplant
+946;Diabetes
+947;PC prostate cancer
+948;gene expression
+949;Genetic susceptibility
+950;estrogen receptor ß
+951;Subrenal capsule grafting
+952;cancer research
+953;Interventions
+954;Gynecological cancer
+955;Sexual health
+956;Preventive Medicine
+957;Medical Home
+958;antisense
+959;compensation
+960;BCL2
+961;AR-V7
+962;Abiraterone
+963;Taxane
+964;resistance
+965;Androgen receptor variants
+966;hormonal therapy
+967;Qualitative Study
+968;Men-Who-Have-Ssex-with-Men
+969;Gay Men
+970;Homosexual
+971;men�s health
+972;thematic analysis
+973;self-referral
+974;population based
+975;socio-economic inequalities
+976;access to care
+977;european deprivation index
+978;pathway analysis
+979;microRNA-mRNA interaction
+980;microRNA biomarker
+981;bioinformatics model
+982;expectant management
+983;veterans' health
+984;MRI control
+985;significant cancer
+986;supine position
+987;IIEF-5
+988;patient perception
+989;Renal cell cancer
+990;Adipokine
+991;Omentin-1
+992;Botanicals
+993;Herbal extracts
+994;Natural products
+995;Nexrutine� Prostate cancer
+996;Minimally Invasive Surgical Procedures
+997;trans-rectal prostate biopsy
+998;Antibiotics
+999;infection
+1000;fever
+1001;AIDS
+1002;HIV
+1003;Hodgkin lymphoma
+1004;Viremia
+1005;Non-AIDS-defining cancer
+1006;Anal cancer
+1007;diagnostic biomarkers
+1008;group sequential methods
+1009;PPV curve
+1010;diabetes mellitus
+1011;HCC
+1012;NPM
+1013;CDK1
+1014;health disparity
+1015;exosome
+1016;Early detection
+1017;Proteome
+1018;Asian population
+1019;Localised disease
+1020;Robotic prostatectomy
+1021;Oncological outcomes
+1022;Robotic-assisted radical prostatectomy
+1023;Robotic malfunction
+1024;Operating time
+1025;Resource use
+1026;Da Vinci robotic system
+1027;Side docking
+1028;Cortisol hormone
+1029;Retropubic radical prostatectomy
+1030;Stress system
+1031;SSTR2 and SSTR5
+1032;Cell viability
+1033;AT-101
+1034;Octreotide
+1035;Chromatin
+1036;microRNA
+1037;glioma
+1038;Histone
+1039;Epigenetic inhibitors
+1040;Surveillance
+1041;endometrial cancer
+1042;Brain cancer
+1043;Gastric cancer
+1044;skin cancer
+1045;Cancer epigenetics
+1046;Liver cancer
+1047;ovarian cancer
+1048;Blood cancer
+1049;Epigenomic biomarkers
+1050;Leukemia and lymphoma
+1051;Gestational trophoblastic neoplasia
+1052;FOBT
+1053;AFP
+1054;Hepatocellular cancer
+1055;Screening limitation
+1056;Screening advantages
+1057;Screening tests
+1058;Premalignant lesions
+1059;Criteria for disease screening
+1060;CA 125
+1061;Early malignancy
+1062;Tumor biomarkers
+1063;Screening for cancer
+1064;Asymptomatic subjects
+1065;focal
+1066;carcinoma
+1067;cryoablation
+1068;Mitochondrial bioenergetics
+1069;3-bromopyruvate
+1070;Glyoxalase system
+1071;glycolysis
+1072;Transurethral prostate surgery
+1073;Continence outcomes
+1074;TURP
+1075;PSA cut-off value
+1076;Molecular forms of PSA
+1077;PSA -density
+1078;Diagnostic tool s in prostate cancer
+1079;TMPRSS2:ERG gene fusion
+1080;PSA biology
+1081;Free PSA
+1082;PSA -doubling time
+1083;ProPSA
+1084;PSA -assays
+1085;PSA -velocity
+1086;PSA physiology
+1087;Percent free PSA
+1088;PSA derived parameters
+1089;CK-19
+1090;cancer stem cells
+1091;Circulating tumour stem cells
+1092;Overall survival (OS)
+1093;EpCAM
+1094;Prognostic biomarkers
+1095;Non-small-cell lung cancer (NSCLC)
+1096;Migrating cancer stem cells
+1097;Molecular characterization
+1098;Predictive biomarkers
+1099;Solid cancer
+1100;Circulating tumor cells (CTC)
+1101;Oncoproteomics
+1102;Progression free survival (PFS)
+1103;Peripheral blood
+1104;Individualized treatment
+1105;PCA3 nomogram
+1106;GOLM1
+1107;Performance characteristics
+1108;Prostate cancer antigen 3 score
+1109;5a-reductase inhibitor
+1110;Urine analysis
+1111;SPINK1
+1112;Transmembrane-serine protease
+1113;Circulating tumour cells
+1114;uPA /PAI-1 as biomarkers
+1115;uPA
+1116;uPAR
+1117;PAI-1
+1118;uPA activity and lymph node involvement
+1119;uPA /PAI-1 in breast cancer
+1120;thrombosis
+1121;uPA and PAI-1 expression
+1122;Survival
+1123;NCDB
+1124;prostatic diseases
+1125;Sex hormones
+1126;leptin
+1127;early detection of cancer
+1128;CD44 and ABCG2
+1129;interleukin
+1130;cytokines
+1131;post-operative radiotherapy
+1132;geriatric assessment
+1133;Salvage radiotherapy
+1134;antioxidant enzymes
+1135;glutathione peroxidase 1
+1136;manganese superoxide dismutase
+1137;genetic polymorphism
+1138;timed graphs
+1139;graph inference
+1140;mutagenetic graphs
+1141;cumulative cancer progression models
+1142;calvarial metastasis
+1143;papillary thyroid carcinoma
+1144;true dural metastasis
+1145;intracranial extension
+1146;non-PSA biomarker
+1147;bodily fluid
+1148;nanodevice
+1149;nanomaterial
+1150;bioassay
+1151;computed tomography
+1152;CT
+1153;5a-reductase type 2
+1154;16-formyl-17-methoxy dehydroepiandrosterone ester derivatives
+1155;5a-reductase inhibitors
+1156;Korea
+1157;Joinpoint
+1158;trend
+1159;Peptide-based vaccines
+1160;Breast cancer immunotherapy
+1161;Breast cancer therapy
+1162;Tumor-associated antigens
+1163;First pass peak
+1164;Dynamic contrast enhanced MRI (DCE-MRI) of prostate cancer
+1165;Arterial input function (AIF)
+1166;Contrast agent dose
+1167;Reference tissue method
+1168;Empirical mathematical model (EMM)
+1169;Principle component analysis
+1170;Single optical fiber probe
+1171;Linear discriminant analysis
+1172;Pelvic lymph node
+1173;Use
+1174;neoplasm grading
+1175;Humans
+1176;Neoplasm recurrence
+1177;Tumor volume
+1178;Prostate cancer–specific mortality
+1179;Intermediate risk disease
+1180;Biochemical outcome
+1181;TP53
+1182;NGAL
+1183;Regulatory RNAs
+1184;MMP-9
+1185;EGFR
+1186;ncRNA
+1187;DCE-MRI
+1188;arterial input function
+1189;fitting
+1190;complex signal
+1191;cost analysis
+1192;value-based purchasing
+1193;Renal cell carcinoma
+1194;Cancer de la prostate
+1195;Oncologic surgery
+1196;Cancer du rein
+1197;Génomique
+1198;Chirurgie oncologique
+1199;Métastases
+1200;Récidive locale
+1201;Genomic
+1202;Contrôle local
+1203;Cancer du rectum
+1204;pituitary disease
+1205;thyroid disease
+1206;liver cirrhosis
+1207;SHBG
+1208;sex hormone-binding globulin
+1209;hyperandrogenism
+1210;metabolism
+1211;IGFBP-2
+1212;IGFBP-1
+1213;Akt
+1214;steroids
+1215;Hyperoxia
+1216;hypoxia
+1217;HIF-1a
+1218;Continuous androgen deprivation
+1219;Intermittent androgen deprivation
+1220;Nonmetastatic
+1221;Prostate-specific antigen progression
+1222;G2/M arrest
+1223;Radiosensitivity
+1224;miR-449a
+1225;pRb/E2F1
+1226;drug therapy
+1227;urinary bladder neoplasms
+1228;cystectomy
+1229;gastrointestinal
+1230;Dose surface maps
+1231;smoking
+1232;Bone density
+1233;Silibinin
+1234;Chemical synthesis
+1235;Estradiol isomer
+1236;Steroid
+1237;Enzyme inhibitor
+1238;Estrogen
+1239;public health
+1240;Medico-economic aspects
+1241;Aspects médico-économiques
+1242;Santé publique
+1243;Coûts
+1244;costs
+1245;Prostatectomie totale
+1246;neoadjuvant treatment
+1247;Cryotherapy
+1248;Biological recurrence
+1249;Traitement néoadjuvant
+1250;Curage ganglionnaire
+1251;Traitements adjuvants
+1252;Cryothérapie
+1253;Chirurgie
+1254;Récidive biologique
+1255;Hormonothérapie
+1256;Hormonotherapy
+1257;Surgical margins
+1258;Chimiothérapie
+1259;Surveillance active
+1260;Radiothérapie de sauvetage
+1261;Lymph node excision
+1262;Radiothérapie adjuvante
+1263;Marges chirurgicales
+1264;Adjuvant treatment
+1265;overall survival
+1266;Survie spécifique
+1267;Survie globale
+1268;Résultats fonctionnels
+1269;Curiethérapie
+1270;Functional results
+1271;Ultrasons focalisés
+1272;High-intensity focused ultrasound
+1273;Dysfonction érectile
+1274;hormonal treatment
+1275;Incontinence urinaire
+1276;Specific survival
+1277;Résultats oncologiques
+1278;Potency
+1279;Sphincter urinaire artificiel
+1280;Thérapie cellulaire
+1281;Ballons Pro-ACT
+1282;Couple
+1283;Rehabilitation
+1284;Rééducation
+1285;Sexuality
+1286;Urethral sling
+1287;Pro-ACT
+1288;Urinary
+1289;Cell therapy
+1290;Bandelette sous-urétrale
+1291;artificial urinary sphincter
+1292;Incontinence
+1293;Érection
+1294;Sexualité
+1295;Survie sans récidive biochimique
+1296;Positive surgical margins
+1297;Biochemical disease-free survival
+1298;cancer-specific survival
+1299;Récidive biochimique
+1300;Marges chirurgicales positives
+1301;Facteurs pronostiques
+1302;Lymphadenectomy
+1303;Anatomopathologie
+1304;Neurovascular bundles preservation
+1305;Préservation neuro-vasculaire
+1306;Anatomie
+1307;Robot-assisted
+1308;Robot-assistée
+1309;Laparoscopique
+1310;Périnéale
+1311;Laparoscopic
+1312;anatomy
+1313;Voie rétropubienne
+1314;Imagerie
+1315;Statut mictionnel
+1316;Scores de comorbidité
+1317;Erection
+1318;Anesthésiologie
+1319;Anesthesiology
+1320;Preoperative assessment
+1321;Biomarqueurs
+1322;Therapeutic management
+1323;Micturition
+1324;Biopsies prostatiques
+1325;Imaging
+1326;Décision thérapeutique
+1327;IRM
+1328;PET MRI
+1329;PET IRM
+1330;psychiatric illness
+1331;Outcomes
+1332;international
+1333;age-specific
+1334;High Intensity Focused Ultrasound (HIFU)
+1335;Heating
+1336;thermal ablation
+1337;Ultrasound therapy
+1338;Ultrasound transducers
+1339;TARBP2
+1340;tumor suppressor gene
+1341;rural population
+1342;oncology nursing
+1343;normalcy
+1344;grounded theory
+1345;treatment satisfaction
+1346;partner
+1347;logistic regression
+1348;decision making
+1349;sipuleucel-T
+1350;PA2024
+1351;GM-CSF
+1352;PAP
+1353;cancer immunotherapy
+1354;provenge
+1355;leuprorelin
+1356;luteinizing hormone-releasing hormone
+1357;thromboprophylaxis
+1358;venous thromboembolism
+1359;uro-oncologic surgery
+1360;Diffusion weighting
+1361;Electrolytic electroporation
+1362;tissue ablation
+1363;NanoKnife
+1364;Electrolysis
+1365;Irreversible electroporation
+1366;Y-chromosome
+1367;case-only study
+1368;DNA damage response
+1369;genetic susceptibility to prostate cancer
+1370;familial prostate cancer
+1371;whole exome sequencing
+1372;NF-? B1 gene
+1373;Normal tissue
+1374;Magnetic fields
+1375;Radiation injuries
+1376;mRNA
+1377;lncRNA
+1378;NOMe-seq
+1379;Nucleosome positioning
+1380;Ion channel
+1381;microarray
+1382;glucocorticoid receptor
+1383;therapy resistance
+1384;stroke
+1385;male incontinence
+1386;Gleason grade assignment
+1387;Elastography
+1388;Diagnostic
+1389;detection rate
+1390;cost-effectiveness analysis
+1391;Prostate disease < UROLOGY
+1392;radiation recurrent prostate cancer
+1393;SBRT
+1394;castration resistance
+1395;Proteomics
+1396;Economic
+1397;Assay
+1398;radiobiological modelling
+1399;Dose-painting
+1400;Body composition [MESH]
+1401;Cardiorespiratory fitness
+1402;Exercise [MESH]
+1403;High-intensity exercise
+1404;Colorectal cancer [MESH]
+1405;Patient care management
+1406;Self-care
+1407;symptoms
+1408;Nursing care
+1409;Cancer risk
+1410;Multiple sclerosis
+1411;Immunomodulation
+1412;Patient-centered
+1413;Graph literacy
+1414;Literacy
+1415;Informatics
+1416;seminal vesicle invasion
+1417;pT3b stratification
+1418;aging
+1419;Geriatric oncology
+1420;CGA
+1421;Geriatrics
+1422;Diosgenin
+1423;22-Hydroxyfurostan
+1424;Mitsunobu reaction
+1425;Spirosola-1,4,6-trien-3-one
+1426;Solasodine
+1427;Birch reduction
+1428;Steroidal alkaloids
+1429;Prostate cancer and head-and-neck cancer treatment margins
+1430;kV and MV imaging
+1431;Image-guided radiotherapy with planar and cone-beam CT
+1432;Positioning accuracy
+1433;MKK7
+1434;KLF5
+1435;TNFa
+1436;lung
+1437;Kidney
+1438;colorectal
+1439;diagnostic/prognostic biomarkers
+1440;breast
+1441;5-hydroxymethylation
+1442;5hmC
+1443;Prognostic
+1444;mitosis
+1445;Reproductive system diseases
+1446;Myosin
+1447;spermatogenesis
+1448;Acroframosome
+1449;reactive stroma
+1450;prostate stem cell antigen (PSCA)
+1451;prostate cancer (PCa)
+1452;ectopic overexpression
+1453;interference (RNAi)
+1454;RNA
+1455;oligometastatic
+1456;therapeutics
+1457;molecular imaging
+1458;Effets secondaires
+1459;Adverse effects
+1460;high intensity focused ultrasound
+1461;Thérapies mini-invasives
+1462;Ultrasons focalisés de haute intensité
+1463;Clinical T3 disease
+1464;Treatment patterns
+1465;Inter-fraction organ motion
+1466;ART
+1467;Prostate radiotherapy
+1468;SV invasion
+1469;BRCA
+1470;miR146a
+1471;Geriatric assessment tools
+1472;Race
+1473;warfarin
+1474;drug interaction
+1475;international normalized ratio
+1476;PACAP38
+1477;Urinary bladder radioimmunoassay
+1478;PACAP27
+1479;Telomerase
+1480;stem cells
+1481;tissue
+1482;data independent acquisition
+1483;bodily fluids
+1484;verification
+1485;selected reaction monitoring
+1486;Reproducibility
+1487;preclinical
+1488;authentication
+1489;survey
+1490;arsenic trioxide
+1491;cell cycle
+1492;cyclopamine
+1493;hedgehog pathway
+1494;TRP channels
+1495;virtual screening
+1496;drug discovery
+1497;calcium channels
+1498;urology
+1499;Patient-reported outcome
+1500;Serum-based biomarkers
+1501;Optofluidic chip
+1502;Nanopore-based sensor
+1503;MED15
+1504;diagnostic marker
+1505;mediator complex
+1506;prognostic marker
+1507;head and neck squamous cell carcinoma
+1508;Period analysis
+1509;Methods
+1510;Oncologic outcomes
+1511;Rindopepimut
+1512;GBM
+1513;CAR T cells
+1514;Autologous T cells
+1515;EGFRvIII
+1516;Checkpoint blockade
+1517;Gemcitabin
+1518;MOF
+1519;metal–organic frameworks
+1520;nanoparticle
+1521;nucleoside analog
+1522;“green” synthesis
+1523;IRE
+1524;Prazosin
+1525;lysosomes
+1526;Transport-P
+1527;Endocytosis
+1528;Sialyl-Tn (sTn)
+1529;glycosylation
+1530;ST6GalNAc1
+1531;double-stranded RNA
+1532;interferon
+1533;signaling
+1534;FGFR1
+1535;GATA3
+1536;miR-573
+1537;Aromatase inhibitor
+1538;Zoledronic acid
+1539;Family medicine
+1540;Japan
+1541;Standardized patient instructors
+1542;symptomatic skeletal events
+1543;radiopharmaceuticals
+1544;pain control
+1545;tubulin
+1546;microtubules
+1547;histone deacetylase 3
+1548;HIF-1
+1549;estrogen receptor beta
+1550;NFkB
+1551;Follow-up care
+1552;Supportive care
+1553;Service development
+1554;insignificant cancer
+1555;11C-Choline
+1556;Prohibitin
+1557;cancer therapy
+1558;Vertebral metastases
+1559;Radium 223 dichloride
+1560;Bone lesions, symptomatic
+1561;Zoledronic-acid
+1562;Psychooncology
+1563;Multi-modal treatment
+1564;Lymphocyte–neutrophil ratio
+1565;tumor extent in biopsy specimens
+1566;total length of cancer
+1567;oxidative stress
+1568;Nitroxoline
+1569;Chk2
+1570;Cyclin D1-Rb-Cdc25A axis
+1571;G1 arrest
+1572;AMPK/mTOR signaling
+1573;vitamin A
+1574;vitamin E
+1575;retinol
+1576;nested case-control study
+1577;pooled analysis
+1578;carotenoids
+1579;chemotherapy-naïve
+1580;Hybridization chain reaction
+1581;Catalytic hairpin assembly
+1582;Fluorescence
+1583;Signal amplification
+1584;Trop2
+1585;CD49f
+1586;CD271
+1587;CD13
+1588;prostate stem cells
+1589;flow cytometry
+1590;Storage
+1591;Total PSA
+1592;Molecular subtype
+1593;African-American
+1594;TMPRSS2-ERG fusion
+1595;ETS gene fusion
+1596;body weight
+1597;cardiovascular disease
+1598;life course
+1599;body mass index
+1600;morbidity
+1601;cohort study
+1602;garcinol
+1603;prostate cancer cells and xenograft mice
+1604;Cabazitaxel
+1605;doubling time
+1606;intraoperative radiotherapy
+1607;combined modality therapy
+1608;hormones
+1609;Antioxidants
+1610;GSK-3ß
+1611;serum deprivation
+1612;LKB1
+1613;AMPK
+1614;Mobile technology
+1615;Psychological
+1616;Coping
+1617;miR-212
+1618;SIRT1
+1619;bone marrow
+1620;stem cell
+1621;Cavernous nerves
+1622;Molecular markers
+1623;RAD51
+1624;Loss of heterozygosity (LOH)
+1625;Mesenchymal stem cells
+1626;Cancer-related care
+1627;Patient satisfaction
+1628;Patient navigator
+1629;patient navigation
+1630;DFT
+1631;solvation
+1632;lexidronam
+1633;molecular dynamics
+1634;Quadramet
+1635;EXAFS
+1636;AKT signaling
+1637;casodex resistance
+1638;CSL
+1639;ethnic differences
+1640;Africa
+1641;docetaxel rechallenge
+1642;intermittent chemotherapy
+1643;Squamous cell carcinoma
+1644;DPPA4
+1645;CIP2A
+1646;protein phosphatase 2A
+1647;head and neck
+1648;in situ hybridisation
+1649;medicine/health
+1650;healthcare
+1651;diagnostics
+1652;information management/tracking systems
+1653;insurance
+1654;healthcare systems/services
+1655;recurrent
+1656;relapse
+1657;visceral metastases
+1658;liver
+1659;Malva
+1660;dysuria
+1661;fusion imaging
+1662;nitroglycerin
+1663;ReDO project
+1664;drug repurposing
+1665;EPR effect
+1666;Epstein’s criteria
+1667;Insignificant prostate cancer
+1668;Gleason upgrade
+1669;Epithelial–mesenchymal transition
+1670;Pargyline
+1671;LSD1
+1672;apigenin
+1673;Patient-centered care,
+1674;Patient reported outcomes
+1675;Conjoint analysis,
+1676;Prostate cancer,
+1677;Preference assessment,
+1678;Clinical trials participation,
+1679;radiation dosimetry
+1680;micelles
+1681;CTAB
+1682;miR-143
+1683;Esophageal cancer
+1684;Adenocarcinoma of the esophagus
+1685;miR-93
+1686;androgen-deprivation therapy
+1687;Phase II
+1688;kidney transplantation
+1689;dynapenia
+1690;sarcopenia
+1691;histology
+1692;skeletal muscle
+1693;calcitonin receptor-AKAP2-prostate cancer-invasion and metastasis
+1694;Urinary bladder
+1695;Gemcitabine
+1696;Plasmacytoid urothelial carcinoma
+1697;Risques
+1698;Biopsies
+1699;Cancer de prostate
+1700;Nomogram
+1701;Nomogramme
+1702;Biopsie ciblée
+1703;Biopsie prostatique
+1704;bacterial therapy
+1705;GFP/RFP
+1706;high-dose rate brachytherapy
+1707;organ-confined prostate cancer
+1708;hypofractionation
+1709;ipss
+1710;primary care
+1711;prostate cancer- clinical
+1712;TRAMP
+1713;mouse models
+1714;PPAR
+1715;Prostaglandins
+1716;AKR1C3
+1717;17B-Hydroxysteroid dehydrogenase
+1718;Bezafibrate
+1719;Delivery error
+1720;VMAT
+1721;Helical diode array detector
+1722;Peptide vaccine
+1723;Haptoglobin
+1724;Salvage treatments
+1725;18F-choline PET/CT
+1726;True positive
+1727;prostate cancer recurrence
+1728;False positive
+1729;FTO
+1730;rs8050136
+1731;IVSA1-27777C>A
+1732;adjuvant radiation therapy
+1733;Factores pronósticos
+1734;Recidiva bioquímica
+1735;Radioterapia adyuvante
+1736;TMPRSS2-ERG
+1737;Real Time PCR
+1738;FISH
+1739;Awareness
+1740;Nigeria
+1741;Lagos
+1742;haematuria
+1743;locally advanced prostate cancer (LAPC)
+1744;haemostatic treatments
+1745;hypomethylation
+1746;invasiveness
+1747;drug targets
+1748;PC-3
+1749;brassinin
+1750;proteotoxic stress
+1751;necrosis
+1752;DNA damage
+1753;antimitotic
+1754;immunosuppression
+1755;tenascin-c
+1756;miR-25
+1757;integrins
+1758;N-acetyl-l-leucine-polyethylenimine
+1759;aurora kinase A
+1760;DNAzyme
+1761;Ethnicity
+1762;Southern Nigeria
+1763;Health care organizations and systems
+1764;VA health care system
+1765;Electron microscopy
+1766;medical costs
+1767;out-of-pocket expenses
+1768;signal transducer and activator of transcription
+1769;nuclear factor-kappa B
+1770;NADPH oxidase
+1771;Health disparities
+1772;Health services accessibility
+1773;Urban population
+1774;Black men
+1775;hormone-sensitive prostate cancer
+1776;Systematic review
+1777;IGRT
+1778;ultrasound
+1779;Testicular
+1780;Penile cancers
+1781;Survival trends
+1782;endurance and strength of pelvic floor muscles
+1783;ProstaScint® scan
+1784;Clear cell renal carcinoma
+1785;Trifecta
+1786;Extended lymph node dissection
+1787;Erectile function
+1788;Grade
+1789;Prediction
+1790;T-stage
+1791;vesicular traffic
+1792;cell growth
+1793;Jag1/2
+1794;Notch3
+1795;Notch
+1796;healthy prostate
+1797;Hey1
+1798;microenvironment
+1799;xenograft
+1800;In vivo imaging
+1801;non-linear mixed-effect modeling (NLMEM)
+1802;mathematical model
+1803;biochemical failure (BF)
+1804;Androgen deprivation therapy (ADT)
+1805;Bayesian estimation
+1806;tumor-associated macrophages
+1807;E-cadherin
+1808;heme oxygenase-1
+1809;Organoid
+1810;Sca-1
+1811;Progenitor cells
+1812;lectin
+1813;exosomes
+1814;tumor burden
+1815;treatment prediction
+1816;FAIRE-seq
+1817;androgen receptor profiling
+1818;companion diagnostics for prostate cancer
+1819;ChIP-seq
+1820;endothelial cell
+1821;IL-24
+1822;HECV
+1823;MDA-7
+1824;necroptosis
+1825;Atg5
+1826;tyrosine kinase inhibitor
+1827;susceptibility
+1828;glutathione S-transferases T1
+1829;glutathione S-transferases M1
+1830;Bone marrow failure
+1831;external beam radiation therapy
+1832;223Ra
+1833;TWIST
+1834;MDM2/MDMX
+1835;epithelial-mesenchymal transition
+1836;SNAI2/SLUG
+1837;prostate/breast cancer
+1838;cell cycle re-entry
+1839;p27
+1840;phospholipase A2a
+1841;Skp2
+1842;Post-transcription
+1843;Shear-wave elastosonography
+1844;Diagnostic sensitivity and specificity
+1845;11C-choline PET/CT
+1846;11C-acetate PET/CT
+1847;Transrectal real-time tissue elastosonography
+1848;18F-fluoroglucose PET/CT
+1849;18F-fluorocholine PET/CT
+1850;G2/M phase arrest
+1851;Cdc25C
+1852;physapubescin B
+1853;antitumor activity
+1854;cancer targeting
+1855;photothermal therapy
+1856;self-assembly
+1857;gold nanoparticles
+1858;T7 bacteriophage
+1859;inflammatory markers
+1860;MPC blocker
+1861;mitochondrial dysfunction
+1862;stemness
+1863;Azide-nitrile cycloaddition
+1864;Anticancer
+1865;3-Hydroxy-oxindole
+1866;Isatin epoxide
+1867;Tetrazoles
+1868;Calcium intake
+1869;Calcium-sensing receptor
+1870;clinical outcomes
+1871;Multimedia
+1872;patient education
+1873;Educational technology
+1874;genetics
+1875;Single nucleotide polymorphisms
+1876;Vulnerable populations
+1877;Emergency departments
+1878;Self efficacy
+1879;chronic inflammation
+1880;synthetic lethality
+1881;MYC
+1882;immune-checkpoint blocker
+1883;androgen regulation
+1884;MLPH
+1885;risk SNPs
+1886;melanophilin
+1887;Polyunsaturated fatty acids
+1888;Omega fatty acids
+1889;Engrailed 2
+1890;Significant disease
+1891;Prostate brachytherapy
+1892;Sector optimisation
+1893;Focal boost
+1894;Multi-parametric MRI
+1895;contrast-enhanced ultrasound
+1896;percutaneous ablation
+1897;spectrum analysis
+1898;Clinical outcome
+1899;HDR-brachytherapy
+1900;Concept development
+1901;Sentinel node history
+1902;Penile cancer
+1903;Sentinel node biopsy
+1904;Uro-oncology
+1905;Probiotic
+1906;CTCs
+1907;Circulating tumor cells
+1908;molecular marker
+1909;predictors response
+1910;castrate-resistant
+1911;drug sequencing
+1912;combined androgen blockade therapy
+1913;lymphatic vessel density
+1914;Carbon-ion therapy
+1915;cell line
+1916;surgical pathology
+1917;human leukemia cells
+1918;human urological cancer cells
+1919;3ß-[2-(1-Amantadine)-1-on-ethylamine]-digitoxigenin
+1920;porcine cerebral cortex Na+/K+-ATPase
+1921;cardenolide analog
+1922;AMANTADIG
+1923;GFP
+1924;RFP
+1925;Salmonella typhimurium A1-R
+1926;tumor targeting
+1927;DU-145
+1928;cell burst
+1929;LNCaP
+1930;particle therapy
+1931;review
+1932;stereotactic radiotherapy
+1933;high-dose-rate brachytherapy
+1934;Cancer prevention
+1935;gnetin C
+1936;in vitro and in vivo tumor models
+1937;trans-resveratrol
+1938;melinjo seed extract
+1939;Upconversion
+1940;Immunochromatography
+1941;Interference
+1942;Lateral flow
+1943;ECL immunoarray
+1944;Supercapacitor
+1945;3D-printing
+1946;Biomarker proteins
+1947;serum
+1948;EDRN
+1949;FFPE
+1950;mitochondrial DNA
+1951;3.4kb deletion
+1952;NIST
+1953;intermedin
+1954;cigarette smoking
+1955;p21
+1956;P53
+1957;Slovak population
+1958;robust point matching
+1959;nonrigid registration
+1960;image-guided intervention
+1961;statistical deformation model
+1962;18F-NaF
+1963;18F-FDG
+1964;whole-body MRI
+1965;99mTc-MDP
+1966;self-management
+1967;Peer support
+1968;Empathy
+1969;E-health
+1970;Prostate cancer imaging
+1971;Radiolabelling
+1972;Prostate specific membrane antigen
+1973;Antibody fragments single chain Fv
+1974;fungus
+1975;opportunistic pathogen
+1976;Metastatic prostate cancer
+1977;microbiology
+1978;Trichosporon asahii
+1979;yeast
+1980;Splicing isoforms
+1981;Osteopontin
+1982;Cell survival
+1983;Individualized radiotherapy
+1984;Radiotherapy planning
+1985;68Ga-PSMA ligand PET/CT
+1986;ultrasonography
+1987;Cone beam computed tomography
+1988;Adaptive radiation therapy, ART
+1989;density
+1990;Dose calculation
+1991;Hounsfield units
+1992;evaluation studies
+1993;data collection
+1994;biological markers
+1995;health related quality of life
+1996;patient information satisfaction
+1997;illness perception
+1998;vasectomy
+1999;1H-MRSI
+2000;Sum score
+2001;Grading
+2002;Methodology
+2003;PCFMFRI
+2004;AR signaling
+2005;planning
+2006;hybrid
+2007;Prostatectomy, retropubic
+2008;urinary incontinence, stress
+2009;Urethral sphincter
+2010;pharmacogenomics
+2011;GWAS
+2012;genome
+2013;mutations
+2014;immunity
+2015;Interferon (IFN)
+2016;ionizing radiations
+2017;JDF12
+2018;Combi-targeting molecule
+2019;hormone-refractory prostate cancer
+2020;DNA repair pathway
+2021;Colchicine-binding site
+2022;antiproliferative activity
+2023;liver microsomal stability
+2024;tubulin polymerization inhibitor
+2025;structure-activity relationship (SAR)
+2026;multiple drug resistance
+2027;epidermal growth factor receptor
+2028;DCE
+2029;Diffusion
+2030;Formalin-fixed paraffin embedded
+2031;urethrogram
+2032;AR plasticity
+2033;Cross-resistance
+2034;Papillomavirus
+2035;HPV
+2036;PCR
+2037;polymerase chain reaction
+2038;Transrectal ultrasound-induced deformation
+2039;C-arm fluoroscopy
+2040;transforming growth factor-ß
+2041;bone marrow stroma
+2042;haematopoietic toxicity
+2043;Xofigo
+2044;high tumour load
+2045;Radium-223
+2046;bone scan index
+2047;Bone pain
+2048;Bone seeking radiopharmaceutical
+2049;Imagen intraoperatoria
+2050;Intraoperative navigation
+2051;Extended lymphadenectomy
+2052;Fluorescencia
+2053;SPECT/TC
+2054;Navegación intraoperatoria
+2055;Intraoperative imaging
+2056;Linfadenectomía extendida
+2057;Certification
+2058;Multidisciplinarity
+2059;Quality indicators
+2060;MAPK/p38
+2061;STK11
+2062;drug resistance
+2063;Metastases
+2064;R classification
+2065;SVM classifier
+2066;Computer aided detection
+2067;Image analysis
+2068;Multidimensional assessment
+2069;Physical function
+2070;Common toxicity criteria
+2071;index lesion
+2072;Microvesicles
+2073;paclitaxel
+2074;extracellular vesicles
+2075;Drug delivery
+2076;Functional assay
+2077;Viability
+2078;EPISPOT assay
+2079;Personalized medicine
+2080;quality
+2081;tailoring
+2082;G0/G1 arrest
+2083;condurango extract
+2084;transcription factor binding sites
+2085;next generation sequencing
+2086;human endogenous retrovirus
+2087;Microcontact imprinting
+2088;Prostate-specific antigen detection
+2089;Immobilization
+2090;Ultraviolet-polymerization
+2091;Internet usage
+2092;Randomized controlled trial as subject
+2093;Patient compliance
+2094;USA
+2095;Height
+2096;Instrumental variables analysis
+2097;Mendelian randomization
+2098;Decision support techniques
+2099;Data mining
+2100;Decision Support
+2101;Web technology
+2102;Differential diagnosis
+2103;prostate MRI
+2104;Pitfalls
+2105;mp-MRI
+2106;Cancer progression
+2107;UDP-glucuronosyltransferase
+2108;TRAIL
+2109;Plating efficiency
+2110;Fluorescence-activated cell sorter
+2111;Hormone sensitive prostate cancer
+2112;robotic surgery
+2113;Ectosomes
+2114;cancer associated fibroblasts
+2115;PI-RADS version 2
+2116;real-time MRI/US fusion biopsy
+2117;prostate cancer/diagnosis
+2118;targeted biopsy failure
+2119;observation
+2120;local tumour ablation
+2121;non-surgical management
+2122;Biochemical relapse
+2123;Choline PET/CT
+2124;PET-guided therapies
+2125;Salvage lymph-node dissection
+2126;multicenter
+2127;frailty
+2128;multi-state
+2129;semiparametric
+2130;C-reactive protein
+2131;NHANES
+2132;alisertib
+2133;Aurora
+2134;Nuclear magnetic resonance
+2135;Hyperpolarized
+2136;Nuclear magnetic imaging
+2137;Platelet to lymphocyte ratio
+2138;clinical significance
+2139;positron emission tomography/computed tomography
+2140;18F-fluorodeoxyglucose
+2141;CXCL12
+2142;CXCR4
+2143;benign
+2144;mRNA expression
+2145;MED12
+2146;CDK8
+2147;Mediator
+2148;uterine leiomyoma
+2149;kinase activity
+2150;simvastatin
+2151;IHC
+2152;TPMRSS2:ERG fusion
+2153;AZGP1
+2154;BTK inhibitors
+2155;SEER program
+2156;Terminal care
+2157;Health care costs
+2158;Safety
+2159;urotensin II receptor
+2160;Physician Practice Patterns
+2161;Cross-Sectional Survey
+2162;Differential expression
+2163;normalization
+2164;Data preprocessing
+2165;Therapeutic sequence
+2166;Observational study
+2167;Treatment strategies
+2168;interstitial lung disease
+2169;protein stability
+2170;PP-1 and Akt
+2171;serine phosphorylation
+2172;splice variant
+2173;5a-Reductase
+2174;(p-Fluoro)benzoyloxy 21-esters of pregnenolone derivatives
+2175;Hamster prostate gland
+2176;Hamster seminal vesicles
+2177;Steroidal esters
+2178;prostate needle biopsy
+2179;Hypnotherapy
+2180;Pain
+2181;Concomitant prostate cancer
+2182;Cystoprostatectomy
+2183;sonic hedgehog
+2184;Sutherlandia frutescens
+2185;pharmacokinetics
+2186;progression
+2187;Pathologist visual scoring
+2188;Interleukin-6
+2189;Needle biopsy
+2190;Prostate disease
+2191;Immunohistochemical staining
+2192;Test urinaire
+2193;Prédiction
+2194;prostate biopsies
+2195;Urinary test
+2196;focal adhesion kinase (FAK)
+2197;phenotypic screening
+2198;3D co-culture
+2199;cancer associated fibroblast (CAF)
+2200;Local radiotherapy
+2201;Definitive treatments of the primary tumour
+2202;medicine
+2203;cancer genomics
+2204;DNA repair
+2205;zebrafish
+2206;human
+2207;human biology
+2208;cell biology
+2209;SPOP
+2210;development and disruption
+2211;circadian time structure
+2212;vitamin D deficiency
+2213;Artificial light at night
+2214;sunlight
+2215;melatonin
+2216;Vitamin D
+2217;sleep/wake cycle disturbance
+2218;overdiagnosis
+2219;miRNAs
+2220;PWS
+2221;nanocytology
+2222;Androgen receptors
+2223;curcumin
+2224;Animal models
+2225;patient-reported outcomes
+2226;Clinical tools
+2227;Electronic questionnaire
+2228;nanomedicine
+2229;castrate resistant prostate cancer
+2230;raloxifene
+2231;enhanced permeability and retention effect
+2232;insulin
+2233;mechanisms
+2234;weight loss
+2235;transdisciplinary
+2236;NSAIDs
+2237;aspirin
+2238;cognition
+2239;sexual function
+2240;Laparoscopic placement
+2241;Pelvic mesh
+2242;Bowel radiation damage
+2243;MEDICAL HISTORY
+2244;minimally invasive surgery
+2245;antioxidant
+2246;Gallium curcumin
+2247;Structure
+2248;Horseradish peroxidase
+2249;CRISP-3
+2250;ANXA1
+2251;shRNA
+2252;mCRPC
+2253;androgen inhibitors
+2254;emerging agents
+2255;cancer staging
+2256;cancer recurrence
+2257;Local neoplasm recurrences
+2258;Pelvic exenteration
+2259;Discoidin domain receptor
+2260;MMP
+2261;Bisphosphonate
+2262;cell culture
+2263;zoledronate
+2264;glycemic index
+2265;fiber
+2266;glycemic load
+2267;whole grains
+2268;carbohydrate
+2269;proctitis
+2270;electroporation
+2271;Chemo-photothermal therapy
+2272;Magnetic nanoparticle clusters
+2273;Cardiovascular mortality
+2274;hormone therapy
+2275;Tissue classification
+2276;Tissue quantification
+2277;Blood sampling
+2278;Laboratory value
+2279;testosterone level
+2280;N-cadherin
+2281;PHI
+2282;TMPRSS2
+2283;kallikreins
+2284;AUC
+2285;PSA limitations
+2286;PSA subforms
+2287;sarcosine
+2288;ETS
+2289;ROC analysis
+2290;Clinical Section
+2291;Neutrophil-to-lymphocyte ratio
+2292;Mortality tables
+2293;Demographics
+2294;Cancer mortality, regional
+2295;Survival analysis
+2296;healthcare expenditures
+2297;open radical prostatectomy
+2298;urinary continence recovery
+2299;retrospective studies
+2300;prospective trials
+2301;Linfadenectomía ampliada
+2302;Linfadenectomía limitada
+2303;Cáncer de próstata de alto riesgo
+2304;Limited lymphadenectomy
+2305;Prostatectomía radical
+2306;adult weight gain
+2307;Pelvic lymph node dissection
+2308;68Ga-PSMA PET/CT
+2309;prostatic carcinoma
+2310;IL-17 cytokine family
+2311;structural cell
+2312;inflammatory cell
+2313;Nutrition
+2314;Randomized controlled trials
+2315;Gesundheitsinformationsprodukte
+2316;Krebsfrüherkennung
+2317;Consumer health information
+2318;Leitlinien
+2319;health technology assessment
+2320;outcomes research
+2321;Versorgungsforschung
+2322;Krebserkrankungen
+2323;translation
+2324;research cooperation
+2325;Forschungskooperation
+2326;Personalisierte Medizin
+2327;minimal invasive
+2328;urodynamic
+2329;stereotactic body radiation therapy
+2330;Gleason score 8-10
+2331;positive surgical margin
+2332;Australia
+2333;economic analysis
+2334;patterns of care
+2335;activators
+2336;lead optimization
+2337;antitumor agents
+2338;Lncap spheres
+2339;Apoptosis resistance
+2340;Lncap stem-like cells
+2341;Wnt/ß-catenin
+2342;corticosterone
+2343;Endocrine disruptor
+2344;Synthetic estrogen
+2345;Apo E
+2346;GU toxicity
+2347;I125 brachytherapy
+2348;DIL
+2349;SIB
+2350;IMPT
+2351;HDR-BT
+2352;eHealth
+2353;psychosocial aspects
+2354;randomized trial
+2355;Protein delivery
+2356;PSMA targeting
+2357;Chimaeric polymersomes
+2358;pH-responsive
+2359;health care disparities
+2360;colonic neoplasms
+2361;Disease symptoms
+2362;Scoring system
+2363;Treatment quality
+2364;BRCA2
+2365;CNV
+2366;c-Myc
+2367;LOH
+2368;Hemorrhagic cystitis
+2369;Tacrolimus
+2370;Radiation cystitis
+2371;SGTA
+2372;canine
+2373;miR-378
+2374;MAPK1
+2375;neoplasm staging
+2376;2-(2-Phenoxyacetamido)benzamides
+2377;Pro-caspase 3
+2378;palliative care
+2379;health care preferences
+2380;personality
+2381;Multispectral imaging
+2382;SIGIRR
+2383;Indolent
+2384;click chemistry
+2385;electrochemical impedance spectroscopy
+2386;phage display
+2387;phage wrapping
+2388;patient outcome assessment
+2389;Hedgehog signaling
+2390;Gli
+2391;alactasia
+2392;lactose intolerance
+2393;adult type of hypolactasia
+2394;lactase-phlorizin hydrolase
+2395;Protease
+2396;perceived stress
+2397;interventional
+2398;bone marrow mesenchymal stem cells
+2399;CCL5
+2400;HIF2a
+2401;Instrument
+2402;Questionnaire
+2403;Fear of cancer recurrence
+2404;African Americans
+2405;European continental ancestry group
+2406;synergistic effect
+2407;Chromone
+2408;Notch signalling pathway
+2409;Nucleus
+2410;Cytoplasm
+2411;Localization
+2412;Filamin A
+2413;Adjuvant therapy
+2414;Margin involvement
+2415;Pathological outcome
+2416;small cell lung cancer
+2417;neurogenic locus notch homolog
+2418;retinoblastoma protein
+2419;achaete-scute homolog 1
+2420;osteoarthritis
+2421;miR-770
+2422;synoviocytes
+2423;PCGEM1
+2424;diffusion kurtosis imaging
+2425;Include intravoxel incoherent motion
+2426;BoNTA
+2427;protein expression
+2428;SV2
+2429;clinical pathology
+2430;microRNA-128
+2431;PC-3 cell line
+2432;cell invasion
+2433;IFN-ß
+2434;SARI
+2435;cancer growth suppressing gene
+2436;blood type
+2437;PROSTVAC-FV
+2438;glycan microarray
+2439;hormone-sensitive stage
+2440;castration-resistant stage
+2441;HistoScanning
+2442;Penicillin
+2443;Antibiotic
+2444;Risk factor
+2445;Pancreas
+2446;probability
+2447;volume
+2448;Hadronthérapie
+2449;Hadron therapy
+2450;Résultats cliniques radiobiologie
+2451;Clinical results
+2452;Ions carbone
+2453;Proton therapy
+2454;Controverses radiobiologiques
+2455;Controverses physiques
+2456;Carbon ion radiotherapy
+2457;Radiobiology
+2458;Protonthérapie
+2459;survival dimensionality reduction analysis
+2460;VEGFR-2
+2461;polymorphisms
+2462;P2X7 receptor
+2463;Histopathology
+2464;chromothripsis
+2465;genomic rearrangements
+2466;catastrophe
+2467;transcriptional regulation
+2468;FOXA1
+2469;MHY219
+2470;MMPs
+2471;telomere
+2472;ataxia telangiectasia
+2473;Osteonecrosis of the jaw
+2474;genes
+2475;pseudogene
+2476;biochemistry
+2477;noncoding RNA
+2478;Reproducibility Project: Cancer Biology
+2479;chromosomes
+2480;lipid
+2481;imaging mass spectrometry
+2482;lysophosphatidylcholine
+2483;transcriptional coactivator
+2484;E2F transcription factor
+2485;Spirooxindoles
+2486;Cyclopropane
+2487;Structure–activity relationship (SAR)
+2488;Anticancer agents
+2489;Left superior vena cava
+2490;Closure of the coronary sinus ostium
+2491;Postaortic left brachiocephalic vein
+2492;Young patients
+2493;Ergonomics
+2494;rural
+2495;Dorsal vein control
+2496;low-risk
+2497;prostatitis
+2498;General population
+2499;misperception
+2500;myth
+2501;next-generation sequencing
+2502;PAXgene
+2503;formalin
+2504;fixation
+2505;Chemoresistance
+2506;lifestyle
+2507;prospective studies
+2508;mandibular
+2509;osteonecrosis
+2510;caveolae
+2511;lymphangiogenesis
+2512;lymphatic endothelial cells
+2513;Focused ultrasound
+2514;Palliative treatment
+2515;CCL2
+2516;TNF
+2517;personalized peptide vaccine
+2518;MPO
+2519;multivariate Cox regression analysis
+2520;ARG1
+2521;church-based health promotion
+2522;SMS text messaging
+2523;prostate cancer disparities
+2524;African American men
+2525;Iodine seeds
+2526;PSA bounce
+2527;PNI = perineural Invasion
+2528;LSP = lumbosacral plexopathy
+2529;pelvic cancer
+2530;nLSP = neoplastic LSP
+2531;lumbosacral plexopathy
+2532;BNB = blood-nerve barrier
+2533;CIDP = chronic inflammatory demyelinating polyneuropathy
+2534;fascicular biopsy
+2535;sciatic nerve
+2536;SPGR = spoiled gradient echo recalled
+2537;CRPC
+2538;Chemotherapy prostate cancer
+2539;Therapy response
+2540;follow-up after radical prostatectomy
+2541;staging
+2542;Bone scan
+2543;CDT-VIBE
+2544;Dynamic imaging
+2545;Radiology
+2546;Outcome
+2547;Score
+2548;Cancer associated fibroblasts (CAF)
+2549;Inter-disease
+2550;finasteride
+2551;super-elderly patients
+2552;intensity-modulated radiotherapy (IMRT)
+2553;helical tomotherapy (TOMO)
+2554;Chaos control
+2555;Treatment option
+2556;Tumor dynamics
+2557;MMP2
+2558;Matrix metalloproteinase
+2559;Veterans
+2560;Molecular imprinting
+2561;Aptamer
+2562;Lutetium-177
+2563;Radioligand radiation therapy
+2564;resveratrol
+2565;pterostilbene
+2566;oncomiRs
+2567;prostate cancer epigenetics
+2568;Sequence
+2569;TSC1/2
+2570;B-Raf
+2571;Akt3
+2572;focal adhesion
+2573;Hsp90
+2574;PI3K
+2575;vaccine
+2576;TRICOM
+2577;MCP-1
+2578;Paracrine
+2579;Cell death
+2580;Database
+2581;analytical validation
+2582;bone scan index (BSI)
+2583;imaging biomarker
+2584;focus group
+2585;intervention
+2586;counseling
+2587;exercise physiology
+2588;treatment
+2589;Literature review
+2590;Pelvic floor disorders
+2591;Pelvic floor muscles
+2592;Free fatty acids
+2593;Cardiolipin
+2594;Tumour cell proliferation
+2595;Lipidomic analysis
+2596;OGX-011
+2597;clusterin
+2598;custirsen
+2599;castration resistant
+2600;ODM-201
+2601;non-metastatic
+2602;tolerability
+2603;efficacy
+2604;pharmacodynamics
+2605;androgen receptor inhibitors
+2606;miR-34a
+2607;prostate cancer localization
+2608;annexin A1
+2609;EMT
+2610;alcohol
+2611;retinoids
+2612;local therapy
+2613;Twist1
+2614;future progress
+2615;novel agents
+2616;advanced cancer
+2617;insomnia
+2618;Sleep disturbances
+2619;DHRS7
+2620;SDR34C1
+2621;Cholangiocarcinoma
+2622;ß-catenin
+2623;retinoid X receptor a
+2624;Sirtuins
+2625;Molecular design
+2626;Anticancer drugs
+2627;NAD(+)-dependent deacetylases
+2628;Quinazolinedione
+2629;Small molecule inhibitors
+2630;prostaglandin E2
+2631;mammalian target of rapamycin complex 1
+2632;urinary biomarker
+2633;homeobox gene
+2634;BPH
+2635;urachal adenocarcinoma
+2636;PHF8
+2637;miR-125b
+2638;UBE2T
+2639;vimentin
+2640;Bisphosphonate-related
+2641;eotaxin-1
+2642;progression-free survival
+2643;miR-146a
+2644;ROCK1
+2645;DMSO cell preservative
+2646;RNA amplification
+2647;urine RNA
+2648;RNA digital counts
+2649;urinary transcriptomes
+2650;BI-69A11
+2651;sequencing
+2652;disease-free survival
+2653;physiological
+2654;ibuprofen
+2655;non-steroidal anti-inflammatory agents
+2656;DU145 cells
+2657;inhibition
+2658;KHC-4
+2659;Cell cycle arrest
+2660;antiproliferation
+2661;primary treatment
+2662;SEER
+2663;accidental death
+2664;suicide
+2665;Fyn
+2666;Src family kinase
+2667;Prodrug
+2668;Aminoferrocene
+2669;Iron
+2670;lncRNAs
+2671;MRI-guided high-intensity focused ultrasound
+2672;multiparametric prostate MRI
+2673;central zone
+2674;Interobserver error
+2675;Erreur interobservateurs
+2676;Tomographie conique
+2677;CBCT imaging
+2678;Prostate VMAT
+2679;Arcthérapie volumétrique modulée
+2680;microRNA biogenesis
+2681;DGCR8
+2682;Nephron-sparing surgery
+2683;partial nephrectomy
+2684;canine cancer therapy
+2685;canine cancer cell lines
+2686;canine soft tissue sarcoma (CSTS)
+2687;antibody production
+2688;oncolytic virus
+2689;image-guided radiation therapy
+2690;Automated image segmentation
+2691;Computed tomography imaging
+2692;Cross-modality
+2693;Ultrasound imaging
+2694;Physician influence
+2695;Central obesity
+2696;Primary prevention
+2697;Body fat
+2698;BMI
+2699;Weight
+2700;Nimesulide
+2701;PLGA
+2702;chitosan
+2703;PAMPA
+2704;Folate
+2705;Divergence
+2706;Fortification
+2707;Dietary
+2708;folic acid
+2709;Forskolin
+2710;T-type calcium channel
+2711;Neuroendocrine differentiation
+2712;Cyclin D1
+2713;Daxx
+2714;TCF4
+2715;OSCC
+2716;taurine amide
+2717;PC3 cell line
+2718;Cnemidocarpa stolonifera
+2719;immunofluorescence assay
+2720;vascular disrupting agents
+2721;multimodality imaging
+2722;lipid–polymer hybrid nanoparticles
+2723;Combination anticancer therapy
+2724;multi-drug resistance
+2725;dual drugs delivery
+2726;hypofractionated high dose rate treatment
+2727;accelerated partial breast irradiation
+2728;catheter reconstruction
+2729;catheter technologies
+2730;electromagnetic tracking
+2731;patient engagement
+2732;health literacy
+2733;physician-patient communication
+2734;family
+2735;dietary change
+2736;gender
+2737;agency
+2738;Tomatoes
+2739;Lycopene isomers
+2740;prolactin
+2741;nitric oxide
+2742;Ki67
+2743;carboxypeptidase-D
+2744;insulin signaling
+2745;veterans affairs
+2746;Retinoic acid
+2747;solid lipid nanoparticles
+2748;burden of illness
+2749;Mesenchymal epithelial transition
+2750;Epithelial glandular differentiation
+2751;Cytogenomic microarray
+2752;Dedifferentiated chondrosarcoma
+2753;AMP-activated kinase (AMPK)
+2754;beta-catenin (B-catenin)
+2755;High-dose-rate
+2756;diagnostic imaging
+2757;FAU
+2758;ribosomal protein genes
+2759;SNORA62
+2760;evolution
+2761;snoRNA
+2762;RPS30
+2763;Porifera
+2764;Near-infrared fluorescence dye
+2765;Blood brain barrier
+2766;Heptamethine carbocyanine
+2767;androgen antagonists
+2768;Neoplasm metastasis
+2769;Bone microenvironment
+2770;Collagen scaffolds
+2771;siRNA delivery
+2772;3D bone cancer in vitro model
+2773;Prostate cancer metastasis
+2774;galeterone (gal)
+2775;mechanisms of AR/AR-V7 degradation
+2776;gal’s analog VNPT55
+2777;androgen receptors (AR/AR-V7)
+2778;Coregulator recruitment
+2779;Peptidomimetics
+2780;Protein–protein interactions
+2781;Coactivator binding inhibition
+2782;Bisphosphonate therapy
+2783;probabilities
+2784;relative risk reduction
+2785;survival rates
+2786;risk communication
+2787;natural frequencies
+2788;Bayes’ theorem
+2789;mammography screening
+2790;Computer assisted
+2791;Software
+2792;image processing
+2793;pelvis
+2794;peritoneum
+2795;peritoneal
+2796;Douglas pouch
+2797;cavity
+2798;Metabolic parameters
+2799;18F-Choline
+2800;Prognostic accuracy
+2801;cell motility, microtubule
+2802;strigolactone
+2803;SLs, strigolactones
+2804;plant hormone
+2805;Sweden
+2806;Three-dimensional conformal radiotherapy
+2807;Tumor staging
+2808;Clinical target volume
+2809;mixed methods
+2810;cancer diagnosis
+2811;tissue diagnostics
+2812;patient-specific modeling
+2813;palpation
+2814;soft tissue
+2815;Bio-conjugate
+2816;Conductive polymer electrode
+2817;Cytosensor
+2818;prognostic factor
+2819;salvage radiation therapy
+2820;ionic liquids
+2821;ampicillin
+2822;active pharmaceutical ingredients
+2823;Caveolin
+2824;disease recurrence
+2825;Cellular prostatic acid phosphatase
+2826;Histone deacetylase inhibitor
+2827;stromal cells
+2828;peripheral zone
+2829;prostatic cancer stem cell
+2830;transitional zone
+2831;proteasome inhibitor
+2832;PC-3M cell
+2833;tripeptideboronic acid
+2834;rs721048
+2835;EHBP1
+2836;Survivin
+2837;PSA mass
+2838;lung adenocarcinoma
+2839;fibulin-1
+2840;Molecular alterations
+2841;ICT1
+2842;Radiosurgery
+2843;Oligometastasis
+2844;CellSearch
+2845;(68)Ga-PSMA-PET/CT
+2846;Salvage lymph node dissection
+2847;Hormone sensitive
+2848;S-LND
+2849;Motor activity
+2850;Sedentary lifestyle
+2851;Disease
+2852;combination
+2853;Emetine
+2854;Anti-cancer activities
+2855;Emetine derivatives
+2856;Dithiocarbamate ester
+2857;andrology
+2858;physiological and endocrine disorders
+2859;health screening
+2860;biologic determinants of health
+2861;Tumor aggressiveness
+2862;radical prostatectomies
+2863;high-grade prostatic intraepithelial neoplasia
+2864;China
+2865;myofibroblasts
+2866;Caregivers
+2867;Partners
+2868;Self-directed intervention
+2869;Pilot study
+2870;Radio-recurrent Prostate Cancer
+2871;Focal Salvage Therapy
+2872;hypoxia inducible factor-1a
+2873;pyruvate kinase M2
+2874;K(v)12
+2875;K(v)11
+2876;Leukemia
+2877;hERG
+2878;Arrhythmia
+2879;wavelet
+2880;18F-fluoride
+2881;multimodal imaging
+2882;partial-volume correction
+2883;Auger
+2884;iodine
+2885;radiopharmaceutical therapy
+2886;molecular radiotherapy
+2887;a-emitter
+2888;Desmopressin
+2889;image guidance
+2890;image-guided therapy
+2891;real-time system
+2892;treatment planning
+2893;CT imaging
+2894;Prostate sarcoma
+2895;phentolamine
+2896;microtubule stabilization
+2897;p-glycoprotein
+2898;fractionated external beam radiation therapy
+2899;biochemical failure
+2900;clinical endpoints
+2901;neoplasia
+2902;Choroid
+2903;Ciliary body
+2904;PPCPs
+2905;Ozonation
+2906;Urban river
+2907;Sewage treatment plant
+2908;UPLC–MS/MS
+2909;Solid-phase extraction
+2910;sirolimus derivatives (everolimus)
+2911;quinazolines (gefitinib)
+2912;target of rapamycin (TOR) serine-threonine kinases
+2913;mammalian target of rapamycin (mTOR)
+2914;health-related quality of life
+2915;Psychological distress
+2916;Testicular cancer
+2917;radio-sensitivity
+2918;testicular orphan nuclear receptor 4
+2919;prostatic adenocarcinoma
+2920;ductal adenocarcinoma
+2921;endometrioid
+2922;favorable disease
+2923;final pathology
+2924;bioreducible polyester
+2925;transurethral prostate resection
+2926;matched pair analysis
+2927;castrate-resistance
+2928;polygenic risk score
+2929;risk prediction
+2930;NAMPT
+2931;metabolic flux
+2932;translational biomarkers
+2933;sepsis
+2934;postoperative complications
+2935;surgical training
+2936;population-based register
+2937;Botulinum toxins, type A
+2938;lower urinary tract symptoms
+2939;urinary bladder, overactive
+2940;Integrin-linked kinase
+2941;centrosome declustering
+2942;mitotic arrest
+2943;multinucleation
+2944;retinoblastoma
+2945;senescence
+2946;multipolar mitosis
+2947;IMD-0354
+2948;PCa
+2949;IKKß
+2950;MiR-497
+2951;RAGE
+2952;AGEs
+2953;mitochondria oxidative phosphorylation
+2954;Na+-dicarboxylate transporter
+2955;acidic tumor microenvironment
+2956;succinate
+2957;Heat-shock proteins
+2958;gene transcription
+2959;ubiquitin-dependent protease
+2960;Dyadic support
+2961;psychosocial care
+2962;indocyanine green
+2963;nuclear imaging
+2964;sentinel lymph node
+2965;biochemical progression free survival
+2966;low grade prostate cancer
+2967;PI3K/Akt pathway
+2968;miR-7
+2969;Regucalcin
+2970;PNT1A
+2971;CaSR
+2972;Electrochemical
+2973;MBD enrichment
+2974;Colorimetric
+2975;thalidomide
+2976;granulocyte-macrophage colony-stimulating factor
+2977;Acinar Carcinoma
+2978;Ductal Carcinoma
+2979;cis-platinum
+2980;neamine
+2981;PC-3 xenograft tumor model
+2982;angiogenin
+2983;ER-positive breast cancer
+2984;protein disulfide isomerase
+2985;immuno histochemistry
+2986;patient survival
+2987;AGR3
+2988;preferences
+2989;patient
+2990;ADT
+2991;antiandrogen
+2992;planar skeletal scintigraphy
+2993;degenerative joint disease
+2994;single positron emission computed tomography/computed tomography
+2995;Avascular necrosis
+2996;femur head
+2997;solitary pulmonary nodule
+2998;Fluorodeoxyglucose positron emission tomography/computed tomography
+2999;ceramide
+3000;Ceranib-2
+3001;Apoptotic
+3002;sexual consequences
+3003;Pelvic radiotherapy
+3004;sexual rehabilitation
+3005;Flourine-18
+3006;Colorectal adenocarcinoma
+3007;Esophageal carcinoma
+3008;Hypoxia profiles
+3009;Withania somnifera
+3010;Hedgehog signaling pathway
+3011;Inhibitor
+3012;Natural product
+3013;SRD5A
+3014;orteronel
+3015;Arterial hypertension
+3016;Cardiac toxicity
+3017;Organs at risk
+3018;tongue cancer
+3019;AvidinOX
+3020;biotin
+3021;Boosted
+3022;non-linear dimensionality reduction
+3023;content-based image retrieval
+3024;spectral embedding
+3025;renal papillary cell cancer
+3026;renal clear cell cancer
+3027;AdaBoost
+3028;nucleolus
+3029;support vector machine
+3030;atrophy
+3031;skeletal SPECT/CT
+3032;Non-osseous suspicious lesions
+3033;low-dose thorax CT images
+3034;Preoperative evaluation
+3035;Frail elderly
+3036;Urologic oncology
+3037;Surgical outcomes
+3038;elderly men
+3039;Extended pelvic lymphadenectomy
+3040;pelvic lymphadenectomy
+3041;robot assisted radical prostatectomy
+3042;Focal therapy in prostate cancer
+3043;MRI-guided prostate biopsy
+3044;multiparametric magnetic resonance imaging
+3045;MRI-guided biopsy
+3046;multiparametric-MRI
+3047;functional imaging
+3048;Diffusion imaging
+3049;Angiography
+3050;fluoroscopy
+3051;Advances
+3052;Epidemiología
+3053;Tendency
+3054;Tendencia
+3055;Intensity-modulated radiation therapy
+3056;Dose–volume histogram
+3057;Late rectal bleeding
+3058;Multileaf collimator
+3059;Hemiablation
+3060;prostate specific antigen velocity
+3061;lymph nodes
+3062;treatment failure
+3063;nutritional biomarkers
+3064;miR-221/222
+3065;Caspase-10
+3066;MRI-based
+3067;Transrectal ultrasound probe
+3068;Mitochondrial membrane potential (??m)
+3069;Azaspiro[4,5]trienone
+3070;Western blot analysis
+3071;Ipsocyclization
+3072;Cell cycle analysis
+3073;Oxaspiro[4,5]trienone
+3074;Urinary symptoms
+3075;Robotic assisted radical prostatectomy
+3076;Salvage prostatectomy
+3077;68Ga-PSMA-11 PET/CT
+3078;Lymph node metastasis
+3079;Lymph node evaluation
+3080;cancer metabolism
+3081;organometallic anticancer compound
+3082;protein microarrays
+3083;transcriptome sequencing
+3084;radical retropubic prostatectomy
+3085;Male pelvis
+3086;Pubic symphysis
+3087;Protuberance
+3088;Bipolar androgen therapy
+3089;VT-464
+3090;galeterone
+3091;ARN-509
+3092;Percentage of free prostate-specific antigen
+3093;Prostate cancer antigen 3 gene
+3094;hospital information systems
+3095;clinical pathways
+3096;data quality
+3097;data summarization
+3098;visualization
+3099;electronic medical records
+3100;quality improvement
+3101;quality measurement
+3102;Cancer quality registers
+3103;Tumour associated antigens
+3104;DNA vaccine
+3105;Prophylactic
+3106;Therapeutic
+3107;triptorelin
+3108;subcutaneous injection
+3109;gonadotropin-releasing hormone agonists
+3110;luteinizing hormone-releasing hormone agonist
+3111;Degarelix
+3112;Six1
+3113;Heterodimer formation
+3114;HIF-a
+3115;HIF-ß
+3116;FRET
+3117;DNA binding
+3118;Ruthenium/phosphine/diimine complexes
+3119;Acylthiourea ligands
+3120;BSA binding
+3121;transcription regulation
+3122;ubiquitin ligase
+3123;protein kinase
+3124;Selection for active surveillance
+3125;Inclusion criteria active surveillance
+3126;Degradable polymer
+3127;Cathepsin B
+3128;Geldanamycin
+3129;Peptidic dendrimer
+3130;HSP90 inhibitor
+3131;microvessel density
+3132;pathological features
+3133;alpinia conchigera
+3134;acetoxychavicol acetate
+3135;targeted cytotoxicity
+3136;alpha fetoprotein
+3137;stroma
+3138;treatment response
+3139;laser ablation therapy
+3140;Parkinson's disease
+3141;Fusion prostate biopsy
+3142;MRI-targeted prostate biopsy
+3143;Korean
+3144;Alkaline phosphatase
+3145;Heterogeneous data
+3146;High-throughput data
+3147;Data acquisition
+3148;Data integration
+3149;Mediterranean style diet
+3150;first-line treatment
+3151;Interaction type
+3152;Information-based approach
+3153;Gene expression data
+3154;Regulatory interaction
+3155;fibroblast growth factor
+3156;prostate cancer progression
+3157;conditional gene knockout
+3158;receptor tyrosine kinase
+3159;matriptase
+3160;CAIX
+3161;PDGF-D
+3162;acidosis
+3163;Histogram analysis
+3164;ROI
+3165;Radiation dose
+3166;therapeutic cancer vaccine
+3167;immunogenic modulation
+3168;Treg, regulatory T cell
+3169;SCGB2A2, secretoglobin, family 2A, member 2
+3170;T, brachyury homolog
+3171;HCC, hepatocellular carcinoma
+3172;dendritic cell
+3173;DAMP, damage-associated molecular pattern
+3174;VGX-3100
+3175;TLR, Toll-like receptor
+3176;TAA, tumor-associated antigen
+3177;CDR, complementarity-determining region
+3178;GM-CSF, granulocyte macrophage colony-stimulating factor
+3179;mucosal immunity
+3180;TRA, tumor rejection antigen
+3181;HNSCC, head and neck squamous cell carcinoma
+3182;APC, antigen-presenting cell
+3183;adjuvants
+3184;PAP, prostate acid phosphatase
+3185;DC, dendritic cell
+3186;CTLA4, cytotoxic T lymphocyte protein 4
+3187;FDA, Food and Drug Administration
+3188;OVA, ovalbumin
+3189;HPV, human papillomavirus
+3190;IL, interleukin
+3191;SOX2, SRY (sex determining region Y)-box 2
+3192;GX-188E
+3193;OS, overall survival
+3194;AFP, a-fetoprotein
+3195;CIN, cervical intraepithelial neoplasia
+3196;CEA, carcinoembryonic antigen
+3197;WT1, Wilms tumor 1
+3198;epigallocatechin-3-gallate
+3199;synergistic anticancer activity
+3200;theaflavin
+3201;AhR
+3202;TCDD/dioxin
+3203;Bone-targeted agents
+3204;Population-based study
+3205;Migration status
+3206;Immigrants
+3207;Cancer survival
+3208;single nucleotide polymorphism
+3209;L-plastin
+3210;NKX3.1
+3211;molecular regulation
+3212;photoneutron dose
+3213;neutron contamination
+3214;bubble detector
+3215;linear accelerator
+3216;helical tomotherapy
+3217;older aged patients
+3218;phase I-II trial
+3219;enzyme mutation
+3220;WWP1/Tiul1
+3221;cancer biology
+3222;E3 ubiquitin ligase
+3223;protein degradation
+3224;transforming growth factor ß (TGF-ß)
+3225;RON
+3226;castrate resistance
+3227;17-(3-pyridyl)-5,16-androstadien-3beta-acetate
+3228;aged
+3229;drug tolerance
+3230;Locally advanced
+3231;image-guided
+3232;Middle East
+3233;Healthcare systems
+3234;Fruit
+3235;Orthotopic xenografts
+3236;Galiellalactone
+3237;GnRH-antagonist
+3238;LHRH-agonist
+3239;cell lines
+3240;intratibial injection
+3241;Neoadjuvant androgen deprivation therapy
+3242;Timing of salvage therapy
+3243;Salvage androgen deprivation therapy
+3244;Locally advanced prostate cancer
+3245;sedentary behavior
+3246;mobile intervention
+3247;body composition
+3248;weight training
+3249;quantitative proteomics
+3250;metabolite
+3251;metabolic shift
+3252;Slug
+3253;PSCA
+3254;ZEB1
+3255;RhoA
+3256;nasopharyngeal carcinoma
+3257;epithelial-to-mesenchymal transition
+3258;ZEB2
+3259;lifestyle factors
+3260;dietary factors
+3261;Finances
+3262;Financial stress
+3263;Financial difficulties
+3264;Financial strain
+3265;selenium
+3266;Selenide
+3267;ß-lapachone
+3268;Antitumor
+3269;Sulfur
+3270;Quinone
+3271;general practice
+3272;primary health care
+3273;policy
+3274;Ring finger protein 1(Ring1)
+3275;Hepatocellular carcinoma (HCC)
+3276;Community health
+3277;Magnetite Nanoparticles
+3278;population-based registry
+3279;Nairobi
+3280;ELISA
+3281;Europium
+3282;TR-FIA
+3283;hepsin
+3284;mouse model
+3285;Wnt signaling
+3286;Disclosure
+3287;Communication tensions
+3288;Communication networks
+3289;Testican-1
+3290;PKP1
+3291;SPOCK1
+3292;Prognostic parameters
+3293;Deep vein thrombosis
+3294;Pulmonary embolism
+3295;Extra-prostatic extension
+3296;Prostate imaging reporting and data system PI-RADS
+3297;antigen-specific T cells
+3298;memory T cells
+3299;prostate-derived E-twenty-six factor
+3300;thymidine phosphorylase
+3301;E-twenty-six variant 4
+3302;uridine phosphorylase-1
+3303;E-twenty-six transcription factor
+3304;relative expression
+3305;clinical implications
+3306;cofilin 1
+3307;prostatic hyperplasia
+3308;rectal metastasis
+3309;fluorescence in situ hybridization
+3310;amplification
+3311;caspase
+3312;frog ribonulease
+3313;expression
+3314;mitogen-activated protein kinase
+3315;lactotransferrin
+3316;renal-type
+3317;clear cell carcinoma
+3318;overexpression
+3319;Vav3
+3320;hematological malignancy
+3321;hematological disorder
+3322;immunomodulatory molecules
+3323;dyslipidemia
+3324;oxidatively modified low-density lipoprotein
+3325;vicious cycle
+3326;survival outcomes
+3327;NCCR
+3328;sequence analysis
+3329;JCV
+3330;BKV
+3331;fluorescence-guided surgery
+3332;CEA
+3333;fluoride PET/CT
+3334;skeletal tumor burden
+3335;NaF PET/CT
+3336;Magnetic resonance spectroscopy
+3337;diffusion magnetic resonance imaging
+3338;Trichomonas vaginalis
+3339;cp12
+3340;a-Actinin
+3341;RNAi
+3342;siRNA
+3343;genitourinary fertility and malignancy
+3344;prostasomes
+3345;prostate, renal and bladder cancer
+3346;estrogen receptor
+3347;Aromatase
+3348;Tadalafil
+3349;gastrin-releasing peptide receptor antagonists
+3350;sarcophagine MeCOSar chelator
+3351;64Cu
+3352;PET-imaging
+3353;pharmacoepidemiology
+3354;sulfonylurea
+3355;rapamycin
+3356;JNJ-38877605
+3357;linsitinib
+3358;saracatinib
+3359;Transrectal real-time elastography (TRTE)
+3360;urinary retention
+3361;Prostatic calculi
+3362;capsular penetration
+3363;PTEN deletion
+3364;miR-29a
+3365;KDM5B
+3366;histone demethylase
+3367;Genes, Tumor Suppressor
+3368;hMOB3B
+3369;health care
+3370;patient-centered care
+3371;micro-RNA
+3372;PIC-MABP
+3373;Prostate mapping algorithm
+3374;Prostate reporting scheme
+3375;insulin resistance and cancer
+3376;time to castration-resistant prostate cancer
+3377;mitochondrial function
+3378;DU145
+3379;C42B
+3380;Tumor M2-pyruvate kinase
+3381;tumor stage
+3382;nodal metastases
+3383;distant metastases
+3384;tumor size
+3385;cancer type
+3386;IMRT
+3387;simultaneous integrated boost
+3388;neuroendocrine prostate cancer
+3389;5-year survival
+3390;cancer incidence
+3391;Volcanic environment
+3392;Volcanic Carcinogens
+3393;Mt. Etna pollution
+3394;Cancer epidemiology
+3395;intestinal injury
+3396;radioprotection
+3397;SNPs
+3398;CYP27B1
+3399;capicua
+3400;CRABP1
+3401;ETV5
+3402;tRNA
+3403;sex hormone
+3404;tRNA half
+3405;cytoskeleton
+3406;molecular therapy
+3407;Colony formation
+3408;Ferulic acid
+3409;Permanent prostate brachytherapy
+3410;Global and sector analysis
+3411;Spatial dose distribution
+3412;monocarboxylate transporter
+3413;hyperpolarized carbon-13
+3414;PC3
+3415;health outcomes research
+3416;rural population health
+3417;Decision curve analysis
+3418;External validation
+3419;crude extract of Euphorbia formosana (CEEF)
+3420;DU145 human prostate cancer cells
+3421;expression pattern
+3422;heparan sulfate
+3423;tissue-specificity
+3424;biosynthesis
+3425;proteoglycan
+3426;Screening behaviors
+3427;PRECEDE model
+3428;Fasa
+3429;age factors
+3430;Clinical recurrence
+3431;tissue structure
+3432;diffusion weighted imaging
+3433;age groups
+3434;sleep duration
+3435;sleep disruption
+3436;TRUS prostate biopsy
+3437;Cavernous liver hemangiomas
+3438;Giant hemangiomas
+3439;Hepatectomy
+3440;Magnetic resonance imaging–guided in-bore prostate biopsy
+3441;Magnetic resonance imaging-ultrasound fusion–guided prostate biopsy
+3442;fried food
+3443;Chromatin accessibility
+3444;Pioneering factor
+3445;mPGES-1
+3446;Testosterone levels
+3447;Saturation model
+3448;Castration levels
+3449;prostatic foamy gland carcinoma
+3450;cortactin
+3451;Needs Assessment
+3452;Association study
+3453;miR-27a
+3454;miR-196a2
+3455;miR-499
+3456;18F-fluoromethylcholine
+3457;quantum dots
+3458;GRPR
+3459;integrin avß3
+3460;Prostate magnetic resonance imaging
+3461;Magnetic resonance imaging–targeted prostate biopsy
+3462;Magnetic resonance imaging-ultrasound fusion
+3463;AC
+3464;inguinal
+3465;calibration assessment
+3466;prostate transperineal intervention
+3467;parallel manipulator
+3468;MRI compatible
+3469;phase II clinical trial
+3470;patient-centred care
+3471;person-centred medicine
+3472;experience
+3473;Akt/NF-kB/MMP-9 cascade pathway
+3474;polyphenols
+3475;Hibiscus sabdariffa leaf
+3476;miR-23a-3p
+3477;Snail
+3478;osthole
+3479;Gleason grades
+3480;imaging biomarkers
+3481;microvessel architecture
+3482;quantitative histomorphometry
+3483;DCE MRI
+3484;long noncoding RNA
+3485;Hip
+3486;Prosthesis
+3487;Arc
+3488;MDV3100
+3489;anti-androgen
+3490;metastatic castrate resistant prostate cancer
+3491;Flux
+3492;Immunosuppressants
+3493;sirolimus
+3494;Case–control study
+3495;Genitourinary infections
+3496;plasma
+3497;C-peptide
+3498;IGF
+3499;Multiparametric resonance imaging
+3500;second-opinion readings
+3501;second-opinion reinterpretation
+3502;subspecialization
+3503;extracapsular tumor extension of prostate cancer
+3504;echo-planar imaging
+3505;readout-segmented echo-planar imaging
+3506;location
+3507;Misattribution of cause of failure
+3508;Competing risks
+3509;Estimating equations
+3510;Cucumariidae
+3511;Sea cucumber
+3512;Cercodemasoide
+3513;Cercodemas anceps
+3514;PSA basal
+3515;Baseline PSA
+3516;Velocidad de PSA
+3517;DNA repair-related genes
+3518;XRCC1
+3519;taxanes
+3520;Prostate neoplasm
+3521;Pseudohyperplastic
+3522;PKCa
+3523;MCF-7
+3524;AR-variants
+3525;AR-point mutations
+3526;Full-field optical coherence tomography
+3527;Hormonal therapies
+3528;Asymptomatic
+3529;Castration-resistant prostate carcinoma
+3530;Symptomatic
+3531;Recommendations
+3532;Prostaglandin E(2)
+3533;Microsomal prostaglandin E synthase-1
+3534;Cancer treatment
+3535;oncogenic role
+3536;target genes
+3537;ETS positive tumors
+3538;GRPR overexpression
+3539;RNA-Seq
+3540;disseminated tumor cells
+3541;osteoclasts
+3542;optimization
+3543;thermoplastics
+3544;biochips
+3545;Lab-on-a-chip
+3546;geometry
+3547;immunoassays
+3548;beads
+3549;point-of-care
+3550;hot embossing
+3551;cryosection
+3552;Proliferative inflammatory atrophy (PIA)
+3553;MMP9
+3554;mTOR
+3555;GOLPH3
+3556;Gleason pattern 4
+3557;mucinous fibroplasia
+3558;collagenous micronodules
+3559;Gleason pattern 3
+3560;Uro-oncology nurse
+3561;Schmorl's node
+3562;F-choline positron emission tomography/computed tomography
+3563;urinary continence
+3564;urethral fibrosis
+3565;OSTEOCLAST
+3566;Antagonist
+3567;Anibamine
+3568;CCR5
+3569;rotating frame relaxation
+3570;phospholipase C
+3571;prostate cancer cells
+3572;protriptyline
+3573;endoplasmic reticulum
+3574;Ca2+
+3575;store-operated Ca2+ channels
+3576;Linfadenectomía
+3577;Prostatectomía
+3578;Factores predictores de linfadenectomía
+3579;Adherencia a guías clínicas
+3580;Adherence to clinical guidelines
+3581;Predictors of lymphadenectomy
+3582;Quality assurance
+3583;RapidArc
+3584;Gamma index
+3585;Q-learning
+3586;backward induction
+3587;optimal treatment sequence
+3588;multi-stage treatment
+3589;CHI3L1
+3590;chloramidine
+3591;peptidylarginine deiminases
+3592;prostate cancer cells (PC3)
+3593;microvesiculation
+3594;Cutaneous
+3595;Maspin
+3596;IKK
+3597;Hypocalcaemia
+3598;transrectal ultrasound
+3599;PSA nadir
+3600;salvage treatment
+3601;Iodine(125) seed brachytherapy
+3602;Ultrasound-guided injection
+3603;Meralgia paraesthetica
+3604;Entrapment neuropathy
+3605;Lateral femoral cutaneous nerve
+3606;Hepatocyte growth factor (HGF)
+3607;C-Met
+3608;Rabbit monoclonal antibody
+3609;Prostatic biopsy
+3610;Multidisciplinary and multiprofessional approach
+3611;Prostate cancer unit
+3612;Minimal requirement
+3613;Low-dose-rate
+3614;Palliative radiotherapy
+3615;Pelvic tumor
+3616;mouse xenografts
+3617;c-SRC kinase CSK
+3618;siRNA screen
+3619;human prostate cancer tissue samples
+3620;Benign hyperplasia
+3621;cancer of prostate
+3622;co-expression
+3623;monoclonal antibodies
+3624;radium-223 dichloride
+3625;multidisciplinary clinic
+3626;best practices
+3627;Community-based participatory research
+3628;Health promotion
+3629;Recruitment
+3630;MYB-NFIB
+3631;Adenoid cystic carcinoma
+3632;Basal cell carcinoma
+3633;CLL
+3634;ABT-199
+3635;SMI-4a
+3636;Pim kinase
+3637;SGI-1776
+3638;AZD1208
+3639;Stage
+3640;Exome array
+3641;Predictive value
+3642;Radionuclide imaging
+3643;gene knockout
+3644;NanogP8
+3645;NANOG
+3646;CRISPR/Cas9
+3647;lipids
+3648;extracellular vesicle
+3649;ß-oxidation
+3650;guideline
+3651;tubulo-squamous polyp
+3652;Skene glands
+3653;vagina
+3654;MYCN
+3655;neuronal differentiation
+3656;neuroblastoma
+3657;NBAT1
+3658;TLR9
+3659;Administrative databases
+3660;health insurance number
+3661;data linkage
+3662;Progression free survival
+3663;circulating DNA
+3664;DNase activity
+3665;insulin resistance
+3666;adiposity
+3667;nonparametric estimation
+3668;bootstrap
+3669;treatment-covariate interaction
+3670;SATB1
+3671;Oncolytic adenovirus
+3672;prevention
+3673;ALAD
+3674;UBIQUITINATION
+3675;PROTEASOME
+3676;drug design
+3677;Cancer syndrome
+3678;family history
+3679;Fluorocholine
+3680;adoptive cell therapy
+3681;multimodality
+3682;checkpoint inhibitor
+3683;steroid receptor coactivator (SRC-1)
+3684;Myc (c-Myc)
+3685;Ramucirumab
+3686;Prednisone
+3687;Mitoxantrone
+3688;Cixutumumab
+3689;Etiology of Hypogonadism
+3690;Testosterone Deficiency
+3691;Treatment of Hypogonadism
+3692;Assessment of Hypogonadism
+3693;ADAR
+3694;PRUNE2
+3695;leupaxin
+3696;caldesmon
+3697;microfluidic
+3698;Ceftriaxone
+3699;Antibiotic prophylaxis
+3700;Patient positioning
+3701;Surgical anastomosis
+3702;Blood vessels
+3703;lower urinary tract
+3704;International Prostate Symptom Score
+3705;advanced prostate cancer
+3706;Astellas
+3707;Every Moment Matters
+3708;Every Voice Matters
+3709;estrogen-related receptors
+3710;estrogen receptors
+3711;tumor-propagating cells
+3712;RELA
+3713;translesion synthesis
+3714;missense mutations
+3715;polymerase kappa
+3716;catalytic efficiencies
+3717;Fluorine-18
+3718;Fully-automated
+3719;LiAlH(4) reduction
+3720;FDHT
+3721;miR-181a
+3722;LEF1
+3723;stromal-epithelial interaction
+3724;signaling transduction
+3725;unemployment
+3726;health economics
+3727;economic crisis
+3728;Hesperetin
+3729;Bicalutamide
+3730;HPLC
+3731;National early detection programme
+3732;PSA-test
+3733;risk literacy
+3734;emotions
+3735;Mortalité
+3736;Évolution
+3737;ill-defined
+3738;SNORD78
+3739;sdRNA
+3740;GAS5
+3741;ginsenoside
+3742;molecular targeting efficiency
+3743;PEG-PLGA nanoparticles
+3744;oral delivery
+3745;Eph
+3746;EphA6
+3747;ephrin
+3748;muscle invasive bladder cancer
+3749;patient-derived cancer xenografts
+3750;animal model
+3751;evolutionary game theory
+3752;edge effect
+3753;spatial structure
+3754;go-versus-grow game
+3755;anticancer therapy
+3756;vitamin B17
+3757;laetrile
+3758;amygdalin
+3759;Perioperative outcomes
+3760;CUL4A
+3761;PMS2
+3762;tumor progression
+3763;IGSF8
+3764;Axl receptor tyrosine kinase
+3765;Axl and drug resistance
+3766;monocarboxylate transporter 2
+3767;malignant phenotype
+3768;castrate resistant disease
+3769;FACT-Br
+3770;caregiver
+3771;QOL
+3772;CQOL-C
+3773;post-implant
+3774;fusion
+3775;prognostic markers
+3776;Desmoglein 2
+3777;body mass index (BMI)
+3778;Skeletal metastasis
+3779;Computer-aided diagnosis
+3780;BONENAVI version 2.1.7
+3781;quality-of-life
+3782;long-term survival
+3783;fibroblast growth factor receptor (FGFR)
+3784;fibroblast growth factor (FGF)
+3785;cell signaling
+3786;CDKN1A
+3787;Prostate cancer (PC)
+3788;miR-208
+3789;navicular bone metastasis
+3790;Patient decision aids
+3791;Informed decision making
+3792;reporter cell lines
+3793;environmental-disrupting compounds
+3794;nuclear receptors
+3795;Medicare Part B
+3796;physician services
+3797;Cyberknife Radiosurgery
+3798;SIAH1
+3799;Cytokine
+3800;SIAH2
+3801;Splicing variants
+3802;Cancer de prostate résistant à la castration
+3803;Variants épissage
+3804;Docétaxel
+3805;Alpharadin
+3806;Dénosumab
+3807;Acétate d’abiratérone
+3808;Radiotherapy dose fractionation
+3809;radiation oncology
+3810;Technology
+3811;P-glycoprotein/P-gp
+3812;Multidrug resistance protein 1/MDR1
+3813;model organism
+3814;PSAV
+3815;fPSA%V
+3816;proPSA%V
+3817;early diagnosis
+3818;cyclin D3
+3819;phospho(Thr160)-CDK2
+3820;SB265610
+3821;p38MAPK
+3822;santalol
+3823;Sandalwood
+3824;mdm2 gene
+3825;p53 gene
+3826;Nicotinic receptor
+3827;Ly6
+3828;Bronchial epithelium
+3829;lynx1
+3830;Lynx2
+3831;hormone replacement therapy
+3832;pain coping skills
+3833;cancer pain
+3834;videoconferencing
+3835;mHealth technology
+3836;Parallel optical read-out detection
+3837;Micromechanical sensors
+3838;health claim
+3839;turmeric
+3840;p-PP2A
+3841;okadaic acid
+3842;immunocompetent animal
+3843;orthotopic model
+3844;rats
+3845;Open source
+3846;low dose rate
+3847;Seed distribution
+3848;Genetic algorithm
+3849;Gene signatures
+3850;Non-coding RNA
+3851;Peptoids
+3852;Antimicrobial peptides
+3853;glycopeptide
+3854;LC-MS/MS
+3855;glycoproteomics
+3856;missense mutation
+3857;rs61752561
+3858;D102N
+3859;Inverse probability censoring weight
+3860;C-index
+3861;Concordance probability estimate
+3862;Discrimination
+3863;Risk classification
+3864;Abiratérone
+3865;Cabozantinib
+3866;MOSCATO
+3867;parathyroid hormone–related protein
+3868;cat
+3869;mammary
+3870;osteoblastic
+3871;dog
+3872;radiosensitization
+3873;Thymidylate synthase
+3874;Fluoropyrimidine
+3875;Saudi Arabia
+3876;ADT, androgen-deprivation therapy
+3877;ERSPC, European Randomized Study of Screening for Prostate Cancer
+3878;PLCO, Prostate, lung, colorectal and ovarian (trial)
+3879;RT, renal transplantation
+3880;RRP, retropubic RP
+3881;Renal transplantation
+3882;PLND, pelvic lymph-node dissection
+3883;RPP, perineal RP
+3884;RP, radical prostatectomy
+3885;RTR, renal-transplant recipient
+3886;Robot assisted prostatectomy
+3887;endocrine fibroblast growth factors
+3888;FGF23
+3889;fibroblast growth factors
+3890;abiaterone
+3891;keratin
+3892;lymph node
+3893;Biomaterial
+3894;Mesh
+3895;Rectourinary fistula
+3896;Transanal surgery
+3897;Au@Ag nanorod dimers
+3898;PSA detection
+3899;chirality
+3900;caspase-8
+3901;taxane-resistance
+3902;miR-130a
+3903;human health
+3904;lymph node staging
+3905;position emission tomography
+3906;orthotopic tumor
+3907;tumorgraft
+3908;nude mice
+3909;functional outcomes
+3910;lung cancer screening
+3911;lung nodule
+3912;clinical models
+3913;non-steroidal anti-inflammatory drugs
+3914;Plerixafor
+3915;campaign
+3916;transitional cell carcinoma
+3917;High dose rate brachytherapy boost
+3918;Androgen suppression
+3919;Dose escalation
+3920;cancer mortality
+3921;Coal Mining
+3922;Spatial analysis
+3923;Geographic Information Systems
+3924;Ensayos clínicos
+3925;Coste evitado
+3926;Cáncer próstata
+3927;Economic benefits
+3928;Investigational drug
+3929;Medicamento en investigación
+3930;Cost avoidance
+3931;Beneficio económico
+3932;Androgen receptor inhibitor
+3933;Low-income
+3934;Food pantries
+3935;Food assistance programs
+3936;Cancer patients
+3937;GnRH antagonist
+3938;oncological outcome
+3939;RANK-L inhibitor
+3940;Ra 223
+3941;dutasteride
+3942;ultra-combined androgen blockade (UCAB)
+3943;Combined androgen blockade (CAB)
+3944;prostate specific membrane antigen (PSMA)
+3945;primary prostate cancer
+3946;oncogenes
+3947;tumor suppressors
+3948;epithelium
+3949;transcription factors
+3950;Grainyhead-like factors
+3951;parallel RF transmission
+3952;Genetically engineered mouse models
+3953;Childhood solid tumors
+3954;Cell migration/invasion
+3955;Hydrogen sulfide
+3956;Cell metabolism
+3957;Cell hypoxia
+3958;Clear cell renal cell carcinoma
+3959;miR-101
+3960;RLIP76
+3961;hormone resistance
+3962;treatment sequence
+3963;MCT1
+3964;Non-Hodgkin's lymphoma
+3965;2,4-D
+3966;Prostasome
+3967;Dynamic light scattering
+3968;Seminal vesicle
+3969;neoplasm grade
+3970;northwest men
+3971;population-based analysis
+3972;dual-specificity phosphatase 5
+3973;Cyclotides
+3974;H.diffusa
+3975;migration and proliferation
+3976;NUDT10
+3977;antagonists
+3978;hyperplasia
+3979;autoimmunity
+3980;atherosclerosis
+3981;hair
+3982;Stat5
+3983;Diagnostic performance
+3984;Observer study
+3985;psychosocial
+3986;lifestyle behaviors
+3987;coculture
+3988;3D culture
+3989;high throughput
+3990;hyaluronic acid
+3991;drug screening
+3992;tumor-initiating cells
+3993;carbon nanotubes
+3994;catechin
+3995;centromere protein F
+3996;microRNA-205
+3997;Castration-resistant prostate cancer (CRPC)
+3998;Hormone-relapsed prostate cancer
+3999;Genomic classifier
+4000;Transcriptome
+4001;BOLD
+4002;oxygen
+4003;carbogen
+4004;TOLD
+4005;Schiff base
+4006;Nickel
+4007;DNA
+4008;sulfur metabolism
+4009;pathway engineering
+4010;endocrine disrupters
+4011;Polychlorinated biphenyls
+4012;PCB congeners
+4013;developmental neurotoxicity
+4014;Disease-specific outcomes
+4015;Statistical approaches
+4016;Prospective registries
+4017;Population-based
+4018;MRI/ultrasound fusion-guided prostate biopsy
+4019;MR-guided in-bore prostate biopsy
+4020;patient comfort
+4021;Periprostatic nerve block
+4022;Coherent point drift
+4023;Multimodal deformable registration
+4024;Hough forest segmentation
+4025;Polyplex
+4026;R11 peptide
+4027;immune response
+4028;GU malignancies
+4029;LC3
+4030;S6K1
+4031;MEF
+4032;Autophagy flux
+4033;S6K2
+4034;ERG expression
+4035;endocrine therapy
+4036;predictive biomarker
+4037;supplement
+4038;Gymnema sylvestre
+4039;intrinsic
+4040;Dihydroxy gymnemic triacetate
+4041;Genes, BRCA1
+4042;Genes, BRCA2
+4043;HBOC Syndrome
+4044;WAVE3
+4045;Invasion and migration
+4046;HGF
+4047;Urologic malignancies
+4048;nephrostomy
+4049;palliative management
+4050;upper urinary tract obstruction
+4051;ureteral stents
+4052;Sequential therapy
+4053;Lithium chloride
+4054;Cancer prevention and treatment
+4055;Small chemicals
+4056;GSK-3
+4057;FDG
+4058;Gabarapl1
+4059;SEER-Medicare
+4060;cardiac morbidity
+4061;life expectancy
+4062;bowel motility
+4063;gum chewing
+4064;cardiac glycoside
+4065;hypoxia-inducible factor 1a
+4066;propensity score
+4067;Chloroquine
+4068;Piperine
+4069;Smads
+4070;TGFß
+4071;Transcription
+4072;penile rehabilitation
+4073;phosphodiesterase type 5 inhibitor
+4074;sildenafil citrate
+4075;clinical stage
+4076;11C-acetate
+4077;prostate gland development
+4078;prostate gland
+4079;HOX genes
+4080;PIRADS-score
+4081;hybrid imaging
+4082;ERK
+4083;signaling pathways
+4084;phosphorylation
+4085;TMEFF2
+4086;POLYMORPHIC VARIATION
+4087;p53 mutation
+4088;serous ovarian cancer
+4089;unifocal
+4090;Epithelial-to-mesenchyme transition
+4091;MeCN
+4092;standard error of mean
+4093;dispersive liquid–liquid microextraction
+4094;FBS
+4095;human androgen-responsive prostate cancer cell line
+4096;acetonitrile
+4097;dithiothreitol
+4098;RPMI
+4099;dihydrotestosterone (13)C(3) solution
+4100;CFBS
+4101;RT
+4102;SEM
+4103;bovine serum albumin
+4104;gas chromatography–mass spectrometry
+4105;lactate dehydrogenase
+4106;1,4-dithioerythritol
+4107;Steroidal 5a-reductase inhibitors
+4108;BSA
+4109;DTT
+4110;FDA
+4111;5a-R
+4112;fetal bovine serum
+4113;ATCC
+4114;T-d(3)
+4115;dimethyl sulfoxide
+4116;methanol
+4117;DHT-(13)C(3)
+4118;testosterone-d(3) solution
+4119;MeOH
+4120;tetrazolium salt 3-(4,5-dimethylthiazol-2-yl)-2,5-difenyltetrazolium
+4121;DLLME
+4122;DHT
+4123;LDH
+4124;MTT
+4125;GC–MS
+4126;nicotinamide adenine dinucleotide phosphate
+4127;American Type Culture Collection
+4128;Food and Drug Administration
+4129;F
+4130;(benzotriazol-1-yloxy)tris(dimethylamino)phosphonium hexafluorophosphate
+4131;MSTFA
+4132;DTE
+4133;DMSO
+4134;dihydrotestosterone
+4135;T
+4136;BOP
+4137;Roswell Park Memorial Institute
+4138;room temperature
+4139;RIs
+4140;NADPH
+4141;N-methyl-N-(trimethylsilyl)trifluoroacetamide
+4142;pre-treated charcoal heat-inactivated fetal bovine serum
+4143;isomerase
+4144;FK506
+4145;immunophilin
+4146;chaperone
+4147;MD
+4148;Iraq
+4149;Basrah
+4150;rapid amplification of cDNA ends
+4151;tumor necrosis factor-alpha
+4152;interferon-beta
+4153;DEAD-box RNA helicase 5
+4154;RISC
+4155;P-bodies
+4156;hnRNPs
+4157;enhancer of mRNA decapping 3 homolog
+4158;heterogeneous nuclear ribonucleoproteins
+4159;AGO2
+4160;Argonaute 1
+4161;LPS
+4162;DDX5
+4163;cycloheximide
+4164;reticulocyte 15-lipoxigenase
+4165;U22 snoRNA host gene
+4166;RN7SL1
+4167;RIPA
+4168;HIF1A
+4169;CRM1
+4170;DCP1A
+4171;actinomycin D
+4172;DEAD-box RNA helicase 17
+4173;diamidino-2-phenylindole
+4174;hypoxia inducible factor 1 alpha subunit
+4175;microRNA precursors
+4176;microRNA-145
+4177;7mG
+4178;7-methylguanosine
+4179;DEAD-box RNA helicase 6
+4180;polyvinylidene fluoride
+4181;pre-miRNAs
+4182;TNF-a
+4183;DDX6
+4184;Argonaute 2
+4185;EDC3
+4186;NCR143/145
+4187;IPZ
+4188;PVDF
+4189;IgG
+4190;RNA 7SL cytoplasmic 1
+4191;glyceraldehyde-3-phosphate dehydrogenase
+4192;nsNCR143/145
+4193;ACTB
+4194;GAPDH
+4195;microRNA-143
+4196;microRNA-143/145 host non-coding RNA gene
+4197;negative control
+4198;DAPI
+4199;nonsense-mediated mRNA decay
+4200;miR-145
+4201;RNA-induced silencing complexes
+4202;RNU6B
+4203;lipopolysaccharide
+4204;DDX17
+4205;NC
+4206;LMB
+4207;non-spliced NCR143/145
+4208;5'-3' exoribonuclease 1
+4209;ActD
+4210;importazole
+4211;AGO1
+4212;radioimmunoprecipitation assay
+4213;NMD
+4214;XRN1
+4215;primary microRNA transcripts
+4216;UHG
+4217;processing bodies
+4218;pri-miRNAs
+4219;DCP1 decapping enzyme homolog A
+4220;r15-LOX
+4221;U6 small nuclear B RNA
+4222;ARE
+4223;beta-actin
+4224;AU-rich elements
+4225;leptomycin B
+4226;importin family nuclear export receptor
+4227;CHX
+4228;immunoglobulin G
+4229;Physical exercise
+4230;Cachexia
+4231;Muscle mass
+4232;muscle strength
+4233;Hyperinsulinemia
+4234;Hyperglycemia
+4235;Tumors and diabetes
+4236;Frozen-section analysis
+4237;Robot-assisted laparoscopic radical prostatectomy
+4238;Surrogate
+4239;Deferred treatment
+4240;intraductal carcinoma
+4241;JPHC study
+4242;prospective
+4243;inhibitors
+4244;a-methylacyl CoA racemase
+4245;coenzyme A
+4246;MCR
+4247;non-Hodgkin lymphoma
+4248;insurance status
+4249;Hyperprolactinémie
+4250;Prolactine
+4251;Neuroleptiques
+4252;Hyperprolactinemia
+4253;Conduite à tenir
+4254;Antipsychotic agents
+4255;JS-K
+4256;poloxamer
+4257;leukaemia
+4258;Pluronic
+4259;SERCA
+4260;thapsigargin analogue
+4261;Immunocapture
+4262;Dielectrophoresis
+4263;suprapubic cystostomy
+4264;clinicopathologic variables
+4265;RhoGDIa
+4266;3-Dimensional
+4267;3D
+4268;2-Dimensional
+4269;2D
+4270;CXC Chemokine Receptor 4
+4271;ECM
+4272;CXCR7
+4273;Stromal Derived Factor-1 alpha
+4274;CXC Chemokine Receptor 7
+4275;Matrix Metalloproteinase 11
+4276;MMP-11
+4277;SDF-1a
+4278;Imine-pyrazolopyrimidinones
+4279;Catalytic topoisomerase inhibitors
+4280;Effects on G2/M phase of the cell cycle
+4281;glycogen synthase kinase
+4282;FITC
+4283;combination index
+4284;3-(4,5-dimethylthiazol-2-yl)-2,5-diphenytetrazolium bromide
+4285;3,3,5,5 tetramethylbenzidine
+4286;PARP
+4287;phosphatase and tensin homolog
+4288;poly (ADP-ribose) polymerase
+4289;propidium iodide
+4290;EC(50)
+4291;PI
+4292;CI
+4293;fluoresceinisothiocyanate
+4294;Alpha-tomatine
+4295;PC-3 tumor xenograft
+4296;phosphoinositide 3-kinase
+4297;GSK
+4298;PTX
+4299;PCNA
+4300;TMB
+4301;proliferating cell nuclear antigen
+4302;half maximal concentration
+4303;GLTSCR2
+4304;design
+4305;chronic illness
+4306;nursing assessment
+4307;mixed method
+4308;second harmonic generation
+4309;wavelength sensitivity
+4310;high risk group
+4311;organ size
+4312;single domain antibody
+4313;phage library
+4314;physiological selection
+4315;tumor-associated antigen
+4316;hormone response element
+4317;GR
+4318;estrogen receptor alpha isoform
+4319;PR-A
+4320;progesterone receptor A isoform
+4321;quantitative footprinting
+4322;wild type
+4323;PR-B
+4324;wt
+4325;thermodynamics
+4326;ER-ß
+4327;protein–DNA interactions
+4328;steroid receptors
+4329;mineralocorticoid receptor
+4330;ER-a
+4331;HRE
+4332;progesterone receptor B isoform
+4333;estrogen receptor beta isoform
+4334;Tumor stromal cell
+4335;STEAP-1
+4336;Intercellular communication
+4337;Diffusion-weighted MRI
+4338;USPIO
+4339;Bone cancer
+4340;Bone cancer pain
+4341;GFP-positive PC3-Luc cells overexpressing SPARCL1
+4342;the bioluminescent human prostate carcinoma cell line
+4343;CaP
+4344;intracardiac
+4345;secreted protein acidic and rich in cysteine-like 1
+4346;GFP-positive PC3-Luc cells expressing empty control vector
+4347;Gene expression signature
+4348;SPARCL1 function in vivo
+4349;in vivo Imaging System
+4350;OX
+4351;SPARCL1
+4352;hematoxylin and eosin
+4353;Severe combined immunodeficient
+4354;SCID
+4355;PC3-luc/EV
+4356;PC3-luc/SPARCL1
+4357;IVIS
+4358;cancer of the prostate gland
+4359;IC
+4360;orthotopic xenografting
+4361;H.E
+4362;PC3-Luc
+4363;molecular farming
+4364;VHH-Fc fusion protein
+4365;Arabidopsis thaliana
+4366;transgene expression
+4367;seed-specific expression
+4368;sinonasal
+4369;fibroblast growth factor receptor 1 (FGFR1)
+4370;steroid 17-alpha-hydroxylase
+4371;ketoconazole
+4372;integrated delivery system
+4373;access
+4374;IFNa2
+4375;IRF9
+4376;epidemiologic factors
+4377;Health Services Research
+4378;lethal
+4379;familiality
+4380;UPDB
+4381;prostate cancer markers
+4382;Chlamydia trachomatis
+4383;Fractionation
+4384;Facteurs temps
+4385;Time factors
+4386;Fractionnement
+4387;Deformable registration
+4388;Radiotherapie
+4389;organ motion
+4390;Organbewegung
+4391;Deformierbare Registrierung
+4392;N-succinimidyl-4-[(18)F]fluorobenzoate ([(18)F]SFB)
+4393;Positron emission tomography (PET)
+4394;Bombesin (BBN)
+4395;(18)F
+4396;Gastrin-releasing peptide (GRP) receptor
+4397;LLP9
+4398;LLP3
+4399;EMA
+4400;European Medicines Agency
+4401;O-glycosylation
+4402;post-translational modification
+4403;O-GlcNAc
+4404;Cancer targeted therapy
+4405;Avastin
+4406;Vascular endothelial growth factor
+4407;Bevacizumab
+4408;Anti-angiogenic agents
+4409;nimbolide
+4410;PI3K/Akt
+4411;Mediterranean diet
+4412;neoplasm
+4413;antiandrogens
+4414;gynecomastia
+4415;radical cystectomy
+4416;Urethrectomy
+4417;Perineal
+4418;Prepubic
+4419;Xgeva (Denosumab)
+4420;Sm-153 systemic radionuclide therapy
+4421;Proxiredoxin 3
+4422;Daidzein
+4423;Drug-targeting
+4424;Tamoxifen
+4425;Porphyrin
+4426;Prodigiosenes
+4427;Estrone
+4428;Metabotropic glutamate receptor 1
+4429;Paraneoplastic cerebellar degeneration
+4430;Sipuleucel T
+4431;Novel treatments
+4432;Augmented reality
+4433;Surgical navigation
+4434;Genitourinary oncologic surgery
+4435;Image-guided surgery
+4436;help-seeking
+4437;illness behaviour
+4438;psychosocial oncology support
+4439;masculinities
+4440;men's cancer
+4441;skeletal related events
+4442;RP
+4443;LUTS
+4444;phosphatidylinositol 3-kinase
+4445;dactolisib
+4446;PBS
+4447;p
+4448;S6 ribosomal protein
+4449;mTOR complex
+4450;phosphate buffered saline
+4451;mTORC
+4452;mammalian target of rapamycin
+4453;MAPK
+4454;phosphorylated
+4455;S6
+4456;anagallosaponin IV
+4457;Cell elasticity
+4458;CIL-1
+4459;AFM
+4460;annexin V
+4461;AnV
+4462;desglucoanagalloside B
+4463;Triterpene saponosides
+4464;atomic force microscopy
+4465;CIL-2
+4466;Cell motility
+4467;tissue micro array
+4468;Gleason score (sum of the two most abundant tumor Gleason patterns)
+4469;region of interest
+4470;BLVR
+4471;hematoxilin-eosine
+4472;HE
+4473;p63
+4474;alpha methylacyl CoA racemase
+4475;P53-related protein P63
+4476;pathological tumor stage
+4477;Heme metabolism
+4478;Mass spectrometry tissue imaging
+4479;GS
+4480;TMA
+4481;biliverdin reductase
+4482;pT
+4483;Mimickers
+4484;Nonattendance
+4485;Contamination
+4486;PALGA
+4487;Biologic equivalent dose
+4488;Phoenix threshold
+4489;Nadir PSA values
+4490;Intraprostatic failure
+4491;EBRT
+4492;Oncología
+4493;Segmentación
+4494;Pieza quirúrgica
+4495;Segmentation
+4496;Surgical specimen
+4497;Tomografía por emisión de positrones
+4498;TEMPRSS2:ERG
+4499;CD147
+4500;Rectal bleeding
+4501;Formalin application
+4502;Radiation proctopathy
+4503;metastasis-free survival
+4504;clinical trial end points
+4505;dissemination
+4506;holmium laser enucleation of the prostate
+4507;testosterone recovery
+4508;leuprolide
+4509;Antisteroidal therapy
+4510;5-Methylcytidine
+4511;Karyometry
+4512;Aged gerbil
+4513;Transmission electron microscopy
+4514;signal transducer and activator of transcription 3
+4515;cyclin-dependent kinase 5
+4516;LPCAT1
+4517;Mitochondrial membrane permeability
+4518;Lithocholic acid
+4519;In vitro
+4520;Bile acids
+4521;Extracellular
+4522;Morocco
+4523;Rabat
+4524;MR spectroscopy
+4525;phospholipid metabolism
+4526;pathologic grade
+4527;HR-MAS
+4528;VEGFR-3
+4529;CCR7
+4530;MESENCHYMAL STROMAL CELL
+4531;HYPOXIA PRECONDITIONING
+4532;LYMPHATIC METASTASIS
+4533;Pheophorbide a
+4534;Lung neoplasms
+4535;Radiography
+4536;Antiviral action
+4537;HBV
+4538;ferric reducing antioxidant power
+4539;total polyphenolic content
+4540;reduced glutathione
+4541;FRAP
+4542;HBsAg
+4543;GAE
+4544;red grape seed aqueous extract
+4545;Grape seed extracts
+4546;RW
+4547;GSH
+4548;HBeAg
+4549;phosphatidylinositide 3-kinase
+4550;hepatitis B surface antigen
+4551;old yellow enzymes
+4552;hepatitis B “e” antigen
+4553;PCD
+4554;?cta1, ?sod1, and ?gsh1
+4555;Antioxidant/prooxidant activity
+4556;OYE
+4557;gallic acid equivalents
+4558;programmed cell death
+4559;yeast mutants derived from the wild-type (wt) strain BY474, harbouring deletion of the genes CTA1, SOD1, or GSH1 respectively
+4560;WW
+4561;reactive oxigen species
+4562;white grape seed aqueous extract
+4563;GSSG
+4564;oxidised glutathione
+4565;TP
+4566;GSE
+4567;grape seed extract
+4568;human hepatitis B
+4569;Entosis
+4570;Anoikis
+4571;Imaging-guided therapy
+4572;Imaging-guided biopsy
+4573;Gamma camera
+4574;Endoluminal imaging
+4575;Niveau de preuve
+4576;Valorisation
+4577;Evidence based medicine
+4578;Teaching
+4579;Valuation
+4580;Enseignement
+4581;Vasculogenic mimicry
+4582;Neovascularisation
+4583;Malignant tumour
+4584;robotic
+4585;11C- or 18F-choline
+4586;Androgen receptor (AR)
+4587;histone methylation
+4588;Targeted alpha therapy
+4589;Systemic cancers
+4590;Radioisotopes
+4591;Lekaemia
+4592;In vivo
+4593;magnetic nanoparticles
+4594;reactive oxidative species
+4595;castrate resistant prostate cancer (CRPC)
+4596;non-AR therapeutic targets
+4597;Cancer stem cells (CSCs)
+4598;prostate cancer (P-Ca)
+4599;hierarchy
+4600;active surveillance (AS)
+4601;epithelial-to-mesenchymal transition (EMT)
+4602;BCG treatment
+4603;bladder cancer treatment
+4604;Granulomatous prostatitis
+4605;Male
+4606;Radical perineal prostatectomy
+4607;COPD
+4608;Early diagnosis of cancer
+4609;Case-control study
+4610;Methodological study
+4611;Bias
+4612;Hardy–Weinberg equilibrium
+4613;confidence interval
+4614;false discovery rate
+4615;HC
+4616;LD
+4617;GBC
+4618;OR
+4619;Healthy controls
+4620;gallbladder cancer
+4621;odds ratio
+4622;genome-wide association study
+4623;SPSS
+4624;linkage disequilibrium
+4625;FDR
+4626;statistical package for social sciences
+4627;HWE
+4628;Gallbladder cancer (GBC)
+4629;myelotoxicity
+4630;monoclonal antibody
+4631;risk-stratified screening
+4632;personalized screening
+4633;distributive justice
+4634;consent
+4635;iGluR
+4636;GRM1a
+4637;mGluR1a
+4638;mGluR
+4639;brain
+4640;Glutamate
+4641;MPV
+4642;f/t PSA and
+4643;cPSA
+4644;fPSA
+4645;chronic prostatitis
+4646;tPSA
+4647;serine hydroxymethyltransferase
+4648;innate immunity
+4649;NCF4
+4650;HL-60 cells
+4651;Rh-123
+4652;2',7'-dichlorodihydrofluorescin diacetate
+4653;Rhodamine-123
+4654;hexane
+4655;3-(4,5-dimethylthiazole-2-yl)-2,5-diphenyltetrazolium bromide
+4656;Hex
+4657;Hex-EtOAc
+4658;hexane etyl acetate
+4659;mitochondrial mitochondrial potential
+4660;G. epunctata
+4661;DCFH(2)-DA
+4662;Mitochondrial membrane potential
+4663;transrectal ultrasound-guided biopsy
+4664;mentored fellowship
+4665;EERPE
+4666;MEK
+4667;small interfering RNA
+4668;urokinase-type plasminogen activator
+4669;JNK
+4670;ERK kinase
+4671;FAK
+4672;focal adhesion kinase
+4673;ERK1/2
+4674;STAT
+4675;TMPRSS4
+4676;c-Jun N-terminal kinase
+4677;extracellular signal-regulated kinase 1/2
+4678;Radium Ra 223 dichloride
+4679;MSC
+4680;mesenchymal stem cell
+4681;multipotent stromal cell
+4682;malignant transformation
+4683;H3K4me3
+4684;H3K9me3
+4685;arsenic
+4686;H3K27me3
+4687;C2H2 zinc finger genes
+4688;intron-crossing primer
+4689;pyrosequencing
+4690;epigenetic
+4691;IGF2
+4692;imprinting
+4693;NER
+4694;excision repair cross-complementing rodent repair deficiency Group 2
+4695;XPD
+4696;xeroderma pigmentosum group D
+4697;nucleotide excision repair
+4698;TFIIH
+4699;ERCC2
+4700;transcription factor IIH transcription
+4701;odds ratios
+4702;Stéréotaxie
+4703;Stereotactic
+4704;Hypofractionnement
+4705;Volume tumoral macroscopique
+4706;Margins
+4707;Cancer prostate
+4708;Marges
+4709;Volume cible prévisionnel
+4710;CTV
+4711;PTV
+4712;GTV
+4713;Volume cible anatomoclinique
+4714;Radiothérapie externe
+4715;External beam radiotherapy
+4716;Surveillance Epidemiology and End Results
+4717;EXP
+4718;Behavioral Risk Factor Surveillance System
+4719;NCI
+4720;OBS
+4721;Prostate cancer incidence
+4722;Connecticut Tumor Registry
+4723;BRFSS
+4724;National Cancer Institute
+4725;observed
+4726;CTR
+4727;Spatial co-variation
+4728;relative rate/risk
+4729;Geographic analysis
+4730;expected
+4731;RR
+4732;Nucleoside transport
+4733;N-methyl-d-glucamine
+4734;equilibrative nucleoside transporter
+4735;5-bromo-2'-deoxyuridine
+4736;Black cohosh
+4737;nitrobenzylthioinosine
+4738;short-interfering RNA
+4739;qPCR
+4740;high-pressure liquid chromatography
+4741;NT
+4742;concentrative nucleoside transporter
+4743;cimicifuga racemosa
+4744;CNT
+4745;NBTI
+4746;BrdU
+4747;nucleoside transporter
+4748;ENT
+4749;BCa
+4750;5-FU
+4751;NMG
+4752;Saponin
+4753;real-time quantitative polymerase chain reaction
+4754;5-fluorouracil
+4755;CR
+4756;1,25-dihydroxyvitamin D(3)
+4757;FFQ
+4758;Vitamin D/blood*
+4759;prostate cancer-specific mortality
+4760;PH
+4761;HR
+4762;1,25(OH)(2)D
+4763;proportional hazards
+4764;Epidemiologic studies
+4765;food frequency questionnaire
+4766;25(OH)D
+4767;PCSM
+4768;25(OH) vitamin D
+4769;cohort studies
+4770;hazard ratio
+4771;Early salvage radiotherapy
+4772;biochemical recurrence-free survival
+4773;Dose par fraction
+4774;Rapport a/ß
+4775;Cancer du sein
+4776;Alpha-beta ratio
+4777;Dose per fraction
+4778;5-ALA
+4779;stromal cholinergic muscarinic receptor type 1
+4780;ß2- ß3- adrenergic receptors
+4781;primary tumor development
+4782;autonomic nervous system
+4783;tumor suppressor lipid
+4784;inhibitor 2 of protein phosphatase 2A
+4785;histone acetyl transferase
+4786;STEAP1
+4787;STEAP 2
+4788;infrafractional motion
+4789;mandible
+4790;cytostatic therapy
+4791;combined androgen blockade
+4792;immune responsive
+4793;immune cell surveillance
+4794;Metastasis of prostate cancer
+4795;immune-unresponsive (resistant) cells
+4796;macrophages
+4797;regional pelvic nodes
+4798;lysis/apoptosis of metastatic cancer cells
+4799;immune cells: lymphocytes
+4800;pelvic MRI
+4801;postprostatectomy incontinence
+4802;Internet and computer-based education
+4803;Benefit
+4804;Acquired immunity
+4805;Turnip
+4806;Brassica rapa
+4807;famotidine
+4808;randomized placebo-controlled trial
+4809;lymphocytopenia
+4810;DC
+4811;cytotoxic T cell
+4812;central nervous system
+4813;mononuclear phagocyte system
+4814;antigen-presenting cell
+4815;blood-brain barrier
+4816;IFN-?
+4817;PNM
+4818;CTL
+4819;CDP
+4820;CNS
+4821;polyethylene glycol
+4822;PLD
+4823;Nanomedicines
+4824;maximum tolerated dose
+4825;scFv
+4826;N-glutaryl-phosphatidylethanolamine
+4827;immunoliposomes
+4828;Bacterial-derived minicell
+4829;Tf-AD-PEG
+4830;multi drug resistance
+4831;oxaliplatin
+4832;DLT
+4833;MPS
+4834;MTD
+4835;transferrin-conjugated adamantane-conjugated polyethylene glycol
+4836;BBB
+4837;adamantane-conjugated polyethylene glycol
+4838;EPR
+4839;Retroviral vector
+4840;poly(lactic-co-glycolic acid)
+4841;ACUPA
+4842;pharmacokinetic
+4843;AD-PEG
+4844;Clinical translation
+4845;MDR
+4846;poly(d,l-lactide)
+4847;L-OHP
+4848;Tf
+4849;PAC
+4850;PEG
+4851;Particulate nanocarrier
+4852;single-chain antibody fragment
+4853;PK
+4854;DC-SIGN
+4855;cyclodextrin-containing polymer
+4856;dose-limiting toxicit
+4857;doxorubicin
+4858;DTXL
+4859;S,S-2-[3-[5-amino-1-carboxypentyl]-ureido]-pentanedioic acid
+4860;PEGylated liposomal doxorubicin
+4861;Polymeric nanoparticle
+4862;RRM2
+4863;short hairpin RNA
+4864;PLA
+4865;ILs
+4866;interferon-gamma
+4867;dendritic cell-specific intracellular adhesion molecule 3-grabbing non-integrin
+4868;particulate nanomedicine
+4869;DOX
+4870;Liposome
+4871;antibody–drug conjugate
+4872;enhanced permeability and retention
+4873;NGPE
+4874;M2 subunit of ribonucleotide reductase
+4875;glutathione
+4876;Targeting ligand
+4877;smoking cessation
+4878;nephrectomy
+4879;renal cell
+4880;Pelvic irradiation
+4881;Lymph node involvement
+4882;Intensity-modulated arc therapy
+4883;Prostate hyperplasia
+4884;Indole
+4885;Human SIRT1
+4886;Tumor stem cell-like
+4887;Fusion gene
+4888;Androgen-independent
+4889;surgical equipment
+4890;dogs
+4891;high-intensity focused
+4892;transrectal
+4893;Controlled trial
+4894;Cognitive rehabilitation
+4895;Working memory
+4896;Attention
+4897;questionnaires
+4898;CK2
+4899;Human lung cancer
+4900;Matrix metalloproteinases
+4901;CX-4945
+4902;CNA
+4903;Actionable alterations
+4904;Histological subtypes
+4905;Delegation k to radiotherapy technicians
+4906;Control of patient positioning
+4907;External radiotherapy
+4908;Délégations tâches aux manipulateurs en électroradiologie
+4909;Contrôle positionnement patient
+4910;Saturation
+4911;GLIPR1
+4912;5a-reductase (5-AR)
+4913;NF-E2-related factor-2 (Nrf2)
+4914;Prostatic acid phosphatase (PAP)
+4915;Tumor cell migration
+4916;Lipopolysaccharides
+4917;Steroid sulfatase
+4918;Intraductal carcinoma of the prostate
+4919;uranium
+4920;chemicals
+4921;solvents
+4922;chromium
+4923;nuclear workers
+4924;ionizing radiation
+4925;Carbon
+4926;Results
+4927;Protons
+4928;Toxicité
+4929;Hadrontherapy
+4930;Clinique
+4931;Clinics
+4932;Carbone
+4933;Résultats
+4934;local
+4935;Models
+4936;Statistical
+4937;nomograms
+4938;ERG-like gene signature
+4939;ERG rearrangements
+4940;molecular pathways
+4941;Geranylgeraniol
+4942;HMG CoA reductase
+4943;mevalonate
+4944;low-risk prostate cancer
+4945;PC3 cells
+4946;synaptopodin 2
+4947;stress fibers
+4948;actin bundles
+4949;actomyosin
+4950;Men
+4951;labor
+4952;testis
+4953;Paget’s disease of bone
+4954;bone fractures
+4955;scintigraphy
+4956;neoplasm metastases
+4957;Jurkat Cell Exosome mRNAs
+4958;tRNA Synthetase Splice Variant
+4959;Aminoacyl tRNA Synthetase
+4960;GC-MS
+4961;DPPH
+4962;Terpenic acids
+4963;IL-8
+4964;p65 Subunit
+4965;Herbal infusions
+4966;Dulbecco’s modified Eagle’s medium
+4967;3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide
+4968;Cell growth arrest
+4969;DMEM
+4970;LC-DAD-MS
+4971;2-diphenyl-1-picryhydrazyl
+4972;interleukin-8
+4973;electronic medical record
+4974;Behavioral Risk Factor Surveillance System Survey
+4975;EMR
+4976;WBC
+4977;Deliberative Community Engagement
+4978;CAB
+4979;white blood cell
+4980;Community Advisory Board
+4981;dynamic contrast enhancement (DCE) imaging
+4982;MR elastography (MRE)
+4983;post-acquisition processing
+4984;experimental model
+4985;genistein
+4986;nitric oxide synthase
+4987;genetic variation
+4988;California Cancer Registry
+4989;chronotherapy
+4990;circadian proteins
+4991;Circadian rhythm
+4992;glycine N-methyltransferase
+4993;androgen response element
+4994;endobronchial ultrasound-guided transbronchial needle aspiration, sarcoidosis, mediastinal and hilar lymphadenopathy, lymph node metastasis
+4995;superoxide
+4996;4-OH-PCB11
+4997;SIOP studies
+4998;rhabdomyosarcoma
+4999;bladder-prostate
+5000;real-time RT-PCR
+5001;androgen-responsive genes
+5002;precursors of testosterone
+5003;androgen-independent prostate cancer
+5004;Platinum(II) complexes
+5005;Combi-molecules
+5006;CDDP
+5007;CAM
+5008;chick chorioallantoic membrane
+5009;17ß-Acetyl-testosterone
+5010;young men
+5011;PSA screening
+5012;orgasm
+5013;urination disorders
+5014;Utilization
+5015;Health expenditures
+5016;caveolin-1
+5017;angiotensin II type 1 receptor
+5018;candesartan
+5019;angiotensin II
+5020;inverse optimization
+5021;dwell time
+5022;step size
+5023;High dose rate brachytherapy
+5024;adoptive volume optimization
+5025;prostate cells
+5026;Hydrodynamic cavitation
+5027;Implant quality
+5028;RNASEL gene
+5029;EUD
+5030;Inter-fraction motion
+5031;Post prostatectomy
+5032;Endorectal balloon
+5033;noggin
+5034;cancer-associated fibroblasts
+5035;BMP
+5036;prostate cancer mouse model
+5037;prostate cancer cell lines
+5038;ASC-J9(®)
+5039;Liquid chromatography tandem mass spectrometry
+5040;Distribution of drug
+5041;Cone-beam CT
+5042;Registration
+5043;Indole-3-carbinol
+5044;OSU-A9
+5045;Acute myeloid leukemia
+5046;Nucleoside lipids
+5047;N-(2-hydroxypropyl)methacrylamide (HPMA)
+5048;Cancer stem/progenitor cells
+5049;apparent diffusion coefficient (ADC)
+5050;Diffusion-weighted MR imaging
+5051;galectin-3
+5052;prostate tissue
+5053;Chemiluminescence
+5054;EphA1
+5055;Quantitative real-time PCR
+5056;WIN-55,212-2
+5057;tetrahydrocannabinol
+5058;endocannabinoid
+5059;cannabinoid
+5060;JWH-133
+5061;E2F1
+5062;metallothionein
+5063;ICI182,780
+5064;genome-wide association
+5065;QUALITATIVE RESEARCH
+5066;HEALTH SERVICES ADMINISTRATION & MANAGEMENT
+5067;Antineoplastic agents
+5068;Adverse events
+5069;Aromatase inhibitors
+5070;Alopecia
+5071;clearance
+5072;ancestry informative markers
+5073;MALD
+5074;mapping by admixture linkage disequilibrium
+5075;ChinaPCa
+5076;genetic score
+5077;MSMB
+5078;sexual partners
+5079;rs10993994
+5080;sexually transmitted infections
+5081;PSP94
+5082;transplants
+5083;H2AFX protein
+5084;Endothelin
+5085;p.i
+5086;I.D
+5087;9-fluorenylmethyloxycarbonyl
+5088;N,N-diisopropylethylamine
+5089;dimethylformamide
+5090;position sensitive photomultiplier tube
+5091;Fmoc
+5092;severe combined immunodeficiency
+5093;ESI-MS
+5094;EDTA
+5095;DIEA
+5096;iv
+5097;solid phase peptide synthesis
+5098;intravenous
+5099;electrospray ionization mass spectrometry
+5100;TIPS
+5101;DMF
+5102;PMSF
+5103;SPPS
+5104;internal diameter
+5105;Tricarbonyl precursor
+5106;diisopropylcarbamide
+5107;reversed-phase/size-exclusion high-performance liquid chromatography
+5108;1-hydroxybenzotriazole
+5109;PSPMT
+5110;EtOH
+5111;ethanol
+5112;postinjection
+5113;regions of interest
+5114;triisopropylsilane
+5115;trifluoroacetic acid
+5116;DIC
+5117;Dulbecco’s modified Eagle medium
+5118;ID
+5119;HOBt
+5120;single photon emission computerized tomography
+5121;cysteine
+5122;SPECT
+5123;Cys
+5124;RP/SE-HPLC
+5125;phenylmethanesulfonyl fluoride
+5126;Technetium
+5127;Boc
+5128;injected dose
+5129;t-butyloxycarbonyl
+5130;TFA
+5131;ethylenediaminetetraacetic acid
+5132;Urologic cancer
+5133;Urothelial cancer
+5134;Intermediate risk
+5135;Risque intermédiaire
+5136;Short hormonotherapy
+5137;Quaternary prevention
+5138;Casos clínicos
+5139;Atención Primaria
+5140;Clinical cases
+5141;Prevención cuaternaria
+5142;Microarray data analysis
+5143;Classification
+5144;Clustering
+5145;interleukin-17
+5146;insulin-like growth factor 1
+5147;glycogen synthase kinase 3ß
+5148;food displacement
+5149;walnut supplementation
+5150;energy compensation
+5151;motor
+5152;MRI-compatible
+5153;pneumatic
+5154;robot
+5155;MRI-Safe
+5156;Misspecified model
+5157;Lead time
+5158;prostate cancer GWAS network pathway analysis
+5159;3ß-Adiol
+5160;anti-proliferative
+5161;VTP
+5162;photodynamic
+5163;vascular
+5164;TOOKAD® Soluble
+5165;intracrinology
+5166;STS inhibition
+5167;digital rectal examination findings
+5168;Clinico-pathological correlation
+5169;distress screening
+5170;distress thermometer
+5171;circulating prostate tumor cells
+5172;HGPIN
+5173;EpCAM (CD326)
+5174;i.c
+5175;standard deviation
+5176;overnight
+5177;CPTC
+5178;PI3K/Akt/mTOR
+5179;qRT-PCR
+5180;enhanced chemiluminescence
+5181;knock down
+5182;Tris-buffered saline
+5183;epithelial cell adhesion molecule
+5184;mismatch repair deficient
+5185;s.c
+5186;3,3' diaminobenzidine
+5187;scr
+5188;ECL
+5189;DTX
+5190;CSC
+5191;MAb
+5192;horseradish peroxide
+5193;scrambled
+5194;HRP
+5195;subcutaneous
+5196;SD
+5197;DAB
+5198;MMRD
+5199;o/n
+5200;CTC
+5201;quantitative real time polymerase chain reaction
+5202;polyvinylidene difluoride
+5203;TBS
+5204;KD
+5205;NGF
+5206;ASIC
+5207;Syngenic tumor model
+5208;Therapeutic vaccination
+5209;Immune modulation
+5210;Androgen receptor targeting
+5211;genome-wide association studies
+5212;mosaic deletion
+5213;myeloproliferative disorders
+5214;loss of heterozygosity
+5215;mosaic abnormalities
+5216;unipaternal disomy
+5217;CD25+ Treg depletion
+5218;TPD52
+5219;CD8+ Tregs
+5220;mD52 protein
+5221;cytotoxic T lymphocytes
+5222;memory
+5223;B16
+5224;T cell
+5225;development
+5226;thymus
+5227;AIRE
+5228;FOXP3
+5229;induced regulatory T cells
+5230;PSAD
+5231;AS
+5232;EMSA
+5233;electrophoretic mobility shift assay
+5234;nuclear extract
+5235;N-[1-(2,3-dioleoyloxy)propyl]-N,N,N-trimethylammonium methylsulfate
+5236;Polypurine Reverse Hoogsteen hairpins
+5237;castration-resistant prostatic cancer
+5238;DOTAP
+5239;antisense oligonucleotide
+5240;aODN
+5241;NE
+5242;PPRHs
+5243;Gene silencing
+5244;PPRH
+5245;(3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide
+5246;pNPP
+5247;phosphatidyl 4-kinase
+5248;phosphatidylinositol 3,4-bisphosphate
+5249;PI4K
+5250;DifMUP
+5251;PI5K
+5252;protein tyrosine phosphatase
+5253;INPP4B
+5254;PTP
+5255;para-nitrophenyl phosphate
+5256;Phosphatidylinositol phosphatase
+5257;phosphatidyl 5-kinase
+5258;PI(34)P2
+5259;by phosphatidyl 3-kinase
+5260;6,8-difluoro-4-methylumbelliferyl phosphate
+5261;Ins(13,4)P3
+5262;PI(45)P2
+5263;inositol polyphosphate 4-phosphatase type II
+5264;inositol 1,3,4-trisphosphate
+5265;DuSP
+5266;Dual specificity phosphoprotein phosphatase
+5267;dual specificity phosphatase
+5268;phosphatidylinositol 4,5-bisphosphate
+5269;platinum-sensitive recurrence
+5270;platinum resistance
+5271;S100A4
+5272;NFB
+5273;age
+5274;sunitinib
+5275;nuclear translocation
+5276;importin-a
+5277;SEPT9_i1
+5278;TrxR1
+5279;GPx
+5280;Biochemical progression
+5281;Interleukin-1
+5282;Tumor necrosis factor-a
+5283;Microbubble contrast agent
+5284;Adenovirus
+5285;Transduction
+5286;Crude probability
+5287;Net survival
+5288;myeloid cell leukemia-1
+5289;Mithramycin A
+5290;truncated Bid
+5291;MMV
+5292;GUS
+5293;Chimeric promoter
+5294;Pyrazolo[3,4-b]pyridine
+5295;l-Amino acids
+5296;Alkylation
+5297;Cyclic secondary amines
+5298;Primary aliphatic amines
+5299;Cell adhesion
+5300;Epithelial cells
+5301;Polyelectrolytes
+5302;Layer-by-layer
+5303;Dose-volume histogram
+5304;Urinary morbidity
+5305;Hypo-fractionation
+5306;Bcl-2 family
+5307;Cyclin B1/Cdk1
+5308;ABT-737
+5309;Deubiquitination
+5310;uaf-1
+5311;usp12
+5312;wdr20
+5313;Chromatin Immunoprecipitation (ChIP)
+5314;Diagnostic tests
+5315;tumor necrosis factor
+5316;Insulin-like growth factor-II
+5317;17ß-hydroxysteroid dehydrogenase
+5318;insulin-like growth factor
+5319;estrone sulfotransferase
+5320;nemo binding domain
+5321;PI3-kinase
+5322;STS
+5323;EST
+5324;interleukin 6
+5325;HSD
+5326;NBD
+5327;IL-6
+5328;Nodal yield
+5329;sarcopaenia
+5330;Wnt
+5331;Deletion
+5332;CACNA1D
+5333;Calcium channel
+5334;GABA-receptor modulator
+5335;Chronic fatigue syndrome
+5336;Purinergic
+5337;HRPC
+5338;ChIP
+5339;mechanisms of resistance
+5340;penile length
+5341;low risk
+5342;prostatic neoplasms/treatment
+5343;focal cryoablation
+5344;ileal conduit
+5345;neobladder
+5346;transperineal biopsy
+5347;progression criterion
+5348;urodynamics
+5349;palliative
+5350;computer-assisted/methods
+5351;prostatic neoplasms/pathology
+5352;prostatic neoplasms/surgery
+5353;phytoestrogens
+5354;Glycine max
+5355;isoflavones
+5356;soy
+5357;analgesia
+5358;pain management
+5359;tumour volume
+5360;percentage high-grade tumour volume
+5361;Id1 mRNA
+5362;monitoring style
+5363;AA men
+5364;communication messages
+5365;milk
+5366;systematic literature review
+5367;food-based dietary guidelines
+5368;potatoes
+5369;Nordic Nutrition Recommendations
+5370;berries
+5371;meat
+5372;Atrofia proliferativa inflamatoria
+5373;Proliferative inflammatory atrophy
+5374;Agresividad tumoral
+5375;Bone turnover
+5376;symptom assessment
+5377;ECOG
+5378;MDASI
+5379;routine practice
+5380;clinical trial
+5381;Dose–response
+5382;Dose metrics
+5383;D(90) and V(100)
+5384;ejaculatory disorders
+5385;ejaculation
+5386;multi trial
+5387;tobacco
+5388;antibody engineering
+5389;penile vibratory stimulation
+5390;celecoxib
+5391;cyclooxygenase-2
+5392;Intra-fraction
+5393;Margin recipe
+5394;phosphatidylinositide 3-kinases
+5395;autophagy related gene
+5396;rottlerin
+5397;microtubule-associated protein 1 light chain 3
+5398;Rott
+5399;4',6-diamidino-2-phenylindole
+5400;CSCs
+5401;bafilomycin
+5402;5' adenosine monophosphate-activated protein kinase
+5403;Atg
+5404;Baf
+5405;private hospitals
+5406;public hospitals
+5407;transfusion
+5408;complication rates
+5409;blood loss
+5410;mediation analysis
+5411;red meat
+5412;cooking methods
+5413;central gland
+5414;verumontanum
+5415;p62/SQSTM1
+5416;bone paracrine factors
+5417;dietary phytochemicals
+5418;Id4
+5419;linoleate
+5420;2’-hydroxyflavanone
+5421;health care practices
+5422;cost
+5423;Chemoradiation
+5424;phase I study
+5425;metronomic chemotherapy
+5426;CTCF
+5427;BORIS
+5428;1,3,4-Thiadiazole
+5429;Caspase enzymes
+5430;PicoGreen
+5431;cell-free DNA
+5432;quantitative PCR
+5433;extra-spinal organs
+5434;metastatic spinal cord compression
+5435;irradiation
+5436;neoplastic stem cells
+5437;follicle-stimulating hormone
+5438;Johnsen score
+5439;splice variants
+5440;Bayesian analysis
+5441;simulation modeling
+5442;interleukin-6 receptor
+5443;cereblon
+5444;Multiple myeloma
+5445;intramuscular fat
+5446;myosteatosis
+5447;robotic assistance
+5448;normalized peak torque
+5449;lean muscle mass
+5450;muscle quality
+5451;peak torque
+5452;neuromuscular mechanisms
+5453;size
+5454;carbon-ion radiotherapy
+5455;Denonvilliers' space
+5456;spacer
+5457;rectum separation
+5458;Diastolic blood pressure
+5459;(11)C-Colina PET/TC
+5460;(11)C-Choline PET/CT
+5461;Prostatic central region
+5462;Zona central prostática
+5463;Europe/epidemiology
+5464;Public health surveillance
+5465;Nrf2
+5466;Annexin A5
+5467;MAF
+5468;SpD
+5469;minor allele frequency
+5470;Vitamin D receptor
+5471;transurethral resection of the prostate
+5472;spectral decomposition
+5473;VDR
+5474;Jaw
+5475;molecular pathology
+5476;upgrading
+5477;biopsy cores
+5478;fatty acid synthase
+5479;voiding function
+5480;laparoscopic surgery
+5481;urinary dysfunction
+5482;quality assessment/quality improvement
+5483;occupation
+5484;household
+5485;predictive factors
+5486;open and robot-assisted radical prostatectomy
+5487;sports
+5488;propensity score matching
+5489;pathological oncological outcome
+5490;positive margin
+5491;quality control
+5492;ablation techniques
+5493;multicentre study
+5494;cryosurgery
+5495;Resistance training
+5496;Musculoskeletal system
+5497;PKC
+5498;LPA
+5499;tumor markers
+5500;(-2)proPSA
+5501;Phi index
+5502;M. D. Anderson Symptom Inventory
+5503;symptom management
+5504;a-6 integrin subunit
+5505;a-2 integrin subunit
+5506;therapeutic targets: whole-exome sequencing
+5507;regression splines
+5508;linear mixed models
+5509;longitudinal data
+5510;functional principal components
+5511;fractional polynomials
+5512;haematospermia
+5513;MALDI MS
+5514;ß-microseminoprotein
+5515;myosin VI
+5516;MAOA
+5517;actin and cytoskeletal reorganization
+5518;biorepository
+5519;biobanking
+5520;Procyanidin gallate
+5521;Lewis acid
+5522;Condensation
+5523;Polyphenol
+5524;Raman spectroscopy
+5525;Bone quality
+5526;Osteolysis
+5527;Prostate cancer cells LNCaP C4-2B
+5528;Prostate cancer bone metastasis
+5529;Intensity modulated radiation therapy
+5530;High risk prostate cancer
+5531;Intensity modulated arc therapy
+5532;localised prostate cancer
+5533;PIVOT
+5534;Prostate Cancer Intervention Versus Observation Trial
+5535;Algorithm
+5536;Castration-resistant hormone cancer
+5537;Consensus
+5538;Organ volume
+5539;castration resistant prostate cancer (CRPC)
+5540;resistance mechanisms
+5541;intermittent androgen deprivation (IAD)
+5542;mitochondrial pathway
+5543;dracorhodin perchlorate
+5544;Adtive surviellance
+5545;Tratamiento focal
+5546;Seguimiento activo
+5547;computer-assisted radiotherapy planning
+5548;palliation
+5549;Ewing's sarcoma
+5550;spinal decompression
+5551;Epidural metastases
+5552;HMWCK
+5553;trefoil factor 3
+5554;v-ets erythroblastosis virus E26 oncogene homolog (avian)
+5555;high-molecular-weight cytokeratin
+5556;TFF3
+5557;transmembrane protease, serine 2
+5558;H&E
+5559;EAU Guidelines
+5560;RARP
+5561;Onco-lncRNAs
+5562;Long noncoding RNAs
+5563;Cancer initiatome
+5564;steroid 5a-reductase
+5565;Adrenal 11ß-hydroxyandrostenedione
+5566;LNCaP androgen responsive cells
+5567;immunosuppressive therapy
+5568;Systemic lupus erythematosus (SLE)
+5569;transrectal ultrasound-guided prostate biopsy
+5570;Serum mRNA
+5571;Microseparation
+5572;Paramagnetic microparticles
+5573;Ligand-Binding Domain
+5574;DBD
+5575;LHRH
+5576;AA
+5577;LBD
+5578;NSAA
+5579;Hsp
+5580;Hinge
+5581;N-Terminal Domain
+5582;UGM
+5583;5a-DHT
+5584;Non-Steroidal Anti-Androgens
+5585;dehydroepiandrosterone
+5586;H
+5587;Transmembrane Protease Serine 2
+5588;DHEA
+5589;5a-Dihdyrotestosterone
+5590;DNA-Binding Domain
+5591;Urogenital Sinus Mesenchyme
+5592;Enzalutamide (MDV3100)
+5593;NTD
+5594;PTV expansion
+5595;Set-up error
+5596;thermoplastic shell
+5597;interfractional prostate motion
+5598;prone position
+5599;osteopenia
+5600;hormone ablation therapy
+5601;cancer therapy-induced bone loss
+5602;outcome assessment
+5603;boney metastases
+5604;triple opioid therapy
+5605;breakthrough
+5606;Clinical protocols
+5607;Neoplasias prostáticas
+5608;Supervivencia activa
+5609;Protocolos clínicos
+5610;CDSS
+5611;PSA-testing
+5612;Mastodinia
+5613;Mastodynia
+5614;Ginecomastia
+5615;Tratamiento hormonal
+5616;Hormone treatment
+5617;ERG antibody
+5618;Mucinous prostatic adenocarcinoma
+5619;Prostatic adenocarcinoma with mucinous features
+5620;Conventional prostatic adenocarcinoma
+5621;Diffeomorphic registration
+5622;Shape descriptors
+5623;Prostate histopathology
+5624;Manifold learning
+5625;Mass spectrometry
+5626;dehydroepiandrosterone sulfate
+5627;charcoal dextran stripped fetal bovine serum
+5628;LLOQ
+5629;enzyme-linked immunosorbent assay
+5630;m/z
+5631;5a-androstane-3,17-dione
+5632;androsterone
+5633;dehydroepiandrosterone glucuronide
+5634;QC
+5635;RIA
+5636;not detected
+5637;Targeted Androgen Pathway Suppression clinical trial
+5638;CV
+5639;SID-LC/ESI/SRM/MS
+5640;DHEA-G
+5641;lower limit of quantification
+5642;mass to charge ratio
+5643;5a-dihydrotestosterone
+5644;stable isotope dilution liquid chromatography electrospray ionization selected reaction monitoring mass spectrometry
+5645;?(4)-AD
+5646;NS
+5647;GnRH
+5648;ND
+5649;radioimmunoassay
+5650;LC
+5651;UGT
+5652;hydroxysteroid dehydrogenase
+5653;DHEA-S
+5654;epitestosterone
+5655;Adione
+5656;UDP glucuronosyltransferase
+5657;Androgen metabolome
+5658;Epi-T
+5659;TAPS
+5660;gonadotropin releasing hormone
+5661;?(4)-androstene-3,17-dione
+5662;A
+5663;liquid chromatography
+5664;CD-FBS
+5665;coefficient of variation
+5666;not significant
+5667;dual oxidase
+5668;Mouse monoclonal Nox5 antibody
+5669;Nox
+5670;Free radicals
+5671;Duox
+5672;NADPH oxidase 5
+5673;UACC-257 cells
+5674;Diaphoresis
+5675;sleep apnea
+5676;cancer initiating cells
+5677;CD133
+5678;dunning prostate cancer
+5679;CD24
+5680;CD44
+5681;CD326
+5682;Retinoblastoma (Rb)
+5683;Melanoma Antigen-A11
+5684;MAGE-A11
+5685;p107
+5686;Cell Cycle Regulation
+5687;Steroid Receptor Coregulator
+5688;combined treatment
+5689;boost
+5690;IMIT
+5691;H&N
+5692;OER
+5693;LET
+5694;Order restriction
+5695;Censored data
+5696;Kaplan–Meier estimator
+5697;Maximum likelihood estimator
+5698;Constrained nonparametric maximum likelihood estimator
+5699;Agreement
+5700;Concordance correlation coefficient
+5701;Multivariate survival times
+5702;Absolute difference
+5703;Censoring
+5704;Correlated survival processes
+5705;Prescription
+5706;Vardenafil
+5707;Sildenafil
+5708;Patient Education as Topic
+5709;Phosphodiesterase Inhibitors
+5710;Community Pharmacy Services
+5711;Referral and Consultation
+5712;Patient Education Handout
+5713;Type 5 17ß-hydroxysteroid dehydrogenase (17ß-HSD5)
+5714;Aldo-keto reductase 1C3 (AKR1C3)
+5715;Osteomimicry
+5716;Epithelial plasticity
+5717;OB-cadherin
+5718;MALAT1 long non-coding RNA
+5719;reverse transcriptase-PCR
+5720;MALAT-1 siRNA-9
+5721;Cell Counting Kit-8
+5722;LNCaP-AI
+5723;M9
+5724;RT-PCR
+5725;LNCaP-androgen independent subtype
+5726;CCK-8
+5727;metastasis associated in lung adenocarcinoma transcript 1
+5728;M5
+5729;MALAT-1 siRNA-5
+5730;MALAT-1
+5731;small interfering
+5732;Hematospermia
+5733;Variable flip angle
+5734;Dynamic MRSI
+5735;Multi-band RF pulse
+5736;RF pulse design
+5737;CCR2
+5738;Integrin
+5739;statin drug
+5740;caffeic acid phenethyl ester
+5741;unconventional splicing
+5742;HERV-K
+5743;endogenous retroviruses
+5744;patient-physician relationship
+5745;standardized patient
+5746;shared
+5747;medical uncertainty
+5748;patient activation
+5749;randomized controlled trial
+5750;doctor-patient communication
+5751;risk-benefit assessment
+5752;medical education
+5753;qualitative analysis
+5754;unannounced standardized patients
+5755;prostate transit-amplifying cells
+5756;prostate differentiation
+5757;OGX-427
+5758;Eligard
+5759;primary androgen-deprivation treatment
+5760;adhesion proteins
+5761;enzyme
+5762;RNAa
+5763;saRNA
+5764;NKX3-1
+5765;TP53mutation
+5766;K14
+5767;epidermis
+5768;tumor development
+5769;uptake
+5770;couples
+5771;time-lens
+5772;stimulated Raman scattering
+5773;pulse shaper
+5774;multivariate curve resolution
+5775;hyperspectral
+5776;nonlinear optical microscopy
+5777;cancer germline genes
+5778;MAGEA11
+5779;cancer testis genes
+5780;nucleosome occupancy
+5781;POTEs gene family
+5782;malignant progression
+5783;ovary
+5784;ankyrin repeats
+5785;nucleolar marker
+5786;testis and placenta
+5787;cancer-testis antigens
+5788;Inguinal hernia
+5789;gene regulation
+5790;PD1
+5791;Immune checkpoint
+5792;NSCLC
+5793;PD-L1
+5794;CTLA4
+5795;125I
+5796;monotherapy
+5797;ethyl pyruvate
+5798;glyoxalase 1
+5799;MS2 bacteriophage
+5800;RNA vaccine
+5801;virus-like particles
+5802;opioid analgesics
+5803;mu opioid receptors
+5804;opioids
+5805;morphine
+5806;opioid receptors
+5807;Unknown stage
+5808;PSA (prostate-specific antigen) test
+5809;Socio-economic status
+5810;Transcription coactivators and corepressors
+5811;Protein kinase CK2 binding protein 2
+5812;ISUP
+5813;impotence
+5814;Src
+5815;indirubin
+5816;bromoindirubin
+5817;JAK
+5818;cancer cells
+5819;TAK-700
+5820;nephroureterectomy
+5821;network connectivity
+5822;maximal entropy
+5823;deep sequencing
+5824;Pain palliation
+5825;Antígeno prostático específico
+5826;Prostatic specific antigen
+5827;Lymph node invasion
+5828;Prostatic neoplasms/mortality
+5829;Treatment verification
+5830;Monte Carlo
+5831;Repeated biopsy
+5832;Transitory zone
+5833;CCR5 antagonist
+5834;Pharmacophore based molecular design
+5835;Pentaisovaleryl sucrose
+5836;Vernonia guineensis
+5837;homeobox B13
+5838;nibrin (NBN) gene
+5839;BRCA1 interacting protein 1 (BRCA1 interacting protein C-terminal helicase 1)
+5840;checkpoint kinase 2
+5841;BRCA1
+5842;Bloom syndrome
+5843;CHEK2
+5844;NBS1
+5845;nanogram per milliliter
+5846;Q548X mutation
+5847;BLM gene
+5848;breast cancer susceptibility gene 1
+5849;BRIP1
+5850;breast cancer susceptibility gene 2
+5851;Bloom syndrome gene
+5852;ng/ml
+5853;deoxyribonucleic acid
+5854;c.1642C>T
+5855;BLM
+5856;Hypoxia inducible factor 1 alpha
+5857;Oligonucleotides
+5858;LC–MS
+5859;Ion-pairing
+5860;dietary fiber
+5861;amoeboid blebbing
+5862;filtration
+5863;large oncosome
+5864;microvesicle
+5865;PET/MRI
+5866;molecular
+5867;correlative imaging
+5868;Reverse transcriptase quantitative polymerase chain reaction
+5869;Lanthanide chelates
+5870;Time-resolved fluorometry
+5871;Hydroxyxanthone
+5872;Garcinia subelliptica
+5873;Caffeic acid
+5874;CAPE
+5875;Concentration–response
+5876;Structure–activity
+5877;Synthetic derivatives
+5878;Real-time cell proliferation
+5879;Ultrasound-based planning
+5880;Varian Vitesse
+5881;non-islet cell tumour hypoglycaemia
+5882;fluorescein isothiocyanate
+5883;nuclear factor ?b
+5884;tumor necrosis factor alpha
+5885;p38 MAPK
+5886;DUSP1
+5887;PIN
+5888;TMRM
+5889;PC
+5890;Dual specificity phosphatase 1
+5891;tetramethylrhodamine methyl ester
+5892;xenografts
+5893;safranal
+5894;Lipid peroxidation
+5895;testicular receptor 4
+5896;orphan nuclear receptor
+5897;Chemogenomics
+5898;estradiol
+5899;tretinion
+5900;deorphanization
+5901;Vacuum erection device
+5902;multidisciplinary communication
+5903;Diet Therapy
+5904;Maintenance Chemotherapy
+5905;N-methyl-N-nitrosourea
+5906;Crataeva nurvala bark
+5907;Fistula
+5908;Rectourethral
+5909;Polymyalgia Rheumatica
+5910;Quality of care
+5911;artifacts
+5912;Detection methods
+5913;Hypogonadisme
+5914;Désir sexuel
+5915;Libido
+5916;Testostérone
+5917;Sexual desire
+5918;Ageing male
+5919;Âge
+5920;Genetic association study
+5921;Death
+5922;EMSY
+5923;Temsirolimus
+5924;Survival rate
+5925;Nucleosome remodeling deacetylation (NuRD) complex
+5926;Metastasis-associated protein 1 (MTA1)
+5927;Prediction tools
+5928;Endorectal MRI
+5929;DNA polymerases
+5930;SNP search
+5931;New primary cancer
+5932;Incidence rate
+5933;MS imaging
+5934;MS profiling
+5935;penis
+5936;prostheses and implants
+5937;AUS
+5938;inflatable penile prosthesis
+5939;stress urinary incontinence
+5940;CCI
+5941;SUI
+5942;Charlson comorbidity index
+5943;IPP
+5944;ED
+5945;Intradermal delivery
+5946;vaccine congress
+5947;immunology
+5948;tumor associated antigen
+5949;psychological adjustment
+5950;vegetarian
+5951;lifestyle predictors
+5952;dietary pattern
+5953;digital rectal exam
+5954;[1,2,4]Triazolo[1,5-c]quinazolines
+5955;2-Alkyl (alkaryl-, aryl-, hetaryl-)[1,2,4]triazolo[1,5-c]quinazolines
+5956;N-(R-Benzylidene)-N'-(3H-quinazoline-4-ylidene)hydrazines
+5957;Carboxylic acid (3H-quinazoline-4-ylidene)hydrazides
+5958;intratracheal instillation
+5959;farnesol
+5960;Cigarette smoke extract
+5961;bone mineral density
+5962;Gamma delta T cells
+5963;Genome-wide
+5964;Complex traits
+5965;Cancer: breast
+5966;Genetic epidemiology
+5967;biochemical control
+5968;Lobular carcinoma
+5969;pleomorphic variant
+5970;male breast
+5971;early prostate cancer
+5972;feasibility
+5973;decision aid
+5974;patient management
+5975;citrate
+5976;tissue extract
+5977;body fluid
+5978;spermine
+5979;integrated stress response
+5980;salubrinal
+5981;lovastatin
+5982;activating transcription factor 3
+5983;Intensity modulated radiotherapy (IMRT)
+5984;Quantitative treatment plan evaluation
+5985;Overlap volume histogram (OVH)
+5986;Treatment plan assessment
+5987;Gleason pattern
+5988;treatment by indication
+5989;causal effect
+5990;time-dependent confounder
+5991;proportional hazards model
+5992;cellular invasion
+5993;tissue culture
+5994;Prediction model
+5995;Extended pelvic lymph node dissection
+5996;Roach formula
+5997;clinical heterogeneity
+5998;cancer disparities
+5999;Testicle
+6000;Musculo-skeletal
+6001;Elastosonography
+6002;mGPS
+6003;Neutrophil-lymphocyte ratio
+6004;Nanomaterials
+6005;Ghrelin
+6006;Docking
+6007;cardiovascular adverse effects
+6008;systematic review (6)
+6009;MR-US registration
+6010;androgen receptor signaling
+6011;urogenital sinus
+6012;epithelial-mesenchymal interactions
+6013;prostate development
+6014;oximetry
+6015;radiation response
+6016;Post-transcriptional
+6017;Upstream open reading frame
+6018;ERbeta5
+6019;Promoter
+6020;5' Untranslated region
+6021;ERbeta2
+6022;Selective referral
+6023;Surgeon volume
+6024;Regionalization
+6025;Hospital volume
+6026;HDR
+6027;Pulsed dose rate
+6028;PDR
+6029;somatostatin analogs
+6030;radiolabeled
+6031;AKT inhibitor
+6032;Diabetes, Patient characteristics
+6033;HT
+6034;UI
+6035;transurethral resection of prostate
+6036;I-PSS
+6037;BED
+6038;TRUS
+6039;computerized tomography
+6040;biologically effective dose
+6041;intensity-modulated
+6042;intensity modulated radiotherapy
+6043;biomedical technology
+6044;hospital referral region
+6045;HRR
+6046;expressed prostatic secretion
+6047;EPS
+6048;TXNRD1
+6049;ECE
+6050;prostate cancer antigen 3 (nonprotein coding)
+6051;digital rectal examination
+6052;thioredoxin reductase 1
+6053;transmembrane protease, serine 2 gene fusion with v-ets erythroblastosis virus E26 oncogene like (avian) gene
+6054;bodily secretions
+6055;endocrine disruption
+6056;paracetamol
+6057;human testis
+6058;indomethacin
+6059;Tubular adenoma
+6060;High-intensity focused ultrasound ablation
+6061;Sector analysis
+6062;Palladium
+6063;Clostridium difficile
+6064;Bacteremia
+6065;Loop ileostomy
+6066;OS
+6067;skeletal-related event
+6068;history and physical
+6069;PFS
+6070;H&P
+6071;SRE
+6072;Keratinocytes
+6073;Wound healing
+6074;ECIS
+6075;Ehm2
+6076;HaCaT
+6077;spondin-2
+6078;free-to-total PSA ratio
+6079;no malignancy evidence
+6080;digital rectal exploration
+6081;NEM
+6082;SPON2
+6083;SPON2 protein
+6084;Apocynin
+6085;Rac1
+6086;Reclassification
+6087;Treatment margin
+6088;Postimplant dosimetry
+6089;Adenosis
+6090;Beta catenin
+6091;Receptors, androgen
+6092;ERSPC
+6093;Prostate Lung, Colorectal and Ovarian
+6094;European Randomized Study of Screening for Prostate Cancer
+6095;RCT
+6096;health inequalities
+6097;responsibilization
+6098;popular magazines
+6099;real-time tumor-tracking
+6100;intensity-modulated radiation
+6101;biological therapy
+6102;systemic therapies
+6103;The Netherlands
+6104;Compassionate Use Program
+6105;Metastatic castrate-resistant prostate cancer
+6106;Phenethyl isothiocyanate
+6107;p300/CBP-associated factor
+6108;miR-17
+6109;microtubule dynamics
+6110;Plk1
+6111;lethal prostate cancer
+6112;case-control
+6113;Heart transplant
+6114;Advanced basal-cell carcinoma
+6115;medulloblastoma
+6116;ABR-215050
+6117;antiangiogenesis
+6118;S100A9
+6119;HDAC4
+6120;quinoline-3-carboximide
+6121;Axl
+6122;receptor tyrosine kinases
+6123;sperm banking
+6124;infertility
+6125;Fertility
+6126;Cardiac death
+6127;ipilimumab
+6128;sipuleucel
+6129;acidity
+6130;carbonic anhydrase IX
+6131;care pathways
+6132;protocols
+6133;value-based medicine
+6134;delay
+6135;rapid access prostate clinic
+6136;Adenocarcinoma de próstata
+6137;Ancianos
+6138;FFPP
+6139;rPSA
+6140;relapsed PSA
+6141;freedom from PSA progression
+6142;SVI
+6143;SRT
+6144;Centers for Disease Control and Prevention
+6145;Smad7
+6146;NASA space radiation laboratory
+6147;TGFß/Smad pathway
+6148;phospho-Smad2
+6149;high charge and energy
+6150;High LET radiation
+6151;HZE
+6152;IR
+6153;linear energy transfer
+6154;BNL
+6155;micronuclei
+6156;Brookhaven National Laboratory
+6157;IR-induced foci
+6158;ataxia telangiectasia mutated
+6159;pSmad2
+6160;transforming growth factor beta
+6161;double strand break
+6162;IRIF
+6163;DSB
+6164;MN
+6165;NSRL
+6166;DDR
+6167;NRP1
+6168;tissue array analysis
+6169;VEGFR1
+6170;motility and adhesion
+6171;T24 cells
+6172;urothelial cancer of bladder
+6173;BMP10
+6174;EPE
+6175;extraprostatic extension
+6176;NOCC
+6177;very LR
+6178;LR
+6179;VLR
+6180;nonorgan confined cancer
+6181;cancer associated antigen
+6182;mass spectrometric analysis
+6183;antigenic peptide
+6184;HLA class-I
+6185;TRBP
+6186;microRNAs
+6187;enoxacin
+6188;H3K27 trimethylation
+6189;EZH2
+6190;PRC2 complex
+6191;Coactivators
+6192;Intracrine synthesis
+6193;Truncated androgen receptor
+6194;Nursing
+6195;Specialist Prostate Cancer Nurse
+6196;principal stratification
+6197;causal inference
+6198;non-normality
+6199;monotonicity
+6200;ranks
+6201;PI3K/Akt/mTOR/S6K1
+6202;Matrix Metalloproteinase (MMP)
+6203;Transforming Growth Factor ß (TGFbeta)
+6204;Tumor Metastases
+6205;health outcomes
+6206;calcium requirements
+6207;disease prevention
+6208;health maintenance
+6209;epididymis
+6210;Sertoli cells
+6211;ER
+6212;17a-Hydroxylase/17,20-lyase (CYP17)
+6213;minimally invasive
+6214;MIRP
+6215;open RP
+6216;surgical procedures
+6217;ORP
+6218;minimally invasive RP
+6219;intraoperative complications
+6220;BCR
+6221;urethral pressure profile
+6222;vascular targeted photodynamic
+6223;closure pressure
+6224;UPP
+6225;US
+6226;WST11 compound
+6227;CP
+6228;T47D-ERß-CS
+6229;heterochromatin protein 1
+6230;In vitro–in vivo comparison
+6231;human breast adenocarcinoma cells
+6232;Merck, Sharp & Dohme
+6233;M-MLV
+6234;HE staining
+6235;MCF-7 cells
+6236;DCC-FCS
+6237;polyvinylideenfluoride
+6238;Estrogen-sensitive tissue
+6239;Moloney Murine Leukemia Virus
+6240;SDS
+6241;T47D human ductal breast epithelial tumor cells with tetracycline-dependent ERß expression
+6242;deoxynucleotide triphosphate
+6243;sodium dodecyl sulfate
+6244;HP1
+6245;T47D-ERß cells
+6246;dNTP
+6247;T47D cells
+6248;half maximal effective concentration
+6249;detection limit
+6250;DL
+6251;reverse transcriptase
+6252;complementary deoxyribonucleic acid
+6253;hematoxylin and eosin staining
+6254;messenger ribonucleic acid
+6255;FCS
+6256;Breast tissue
+6257;cDNA
+6258;quantitative polymerase chain reaction
+6259;T47D-ERß calibration standard, the T47D-ERß cells without tetracycline
+6260;dextran-coated charcoal-treated fetal calf serum
+6261;T47D-ERß cells with tetracycline dependent ERß expression
+6262;fetal calf serum
+6263;MSD
+6264;ERa/ERß ratio
+6265;human ductal breast epithelial tumor cells
+6266;MR spectroscopic imaging
+6267;opioid
+6268;respiratory depression
+6269;naloxone
+6270;image quality
+6271;endocoil
+6272;Thyroid cancer
+6273;Breast augmentation
+6274;Postmenopausal hormone replacement therapy
+6275;Cyclins
+6276;Growth inhibition
+6277;Cyclin-dependent kinase
+6278;Satraplatin
+6279;ERCC1
+6280;Genotyping
+6281;Nested case–control study
+6282;Baseline
+6283;ALDO
+6284;H6PDH
+6285;PREG
+6286;deoxycorticosterone
+6287;11ß-hydroxyandrostenedione
+6288;CYP17A1
+6289;dehydroepiandrostenedione
+6290;11KA4
+6291;17ßHSD
+6292;11OHA4
+6293;11ß-hydroxyandrosterone
+6294;3ßHSD
+6295;hexose 6-phosphate dehydrogenase
+6296;progesterone
+6297;P450 17-hydroxylase
+6298;aldosterone synthase
+6299;cytochrome P450
+6300;aldosterone
+6301;dehydroepiandrostenedione-sulfate
+6302;11OHT
+6303;17OHPREG
+6304;5a-Dione
+6305;CYP11B1
+6306;11KT
+6307;steroid 5a-reductase type 2
+6308;pregnenolone
+6309;11-ketoandrostenedione
+6310;11ß-hydroxytestosterone
+6311;11-ketotestosterone
+6312;PROG
+6313;3ß-hydroxysteroid dehydrogenase
+6314;P450 11ß-hydroxylase
+6315;11OH-AST
+6316;A4
+6317;CYP11B2
+6318;17-hydroxypregnenolone
+6319;11ß-hydroxy 5a-androstanedione
+6320;DOC
+6321;P450
+6322;17OHPROG
+6323;steroid 5a-reductase type 1
+6324;SRD5A2
+6325;SULT2A1
+6326;CORT
+6327;11OH-5a-dione
+6328;androstenedione
+6329;SRD5A1
+6330;17-hydroxyprogesterone
+6331;sulfotransferase
+6332;11ß-hydroxysteroid dehydrogenase
+6333;11ßHSD
+6334;Hypertension
+6335;Nutrition & Dietetics
+6336;luteolin
+6337;c-FOS
+6338;BMHPC
+6339;type II sites
+6340;siRNA knockdown
+6341;differentiation
+6342;5-hydroxymethylcytosine
+6343;polycomb
+6344;IPMN
+6345;extrapancreatic malignancies
+6346;Methotrexate
+6347;large granular lymphocyte leukemia
+6348;rheumatoid arthritis
+6349;5'-terminal oligopyrimidine tract
+6350;HNSCC
+6351;glucocorticoid receptor response element
+6352;non-small-cell lung cancer
+6353;5'-TOP
+6354;long ncRNA
+6355;GRE
+6356;ZIP model
+6357;spatial correlation
+6358;joinpoint model
+6359;Metastatic castration-resistant
+6360;toll like receptor-4
+6361;TLR-4
+6362;penile metastasis
+6363;Carcinoma of the penis
+6364;carcinoma of the prostate
+6365;Aggressive
+6366;OCT
+6367;combined chemotherapy
+6368;protein-DNA thermodynamics
+6369;zinc fingers
+6370;protein dynamics
+6371;intracellular pH
+6372;histidine protonation
+6373;Radiogenomics
+6374;clinical predictors
+6375;biopsy Gleason score
+6376;statistical design
+6377;Colorectal cancer (CRC)
+6378;Lynch syndrome
+6379;gene
+6380;Polyposis syndromes
+6381;familial adenomatous polyposis (FAP)
+6382;MYH (MUTYH) mutations
+6383;Radiopharmaceutical
+6384;Osteosarcoma
+6385;Samarium
+6386;RFS
+6387;genitourinary
+6388;ASTRO
+6389;Prostate Cancer Versus Observation Trial
+6390;ARO
+6391;common toxicity criteria adverse event
+6392;Radiation Therapy Oncology Group
+6393;CTCAE
+6394;Arbeitsgemeinschaft Radiologische Onkologie
+6395;postoperative period
+6396;European Organization for Research and Treatment of Cancer
+6397;RTOG
+6398;GU
+6399;American Society for Radiation Oncology
+6400;3-dimensional conformal radiotherapy
+6401;GI
+6402;EORTC
+6403;3D-CRT
+6404;SWOG
+6405;American Urological Association
+6406;AUA
+6407;recurrence-free survival
+6408;bRFS
+6409;Southwest Oncology Group
+6410;Absorbed dose
+6411;TLD100
+6412;Cobalt 60
+6413;Effective dose
+6414;Water phantom
+6415;tumor imaging
+6416;amino acids
+6417;Dicer1
+6418;miRNA microarray
+6419;MRI scans
+6420;elasticity
+6421;Late-stage diagnosis
+6422;Cluster analysis
+6423;Boundary analysis
+6424;Binomial kriging
+6425;Urbanization
+6426;Capsular nerve growth
+6427;Prostate nerve distribution
+6428;Prostate capsule
+6429;Antiproliferative
+6430;LC–DAD–MS
+6431;Antiinflammatory
+6432;histologic type of neoplasm
+6433;transition zone
+6434;distress
+6435;tumour growth in vivo
+6436;clonogenic assay
+6437;cholesteryl butyrate
+6438;Insulin-growth factor-1
+6439;Tomographie par émission de positons
+6440;((18)F)-fluorocholine PET
+6441;((18)F)-fluorocholine
+6442;Adénocarcinome prostatique
+6443;dynamic contrast-enhanced imaging
+6444;T2W-MRI
+6445;magnetic field strength
+6446;spectroscopic imaging
+6447;high performance liquid chromatography
+6448;DiI
+6449;PDI
+6450;foetal bovine serum
+6451;3-[4,5-dimethylthiazol-2-yl]-2,5 diphenyltetrazolium bromide
+6452;poly(lactic-co-glycolic) acid
+6453;R effectenhanced and permeability retention effect
+6454;phosphate buffer saline
+6455;Small-PLGA nanoparticles
+6456;1,1'-dioctadecyl-3,3,3',3'-tetramethylindocarbocyanine perchlorate
+6457;hexadecyltrimethylammonium bromide
+6458;NP
+6459;polydispersity index
+6460;P-gp
+6461;phenylmethanesulfonylfluoride
+6462;EP
+6463;bicinchoninic acid
+6464;Delineation
+6465;Dummy Run
+6466;Occupational exposure
+6467;Exposure assessment
+6468;Statistical power calculation
+6469;Imaging validation studies
+6470;Sample size
+6471;Registration error
+6472;Minimum detectable difference
+6473;ATF3
+6474;Retigeric acid B
+6475;Topoisomerase IIa
+6476;Ionising radiation
+6477;Hypersensitivity
+6478;Low dose
+6479;nutritional management
+6480;pharmacology
+6481;ERYTHROPOIETIN
+6482;rural health
+6483;Urinary bladder neck obstruction
+6484;tissue metabolites
+6485;recurrence risk prediction
+6486;financial barriers
+6487;Out-of-pocket costs
+6488;patient responses
+6489;wait times
+6490;CDH2
+6491;CDH1
+6492;MMLV
+6493;reverse transcriptase PCR
+6494;Formalin fixed paraffin embedded
+6495;Comprehensive geriatric assessment
+6496;Comorbidities
+6497;kinase signaling
+6498;androgen signaling
+6499;tetratricopeptide repeat cochaperones
+6500;simulator
+6501;simulation
+6502;video
+6503;surgical education
+6504;Vascular Comorbidity
+6505;Conducting polymer
+6506;Label-free detection
+6507;Electrochemical biosensor
+6508;Square wave voltammetry
+6509;genome rearrangement
+6510;patient selection
+6511;EPIC
+6512;MSHQ
+6513;Men-who-have-sex-with-men
+6514;serine 210 phosphorylation
+6515;hormone-naïve
+6516;endurance training
+6517;minimally invasive therapy
+6518;thermotherapy
+6519;therapeutic ultrasound
+6520;vitamins
+6521;Structured review
+6522;Psycho-social
+6523;decision-making
+6524;informed consent
+6525;basal cell carcinoma of skin
+6526;geothermal hot-water
+6527;gene signature
+6528;galectins
+6529;Rofecoxib
+6530;5-Substituted-3,4-diphenylfuran-2-one
+6531;Periostin
+6532;conditioned medium from OSM-treated hASCs
+6533;OSM CM
+6534;MSCs
+6535;hASCs
+6536;SDF-1
+6537;TGFBI
+6538;OSM
+6539;human adipose tissue-derived MSCs
+6540;stromal cell-derived factor-1
+6541;phosphate-buffered saline
+6542;oncostatin M
+6543;Peripheral T cell lymphoma
+6544;EBV
+6545;cancer frequency
+6546;tobacco price
+6547;Heart Rate Variability
+6548;Neuromodulation
+6549;Vagal nerve activity
+6550;Xenograft mice model
+6551;Si RNA-mdm2
+6552;Cisplatin (DDP)
+6553;LCA
+6554;AIC
+6555;phosphodiesterase 5 inhibitor
+6556;Bayesian information criterion
+6557;Akaike information criterion
+6558;BIC
+6559;latent class
+6560;latent class model
+6561;waist-to-hip ratio
+6562;NO
+6563;PDE5-I
+6564;LCM
+6565;latent class analysis
+6566;WHR
+6567;Prostate Cancer Research International: Active Surveillance
+6568;DW-MRI
+6569;diffusion weighted magnetic resonance imaging
+6570;PRIAS
+6571;NPCR
+6572;National Prostate Cancer Register of Sweden
+6573;positive predictive value
+6574;bGS
+6575;NPV
+6576;magnetic resonance/ultrasound
+6577;negative predictive value
+6578;MR/US
+6579;magnetic resonance
+6580;PPV
+6581;PSM
+6582;small ubiquitin-related modifier
+6583;SUMO
+6584;one-dimensional gel electrophoresis
+6585;prostate carcinoma cell line
+6586;GDX
+6587;gonadectomized
+6588;SUMOylation
+6589;Membranes
+6590;EGF receptor
+6591;two-dimensional gel electrophoresis
+6592;1-DE
+6593;2-DE
+6594;Comparative efficacy
+6595;external beam
+6596;prostate cancer stem cells
+6597;Tissue adhesion
+6598;Outcomes assessment
+6599;Veteran’s Affairs
+6600;Peritoneal cancer
+6601;Non-hormone refractory
+6602;Pooled database
+6603;Statistical tests
+6604;Image co-registration
+6605;catechins
+6606;black tea
+6607;Quality indicators, health care
+6608;Quality of health care
+6609;kurtosis
+6610;biexponential DWI model
+6611;prostate DWI
+6612;symptom relief

@@ -1,0 +1,37 @@
+﻿id_type_pub;libelle;categorie
+1;Journal Article;Recherche originale
+2;Editorial;Autre
+3;Comment;Autre
+4;Research Support, Non-U.S. Gov't;Financement
+5;Observational Study;Recherche originale
+6;English Abstract;Autre
+7;Review;Synthèse
+8;Research Support, U.S. Gov't, Non-P.H.S.;Financement
+9;Research Support, N.I.H., Extramural;Financement
+10;Multicenter Study;Recherche originale
+11;Research Support, N.I.H., Intramural;Financement
+12;Randomized Controlled Trial;Essai clinique
+13;Research Support, U.S. Gov't, P.H.S.;Financement
+14;Letter;Autre
+15;Comparative Study;Recherche originale
+16;Clinical Trial, Phase III;Essai clinique
+17;Controlled Clinical Trial;Essai clinique
+18;Published Erratum;Autre
+19;News;Autre
+20;Case Reports;Recherche originale
+21;Congresses;Autre
+22;Historical Article;Autre
+23;Clinical Study;Recherche originale
+24;Interview;Autre
+25;Clinical Trial, Phase II;Essai clinique
+26;Validation Studies;Recherche originale
+27;Clinical Trial, Phase I;Essai clinique
+28;Video-Audio Media;Autre
+29;Clinical Trial;Essai clinique
+30;Meta-Analysis;Synthèse
+31;Practice Guideline;Autre
+32;Evaluation Studies;Recherche originale
+33;Research Support, American Recovery and Reinvestment Act;Financement
+34;Technical Report;Autre
+35;Autobiography;Autre
+36;Consensus Development Conference;Autre

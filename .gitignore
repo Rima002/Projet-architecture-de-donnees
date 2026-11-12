@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+
+# Dossiers intermédiaires, régénérés par nettoyage.py et nettoyage_valeurs.py
+pubmed_clean/
+pubmed_normalise/
+
+# Notes personnelles
+etapes.txt
