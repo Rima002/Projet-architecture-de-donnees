@@ -9,7 +9,7 @@ Après nettoyage : **4 012 articles uniques**.
 |---|---|---|
 | 2a. Nettoyage structurel | `nettoyage.py` | `pubmed doc/` → `pubmed_clean/` + `rapport_nettoyage.csv` |
 | 2b. Nettoyage des valeurs | `nettoyage_valeurs.py` | `pubmed_clean/` → `pubmed_normalise/` + `rapport_valeurs.csv` |
-| 6. Chargement (ETL) | `chargement.py` | `pubmed_normalise/` → `entrepot/entrepot_pubmed.db` + `entrepot/csv/` |
+| 6. Chargement (ETL) | `chargement.py` | `pubmed_normalise/` → base PostgreSQL `entrepot_pubmed` + `entrepot/csv/` |
 | 7. Exploitation | `analyse.py` | requêtes de `entrepot/requetes_analyse.sql` |
 
 ```
@@ -102,7 +102,7 @@ Les 200 articles au statut `Publisher` (notices de l'éditeur, non encore index�
 
 | Dimension | Clé naturelle | Hiérarchie / attributs | Liaison |
 |---|---|---|---|
-| Temps (2 rôles : publication, création) | AAAAMM | mois → trimestre → semestre → année ; membre « mois inconnu » (800 articles) | directe |
+| Temps (2 rôles : publication, création) | AAAAMMJJ | **jour → mois → année** ; calendrier complet 2012-2016, plus des membres « jour inconnu » et « mois inconnu » | directe |
 | Revue | NlmUniqueID | revue → pays → continent | directe |
 | Langue | code ISO 639-2 | code, libellé | directe |
 | Statut (dimension *junk*) | combinaison | statut de citation, indexé MEDLINE, modèle de publication, statut de publication | directe |
@@ -115,7 +115,27 @@ Les 200 articles au statut `Publisher` (notices de l'éditeur, non encore index�
 
 Une dimension **Article** (PMID, titre, DOI, PMC) garde les informations descriptives, qui ne sont pas agrégeables.
 
-**Membres inconnus** : `Inconnu` (id 0) pour le pays, et « mois inconnu » pour le temps. Aucun fait n'est perdu à cause d'une valeur manquante.
+**Membres inconnus** : `Inconnu` (id 0) pour le pays, et des membres « jour inconnu » et « mois inconnu » pour le temps. Aucun fait n'est perdu à cause d'une valeur manquante.
+
+**Dimension Temps au grain jour.** PubMed ne donne pas toujours la date de publication complète. Voici la précision obtenue pour les 4 012 articles :
+
+| Précision de la date de publication | Articles | Clé dans `dim_temps` |
+|---|---|---|
+| Jour connu | 755 | `20150314` (14 mars 2015) |
+| Mois connu, jour inconnu | 2 457 | `20150300` (mars 2015, jour inconnu) |
+| Année seule | 800 | `20150000` (2015, mois inconnu) |
+
+Chaque membre incomplet est rattaché au bon niveau supérieur : `20150300` appartient au mois de mars 2015, qui appartient à l'année 2015. Les agrégations par mois et par année restent donc exactes, et seuls les articles réellement datés au jour apparaissent au niveau jour. La date de création dans PubMed (`DateCreated`) est toujours complète, au jour près.
+
+Niveaux de la hiérarchie et colonnes de `dim_temps` :
+
+| Niveau | Clé | Libellé |
+|---|---|---|
+| Jour | `jour` : date complète (`2015-03-14`) ; clé `id_temps` (AAAAMMJJ) | `libelle_jour` (« 14/03/2015 ») |
+| Mois | `mois` : mois et année (`2015-03`) | `libelle_mois` (« Mars 2015 ») |
+| Année | `annee` | `annee` |
+
+La colonne `niveau_precision` (Jour, Mois, Année) indique la précision réelle de chaque date.
 
 **Pondération des ponts** : `poids` = 1 / (nombre de membres liés à l'article). `SUM(poids)` redonne le nombre exact d'articles. C'est vérifié automatiquement au chargement.
 
@@ -137,7 +157,13 @@ Une dimension **Article** (PMID, titre, DOI, PMC) garde les informations descrip
                                          └── PONT_MOT_CLE ── DIM_MOT_CLE
 ```
 
-DDL complet : `entrepot/schema.sql` (SQL standard ; testé sous SQLite, compatible PostgreSQL). Les clés de substitution sont des entiers ; les clés naturelles sont conservées en `UNIQUE`.
+DDL complet : `entrepot/schema.sql`, pour **PostgreSQL**. Les clés de substitution sont des entiers ; les clés naturelles sont conservées en `UNIQUE`.
+
+**Pourquoi PostgreSQL ?**
+- C'est un vrai serveur de base de données, open source et gratuit.
+- Il vérifie les contraintes (`PRIMARY KEY`, `FOREIGN KEY`, `NOT NULL`) à chaque insertion.
+- Il propose les fonctions d'analyse multidimensionnelle `ROLLUP`, `CUBE` et `GROUPING SETS`. La requête Q1 s'en sert pour les sous-totaux par année.
+- Power BI s'y connecte directement, avec un connecteur natif.
 
 ## 6. Chargement
 
@@ -147,7 +173,7 @@ DDL complet : `entrepot/schema.sql` (SQL standard ; testé sous SQLite, compatib
    - calcul des mesures ;
    - normalisation des noms d'auteurs (sans accents, majuscules ni points) ;
    - choix du pays d'affiliation de chaque auteur (première affiliation qui a un pays).
-3. **Chargement** dans cet ordre : dimensions → faits → ponts, avec les clés étrangères actives.
+3. **Chargement** dans PostgreSQL avec `COPY`, dans cet ordre : dimensions → faits → ponts. Tout se fait dans **une seule transaction** : si une contrainte est violée (clé étrangère, type, valeur obligatoire), PostgreSQL annule tout et la base reste dans son état précédent.
 4. **Contrôles** (tous OK) :
    - 4 012 lignes de faits, une par article ;
    - PMID uniques ;
@@ -162,7 +188,7 @@ DDL complet : `entrepot/schema.sql` (SQL standard ; testé sous SQLite, compatib
 | dim_mesh | 3 951 | pont_mot_cle | 12 830 |
 | dim_mot_cle | 6 612 | pont_type_pub | 7 955 |
 | dim_revue | 1 075 | pont_financement | 1 387 |
-| dim_pays | 88 | dim_temps | 49 |
+| dim_pays | 88 | dim_temps | 1 893 |
 
 ## Limites et biais à connaître
 

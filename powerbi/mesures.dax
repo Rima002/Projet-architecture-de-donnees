@@ -1,7 +1,7 @@
 // =====================================================================
 // Mesures DAX de l'entrepôt PubMed
-// Créer une table vide "Mesures" (Accueil > Entrer des données > Charger),
-// puis pour chaque mesure : clic droit sur "Mesures" > Nouvelle mesure > coller.
+// Créer une table vide "Mesures" (Home > Enter data > Load),
+// puis pour chaque mesure : clic droit sur "Mesures" > New measure > coller.
 // =====================================================================
 
 // ---------- Volume

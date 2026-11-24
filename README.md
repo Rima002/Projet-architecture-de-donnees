@@ -38,7 +38,10 @@ DIM_TEMPS (2 rôles)   DIM_REVUE   DIM_LANGUE   DIM_STATUT   DIM_PAYS   DIM_ARTI
 
 ## Exécution
 
-Prérequis : Python 3.9 ou plus récent (testé avec Python 3.12). Aucune bibliothèque à installer.
+Prérequis :
+- Python 3.9 ou plus récent (testé avec Python 3.12) ;
+- PostgreSQL (testé avec PostgreSQL 18), avec le serveur démarré ;
+- le pilote PostgreSQL pour Python : `pip install -r requirements.txt`.
 
 Depuis la racine du dépôt :
 
@@ -49,11 +52,15 @@ python chargement.py
 python analyse.py
 ```
 
+`chargement.py` crée la base `entrepot_pubmed` si elle n'existe pas, puis recrée toutes ses tables. Au lancement, il demande le mot de passe de l'utilisateur PostgreSQL ; ce mot de passe n'est jamais enregistré.
+
+Par défaut, la connexion utilise `localhost:5432`, l'utilisateur `postgres` et la base `entrepot_pubmed`. Pour changer ces valeurs, définissez les variables d'environnement standard de PostgreSQL : `PGHOST`, `PGPORT`, `PGUSER`, `PGDATABASE` (et `PGPASSWORD` pour ne pas saisir le mot de passe).
+
 | Script | Rôle | Produit |
 |---|---|---|
 | `nettoyage.py` | Répare la structure XML, retire les articles sans PMID et les doublons | `pubmed_clean/`, `rapport_nettoyage.csv` |
 | `nettoyage_valeurs.py` | Harmonise les valeurs (casse, dates, pays), extrait le pays des affiliations, retire les e-mails | `pubmed_normalise/`, `rapport_valeurs.csv` |
-| `chargement.py` | Crée la base, charge les dimensions, les faits et les ponts, puis lance les contrôles | `entrepot/entrepot_pubmed.db`, `entrepot/csv/` |
+| `chargement.py` | Crée le schéma PostgreSQL, charge les dimensions, les faits et les ponts, puis lance les contrôles | base PostgreSQL `entrepot_pubmed`, `entrepot/csv/` |
 | `analyse.py` | Exécute les 12 requêtes d'analyse (`python analyse.py 5` pour une seule) | Affichage dans le terminal |
 
 Les fichiers source ne sont jamais modifiés. `pubmed_clean/` et `pubmed_normalise/` ne sont pas versionnés, car les deux premiers scripts les régénèrent.
@@ -64,15 +71,16 @@ Les fichiers source ne sont jamais modifiés. `pubmed_clean/` et `pubmed_normali
 pubmed doc/                 Fichiers XML source
 nettoyage.py                Étape 2 : structure
 nettoyage_valeurs.py        Étape 2 : valeurs
-chargement.py               Étape 6 : ETL
+chargement.py               Étape 6 : ETL vers PostgreSQL
+connexion.py                Paramètres de connexion à PostgreSQL
 analyse.py                  Exécution des requêtes d'analyse
+requirements.txt            Dépendance Python (pilote PostgreSQL)
 conception_entrepot.md      Étapes 1 à 6 : conception et justifications
 rapport_nettoyage.csv       Traitement appliqué à chaque fichier
 rapport_valeurs.csv         Journal des valeurs modifiées (avant / après)
 entrepot/
-    schema.sql              Schéma de l'entrepôt
+    schema.sql              Schéma de l'entrepôt (PostgreSQL)
     requetes_analyse.sql    12 requêtes d'analyse
-    entrepot_pubmed.db      Base SQLite chargée
     csv/                    Export de chaque table
     anomalies_chargement.txt
 powerbi/
@@ -81,7 +89,9 @@ powerbi/
     mesures.dax             Mesures DAX
 ```
 
-La base SQLite s'ouvre sans serveur. Le schéma est écrit en SQL standard, et les CSV permettent de charger les données dans un autre outil.
+L'entrepôt est stocké dans PostgreSQL. Les CSV sont une copie de chaque table, pour les outils qui ne se connectent pas à la base (Excel, par exemple).
+
+La dimension Temps suit la hiérarchie **jour → mois → année**. Quand PubMed ne donne que le mois ou que l'année d'une publication, l'article est rattaché à un membre « jour inconnu » ou « mois inconnu ». Les totaux par mois et par année restent donc exacts.
 
 ## Limites
 

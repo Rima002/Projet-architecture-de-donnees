@@ -1,16 +1,16 @@
 ﻿id_type_pub;libelle;categorie
 1;Journal Article;Recherche originale
-2;Editorial;Autre
-3;Comment;Autre
+2;Comment;Autre
+3;Editorial;Autre
 4;Research Support, Non-U.S. Gov't;Financement
-5;Observational Study;Recherche originale
-6;English Abstract;Autre
+5;English Abstract;Autre
+6;Observational Study;Recherche originale
 7;Review;Synthèse
-8;Research Support, U.S. Gov't, Non-P.H.S.;Financement
-9;Research Support, N.I.H., Extramural;Financement
+8;Research Support, N.I.H., Extramural;Financement
+9;Research Support, U.S. Gov't, Non-P.H.S.;Financement
 10;Multicenter Study;Recherche originale
-11;Research Support, N.I.H., Intramural;Financement
-12;Randomized Controlled Trial;Essai clinique
+11;Randomized Controlled Trial;Essai clinique
+12;Research Support, N.I.H., Intramural;Financement
 13;Research Support, U.S. Gov't, P.H.S.;Financement
 14;Letter;Autre
 15;Comparative Study;Recherche originale

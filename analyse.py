@@ -1,13 +1,14 @@
 """
-Exécute les requêtes de entrepot/requetes_analyse.sql et affiche les résultats.
+Exécute les requêtes de entrepot/requetes_analyse.sql sur la base PostgreSQL
+et affiche les résultats.
 
 Usage : python analyse.py [numéro]   ex. python analyse.py 5   (toutes par défaut)
 """
 import re
-import sqlite3
 import sys
 
-BASE = "entrepot/entrepot_pubmed.db"
+from connexion import connecter
+
 REQUETES = "entrepot/requetes_analyse.sql"
 
 
@@ -31,12 +32,15 @@ def afficher(cur):
 def main():
     sys.stdout.reconfigure(encoding="utf-8")
     choix = sys.argv[1:] and f"Q{sys.argv[1]}"
-    cx = sqlite3.connect(BASE)
-    for num, titre, sql in lire_requetes():
-        if choix and num != choix:
-            continue
-        print(f"\n=== {num} : {titre}")
-        afficher(cx.execute(sql))
+    cx = connecter()
+    with cx.cursor() as cur:
+        for num, titre, sql in lire_requetes():
+            if choix and num != choix:
+                continue
+            print(f"\n=== {num} : {titre}")
+            cur.execute(sql)
+            afficher(cur)
+    cx.close()
 
 
 if __name__ == "__main__":

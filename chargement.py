@@ -5,23 +5,24 @@ Usage : python chargement.py [dossier_source]
   par défaut : "pubmed_normalise" (sortie de nettoyage_valeurs.py)
 
 Produit :
-  entrepot/entrepot_pubmed.db   base SQLite (schéma : entrepot/schema.sql)
-  entrepot/csv/<table>.csv      export de chaque table (import dans un autre SGBD)
+  base PostgreSQL entrepot_pubmed (schéma : entrepot/schema.sql ; connexion : connexion.py)
+  entrepot/csv/<table>.csv      export de chaque table (Power BI, Excel…)
 
 Ordre : extraction des articles -> dimensions (clés de substitution)
         -> faits -> tables pont -> contrôles de cohérence.
 """
 import csv
 import datetime
+import io
 import os
-import sqlite3
 import sys
 import unicodedata
 import xml.etree.ElementTree as ET
 
+from connexion import BASE, connecter, creer_base_si_absente
+
 SRC = sys.argv[1] if len(sys.argv) > 1 else "pubmed_normalise"
 DOSSIER = "entrepot"
-BASE = os.path.join(DOSSIER, "entrepot_pubmed.db")
 INCONNU = "Inconnu"
 
 NOMS_MOIS = ["Janvier", "Février", "Mars", "Avril", "Mai", "Juin", "Juillet",
@@ -80,8 +81,36 @@ def normaliser(s):
     return " ".join(s.replace(".", " ").replace("-", " ").split())
 
 
-def id_temps(annee, mois):
-    return int(annee) * 100 + (int(mois) if mois else 0) if annee else 0
+def id_temps(annee, mois, jour):
+    """AAAAMMJJ ; un 00 marque une partie inconnue (AAAAMM00, AAAA0000) ; 0 = inconnu."""
+    if not annee:
+        return 0
+    mois = int(mois) if mois else 0
+    jour = int(jour) if jour and mois else 0
+    return int(annee) * 10000 + mois * 100 + jour
+
+
+def construire_dim_temps(cles):
+    """Calendrier complet (tous les jours des années utilisées), plus des membres
+    « jour inconnu » par mois et « mois inconnu » par année.
+    Hiérarchie : jour -> mois -> année."""
+    # colonnes : id_temps, jour (date complète), mois ('AAAA-MM'), annee,
+    #            libelle_jour, libelle_mois, niveau_precision
+    lignes = [(0, None, None, 0, "Date inconnue", "Date inconnue", "Inconnue")]
+    annees = sorted({k // 10000 for k in cles if k})
+    for a in annees:
+        lignes.append((a * 10000, None, None, a,
+                       f"{a} (date incomplète)", f"{a} (mois inconnu)", "Année"))
+        for m in range(1, 13):
+            mois, libelle = f"{a}-{m:02d}", f"{NOMS_MOIS[m - 1]} {a}"
+            lignes.append((a * 10000 + m * 100, None, mois, a,
+                           f"{libelle} (jour inconnu)", libelle, "Mois"))
+            d = datetime.date(a, m, 1)
+            while d.month == m:
+                lignes.append((a * 10000 + m * 100 + d.day, d, mois, a,
+                               d.strftime("%d/%m/%Y"), libelle, "Jour"))
+                d += datetime.timedelta(days=1)
+    return sorted(lignes)
 
 
 def date_de(e):
@@ -113,7 +142,7 @@ class Dimension:
 
 # ------------------------------------------------------------ extraction / transformation
 def transformer():
-    temps = {}
+    temps = set()
     dims = {n: Dimension() for n in ("revue", "langue", "statut", "auteur", "mesh",
                                      "qualificatif", "mot_cle", "type_pub", "financeur")}
     dims["pays"] = Dimension(inconnu=(INCONNU, INCONNU))
@@ -121,17 +150,17 @@ def transformer():
     ponts = {n: [] for n in ("auteur", "mesh", "mot_cle", "type_pub", "financement")}
     anomalies = []
 
-    def temps_cle(annee, mois):
-        k = id_temps(annee, mois)
-        if k not in temps:
-            if k == 0:
-                temps[k] = (0, None, None, None, INCONNU, INCONNU)
-            elif k % 100 == 0:
-                temps[k] = (k // 100, None, None, None, "Mois inconnu", f"{k // 100} (mois inconnu)")
-            else:
-                a, m = divmod(k, 100)
-                t = (m - 1) // 3 + 1
-                temps[k] = (a, 1 if m <= 6 else 2, t, m, NOMS_MOIS[m - 1], f"{a}-T{t}")
+    def temps_cle(e, f, pmid):
+        if e is None:
+            return 0
+        k = id_temps(e.findtext("Year"), e.findtext("Month"), e.findtext("Day"))
+        if k % 100:
+            try:
+                datetime.date(k // 10000, k // 100 % 100, k % 100)
+            except ValueError:  # ex. 31 avril : on garde le mois
+                anomalies.append(f"{f} PMID {pmid} : date invalide {k}, jour ignoré")
+                k -= k % 100
+        temps.add(k)
         return k
 
     fichiers = sorted(os.listdir(SRC), key=lambda f: int(f[:-4]) if f[:-4].isdigit() else f)
@@ -149,10 +178,9 @@ def transformer():
             articles.append((id_article, pmid, art.findtext("ArticleTitle"), doi, pmc, f))
 
             # --- temps (deux rôles : publication, création dans PubMed)
-            pd = art.find("Journal/JournalIssue/PubDate")
-            t_pub = temps_cle(pd.findtext("Year"), pd.findtext("Month"))
+            t_pub = temps_cle(art.find("Journal/JournalIssue/PubDate"), f, pmid)
             dc = mc.find("DateCreated")
-            t_cre = temps_cle(dc.findtext("Year"), dc.findtext("Month")) if dc is not None else 0
+            t_cre = temps_cle(dc, f, pmid)
 
             # --- revue
             j, mji = art.find("Journal"), mc.find("MedlineJournalInfo")
@@ -213,13 +241,14 @@ def transformer():
             nb_mesh = len({m for m, _ in lignes_mesh})
 
             # --- mots-clés
+            # sorted : ordre fixe, donc mêmes clés de substitution à chaque exécution
             mots = {k.text for k in mc.iter("Keyword") if k.text}
-            for m in mots:
+            for m in sorted(mots):
                 ponts["mot_cle"].append([id_article, dims["mot_cle"].cle(m, (m,)), 1 / len(mots)])
 
             # --- types de publication
             types = {t.text for t in art.iter("PublicationType") if t.text}
-            for t in types:
+            for t in sorted(types):
                 ponts["type_pub"].append([id_article, dims["type_pub"].cle(t, (t, categorie_type(t))),
                                           1 / len(types)])
 
@@ -241,8 +270,7 @@ def transformer():
                           sum(fin.values()), int(art.find("Abstract") is not None),
                           delai_acc, delai_idx))
 
-    dim_temps = [(k, *v) for k, v in sorted(temps.items())]
-    return dims, dim_temps, articles, faits, ponts, anomalies
+    return dims, construire_dim_temps(temps), articles, faits, ponts, anomalies
 
 
 def delai(debut, fin, f, pmid, nom, anomalies):
@@ -257,51 +285,69 @@ def delai(debut, fin, f, pmid, nom, anomalies):
 
 # ------------------------------------------------------------ chargement
 def charger(dims, dim_temps, articles, faits, ponts):
-    os.makedirs(DOSSIER, exist_ok=True)
-    if os.path.exists(BASE):
-        os.remove(BASE)
-    cx = sqlite3.connect(BASE)
-    cx.execute("PRAGMA foreign_keys = ON")
+    """Recrée le schéma puis charge les tables, dans une seule transaction :
+    en cas d'erreur (clé étrangère, type…), rien n'est chargé."""
+    creer_base_si_absente()
+    cx = connecter()
     with open(os.path.join(DOSSIER, "schema.sql"), encoding="utf-8") as fh:
-        cx.executescript(fh.read())
+        schema = fh.read()
 
-    def inserer(table, lignes):
-        if lignes:
-            cx.executemany(f"INSERT INTO {table} VALUES ({','.join('?' * len(lignes[0]))})", lignes)
+    def copier(cur, table, lignes):
+        tampon = io.StringIO()
+        csv.writer(tampon).writerows(lignes)  # None -> champ vide -> NULL
+        tampon.seek(0)
+        cur.copy_expert(f"COPY {table} FROM STDIN WITH (FORMAT csv)", tampon)
 
-    # dimensions d'abord, puis faits, puis ponts (contraintes de clés étrangères)
-    inserer("dim_temps", dim_temps)
-    for nom, d in dims.items():
-        inserer("dim_" + nom, d.rangs())
-    inserer("dim_article", articles)
-    inserer("fait_publication", faits)
-    for nom, lignes in ponts.items():
-        inserer("pont_" + nom, lignes)
-    cx.commit()
+    with cx, cx.cursor() as cur:
+        cur.execute(schema)
+        # dimensions d'abord, puis faits, puis ponts (contraintes de clés étrangères)
+        copier(cur, "dim_temps", dim_temps)
+        for nom, d in dims.items():
+            copier(cur, "dim_" + nom, d.rangs())
+        copier(cur, "dim_article", articles)
+        copier(cur, "fait_publication", faits)
+        for nom, lignes in ponts.items():
+            copier(cur, "pont_" + nom, lignes)
     return cx
+
+
+def tables_entrepot(cx):
+    with cx.cursor() as cur:
+        cur.execute("SELECT table_name FROM information_schema.tables "
+                    "WHERE table_schema = 'public' ORDER BY table_name")
+        return [r[0] for r in cur.fetchall()]
 
 
 def exporter_csv(cx):
     dossier = os.path.join(DOSSIER, "csv")
     os.makedirs(dossier, exist_ok=True)
-    tables = [r[0] for r in cx.execute("SELECT name FROM sqlite_master WHERE type='table' ORDER BY name")]
-    for t in tables:
-        cur = cx.execute(f"SELECT * FROM {t}")
-        with open(os.path.join(dossier, t + ".csv"), "w", newline="", encoding="utf-8-sig") as fh:
-            w = csv.writer(fh, delimiter=";")
-            w.writerow([c[0] for c in cur.description])
-            w.writerows(cur)
+    tables = tables_entrepot(cx)
+    with cx.cursor() as cur:
+        for t in tables:
+            # BOM UTF-8 : accents corrects à l'ouverture dans Excel
+            with open(os.path.join(dossier, t + ".csv"), "w", newline="", encoding="utf-8-sig") as fh:
+                cur.copy_expert(f"COPY (SELECT * FROM {t} ORDER BY 1) TO STDOUT "
+                                "WITH (FORMAT csv, HEADER, DELIMITER ';')", fh)
     return tables
 
 
 def controler(cx, nb_attendu):
-    q = lambda sql: cx.execute(sql).fetchone()[0]
+    def q(sql):
+        with cx.cursor() as cur:
+            cur.execute(sql)
+            return cur.fetchone()[0]
+
     controles = [
         ("1 ligne de faits par article", q("SELECT COUNT(*) FROM fait_publication") == nb_attendu),
         ("PMID uniques", q("SELECT COUNT(DISTINCT pmid) FROM dim_article") == nb_attendu),
-        ("intégrité référentielle", not cx.execute("PRAGMA foreign_key_check").fetchall()),
+        ("clés étrangères déclarées (vérifiées par PostgreSQL au chargement)",
+         q("SELECT COUNT(*) FROM information_schema.table_constraints "
+           "WHERE constraint_type = 'FOREIGN KEY'") > 0),
         ("nb_auteurs = lignes de pont_auteur",
          q("SELECT SUM(nb_auteurs) FROM fait_publication") == q("SELECT COUNT(*) FROM pont_auteur")),
+        ("chaque date de fait existe dans dim_temps (niveau jour, mois ou année)",
+         q("SELECT COUNT(*) FROM fait_publication f LEFT JOIN dim_temps t "
+           "ON t.id_temps = f.id_temps_publication WHERE t.id_temps IS NULL") == 0),
     ]
     for pont in ("auteur", "mesh", "mot_cle", "type_pub", "financement"):
         controles.append((f"somme des poids pont_{pont} = nb d'articles concernés", q(
@@ -315,9 +361,11 @@ def main():
     cx = charger(dims, dim_temps, articles, faits, ponts)
     tables = exporter_csv(cx)
 
-    print(f"Base : {BASE}")
-    for t in tables:
-        print(f"  {t:20} {cx.execute(f'SELECT COUNT(*) FROM {t}').fetchone()[0]:7} lignes")
+    print(f"Base PostgreSQL : {BASE}")
+    with cx.cursor() as cur:
+        for t in tables:
+            cur.execute(f"SELECT COUNT(*) FROM {t}")
+            print(f"  {t:20} {cur.fetchone()[0]:7} lignes")
     print("Contrôles :")
     for nom, ok in controler(cx, len(articles)):
         print(f"  [{'OK' if ok else 'ÉCHEC'}] {nom}")

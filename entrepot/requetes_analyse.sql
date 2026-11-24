@@ -1,21 +1,20 @@
 -- =====================================================================
--- Requêtes d'analyse de l'entrepôt PubMed (exploitation)
+-- Requêtes d'analyse de l'entrepôt PubMed (exploitation) - PostgreSQL
 -- Chaque requête répond à une question d'analyse ; "-- Q<n> :" sert de
 -- séparateur pour analyse.py.
 -- =====================================================================
 
--- Q1 : Évolution du nombre de publications par année (forage : année -> trimestre)
+-- Q1 : Publications par année puis par mois (hiérarchie temps : année -> mois -> jour)
+-- ROLLUP ajoute le sous-total de chaque année (ligne « Total année »).
 SELECT t.annee,
-       SUM(CASE WHEN t.trimestre = 1 THEN f.nb_publication ELSE 0 END) AS t1,
-       SUM(CASE WHEN t.trimestre = 2 THEN f.nb_publication ELSE 0 END) AS t2,
-       SUM(CASE WHEN t.trimestre = 3 THEN f.nb_publication ELSE 0 END) AS t3,
-       SUM(CASE WHEN t.trimestre = 4 THEN f.nb_publication ELSE 0 END) AS t4,
-       SUM(CASE WHEN t.trimestre IS NULL THEN f.nb_publication ELSE 0 END) AS mois_inconnu,
-       SUM(f.nb_publication) AS total
+       CASE WHEN GROUPING(t.mois) = 1 THEN 'Total année' ELSE MIN(t.libelle_mois) END AS mois,
+       SUM(f.nb_publication) AS publications,
+       SUM(CASE WHEN t.niveau_precision = 'Jour' THEN 1 ELSE 0 END) AS dont_jour_connu
 FROM fait_publication f
 JOIN dim_temps t ON t.id_temps = f.id_temps_publication
-GROUP BY t.annee
-ORDER BY t.annee;
+GROUP BY ROLLUP (t.annee, t.mois)
+HAVING GROUPING(t.annee) = 0
+ORDER BY t.annee, GROUPING(t.mois), t.mois NULLS FIRST;
 
 -- Q2 : Les 10 revues qui publient le plus (avec leur pays)
 SELECT r.titre, r.pays, SUM(f.nb_publication) AS publications,
@@ -71,10 +70,10 @@ SELECT CASE
        END AS population,
        COUNT(*) AS articles
 FROM (SELECT pm.id_article,
-             MAX(m.libelle = 'Humans') AS h,
-             MAX(m.libelle = 'Animals') AS a
+             MAX(CASE WHEN m.libelle = 'Humans' THEN 1 ELSE 0 END) AS h,
+             MAX(CASE WHEN m.libelle = 'Animals' THEN 1 ELSE 0 END) AS a
       FROM pont_mesh pm JOIN dim_mesh m ON m.id_mesh = pm.id_mesh
-      GROUP BY pm.id_article)
+      GROUP BY pm.id_article) AS par_article
 GROUP BY population
 ORDER BY articles DESC;
 
@@ -82,12 +81,12 @@ ORDER BY articles DESC;
 SELECT a.nom, a.prenom, COUNT(*) AS articles,
        SUM(pa.est_premier) AS premier_auteur,
        SUM(pa.est_dernier) AS dernier_auteur,
-       ROUND(SUM(pa.poids), 2) AS contribution_ponderee
+       ROUND(SUM(pa.poids)::numeric, 2) AS contribution_ponderee
 FROM pont_auteur pa
 JOIN dim_auteur a ON a.id_auteur = pa.id_auteur
 WHERE a.est_collectif = 0
 GROUP BY a.id_auteur
-ORDER BY articles DESC
+ORDER BY articles DESC, a.nom, a.prenom
 LIMIT 10;
 
 -- Q8 : Les financeurs les plus fréquents
@@ -101,8 +100,8 @@ LIMIT 10;
 
 -- Q9 : Collaboration internationale (affiliations dans plusieurs pays) par année
 SELECT t.annee, COUNT(*) AS articles,
-       SUM(f.nb_pays_affiliation > 1) AS internationaux,
-       ROUND(100.0 * SUM(f.nb_pays_affiliation > 1) / COUNT(*), 1) AS part_pct
+       COUNT(*) FILTER (WHERE f.nb_pays_affiliation > 1) AS internationaux,
+       ROUND(100.0 * COUNT(*) FILTER (WHERE f.nb_pays_affiliation > 1) / COUNT(*), 1) AS part_pct
 FROM fait_publication f
 JOIN dim_temps t ON t.id_temps = f.id_temps_publication
 WHERE t.annee BETWEEN 2013 AND 2016
@@ -118,13 +117,13 @@ JOIN dim_revue r ON r.id_revue = f.id_revue
 WHERE f.delai_acceptation_jours IS NOT NULL
 GROUP BY r.id_revue
 HAVING COUNT(f.delai_acceptation_jours) >= 15
-ORDER BY delai_moyen_jours;
+ORDER BY delai_moyen_jours, r.titre;
 
 -- Q11 : Catégories de publication : comptage simple et pondéré (piège des tables pont)
 SELECT tp.categorie,
        COUNT(*) AS liens_article_type,
        COUNT(DISTINCT pt.id_article) AS articles_distincts,
-       ROUND(SUM(pt.poids), 1) AS articles_ponderes
+       ROUND(SUM(pt.poids)::numeric, 1) AS articles_ponderes
 FROM pont_type_pub pt
 JOIN dim_type_pub tp ON tp.id_type_pub = pt.id_type_pub
 GROUP BY tp.categorie
